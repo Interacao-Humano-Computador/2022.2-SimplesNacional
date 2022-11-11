@@ -10,26 +10,26 @@
 
 ## Como Contribuir?
 
-* Leia o [Código de Conduta](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/Politicas/CODE_OF_CONDUCT/) do projeto;
-* Veja as [Políticas](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/Politicas/BRANCH/) do projeto.
+* Leia o [Código de Conduta](https://interacao-humano-computador.github.io/2022.2-Grupo3-IHC/Politicas/CONTRIBUTING/) do projeto.
+* Veja as [Políticas](https://interacao-humano-computador.github.io/2022.2-Grupo3-IHC/Politicas/BRANCH/) do projeto.
 
 ### Reportando um Bug
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues) relacionada a essa modificação.
 
-* Caso o bug não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto;;
+* Caso o bug não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto.
 
-* Submeta um [_Pull Request_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/pulls) seguindo o padrão do projeto;
+* Submeta um [_Pull Request_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/pulls) seguindo o padrão do projeto.
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
 ### Adicionando e/ou alterando alguma Funcionalidade
 
-* Verifique se não há nenhuma [_Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues) relacionada a essa modificação;
+* Verifique se não há nenhuma [_Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues) relacionada a essa modificação.
 
-* Caso a funcionalidade não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto;
+* Caso a funcionalidade não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto.
 
-* Submeta um [_Pull Request_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/pulls) seguindo o padrão do projeto;
+* Submeta um [_Pull Request_](https://github.com/Interacao-Humano-Computador/2022.2-Grupo3-IHC/pulls) seguindo o padrão do projeto.
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
