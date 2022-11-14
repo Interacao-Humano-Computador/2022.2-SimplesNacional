@@ -8,7 +8,8 @@ hide:
 
 |Data|Versão|Descrição|Autor|CoAutor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|29/07/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
+|14/09/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
+|14/09/2022|1.1|Adição de imagens e descrições| |[Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
 
 ## Ferramentas
 
