@@ -11,7 +11,7 @@
 
 ## Ferramentas
 
-Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utiliziadas no auxilio da criação e edição do presente trabalho seja para a existência ou apresentação das tarefas realizadas pela equipe.
+Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utiliziadas no auxilio da criação e edição do presente trabalho seja para a existência ou apresentação das tarefas realizadas pela equipe, como pode ser observado na tabela 1.
 
 
 |Logo|Descrição|
