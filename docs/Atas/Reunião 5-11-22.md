@@ -4,12 +4,12 @@
 
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|22/11/2022|1.0|Criação da ata de reunião 5/11/2022| [Arthur Taylor](https://github.com/Eruel6)| - |
+|22/11/2022|1.0|Criação da ata de reunião 5/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
 
 
 ## Local e horário
 
-A reunião foi realizada de forma remota, utilizando a prataforma Microsoft Teams, teve início às 16:15h.
+A reunião foi realizada de forma remota com início às 16:15h, utilizando a prataforma Microsoft Teams.
 
 ## Presentes
 
@@ -21,7 +21,10 @@ A reunião foi realizada de forma remota, utilizando a prataforma Microsoft Team
 
 ## Objetivo
 
-Primeira reunião com a equipe, reunião com intuito de decidir de fato plataformas a serem utilizadas, horário das reuniões e metodologias a serem adotadas.
+Primeira reunião com a equipe. O objetivo era decidir de fato plataformas a serem utilizadas, horário das reuniões e metodologias a serem adotadas.
+
+## Gravação
+Clique [aqui]() para ser redirecionado ao YouTube.
 
 ## Conclusão
 
