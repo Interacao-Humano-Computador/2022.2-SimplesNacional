@@ -4,7 +4,8 @@
 
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|1.0|Criação do Documento de Metodologia| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|20/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|22/11/2022|1.1|Atribuição das tarefas| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 
 
 ## Roadmap planejado
@@ -17,3 +18,26 @@ que o limite para possibilitar possíveis revisões e alterações nos artefatos
 
 
 *Este roadmap é uma versão inicial e pode sofrer alterações*
+
+| Tarefa | Responsáveis | Entrega |
+| --- | --- | --- |
+| Lista de sites avaliados | Ana e Pedro | Entrega 1 |
+| Discorrer sobre o site selecionado | Ana e Pedro | Entrega 1 |
+| Planejamento do projeto | Arthur, Eduardo e Thiago | Entrega 1 |
+| Cronogrma de atividades | Arthur e Thiago | Entrega 1 |
+| Processo de Design | João e Eduardo | Entrega 1 |
+| Traçar perfil de usuários e personas | Ana e Arthur | Entrega 2 |
+| Análise de tarefas | João e Thiago | Entrega 2 |
+| Mapear possibilidades e limitações | Pedro e Eduardo | Entrega 2 |
+| Princípios gerais do projeto | Ana e Thiago | Entrega 3 |
+| Guia de estilo | Arthur e Eduardo | Entrega 3 |
+| Meta de usabilidade | Pedro e João | Entrega 3 |
+| Storyboard | Pedro e Thiago | Entrega 4 |
+| Análise de tarefas | João e Arthur | Entrega 4 |
+| Relatos dos resultados da avaliação do storyboard | Pedro e Ana | Entrega 4 |
+| Definir os objetivos do usuário | Ana, Thiago e Arthur | Entrega 5 |
+| Protótipo de baixa fidelidade | João, Pedro e Eduardo | Entrega 5 |
+| Definir os padrões de design de interface | Pedro, Thiago e Eduardo| Entrega 6 |
+| Protótipos dos designs de interface | João, Ana e Arthur | Entrega 6 |
+|Protótipo de alta fidelidade | Ana, Arthur, Eduardo e Thiago | Entrega 7 |
+| Coleta de opinião dos usuários e melhorias de IHC | Pedro e João  | Entrega 7 |
