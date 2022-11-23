@@ -22,12 +22,22 @@ O responsável por essa pesquisa foi o Pedro Lucas. E os seguintes problemas for
 * Demora para atendimento com uma pessoa
 * Necessidade de realizar download de um configurador de sistema
 
+Planejamento: [Planejamento Individual - Pedro Lucas](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075960/ProjetoParteIndividualMetodoeAvalicaoPedroLucasSiqueiraFernandes.1.pdf)
+
+
 ## Portal Cidadania da Paraíba
 
 
 O Portal da Cidadania do Governo da Paraíba é um web site que visa facilitar a vida do cidadão que precisa dos serviços e informações da administração pública do Estado da Paraíba. O Portal da Cidadania é fruto de uma parceria entre a CODATA - Companhia de Processamento de Dados do Estado e de vários órgãos e instituições públicas.
 
-O responsável por essa pesquisa foi o Eduardo.
+O responsável por essa pesquisa foi o Eduardo. Segue alguns pontos analisados:
+
+* Problemas de leitura no modo escuro
+* Ausência do menu ao acessar uma opção do menu principal
+*  O botão de “previsão do tempo” não funciona ao acessar o menu “meio ambiente”
+
+Planejamento: [Planejamento Individual - Eduardo](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075955/ihc.pdf)
+
 
 ## O Portal do Governo do Amapá
 
@@ -44,4 +54,16 @@ Porém ao realizar a análise do portal, podemos ver alguns problemas, como a fa
 
 Planejamento: [Planejamento Individual - Thiago](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10072584/ProjetoParteIndividualMetodoeAvalicaoThiagoOliveraCunha.pdf)
 
+## STF
+
+O site do STF tem como proposta disponibilizar acesso às pautas de julgamentos, agenda de processos, ministros e presidente, fornecer informações confiáveis sobre o que acontece no tribunal, propor conhecimento sobre legislações e divulgar pesquisas relacionadas às áreas de atuação do tribunal, além de permitir a marcação de visitas ao STF.
+
+O responsável por essa pesquisa foi o Eduardo. Segue alguns pontos analisados:
+
+* Não é requerido revisar os dados para confirmação após clicar em reservar e não há opção de cancelar, reagendar ou desmarcar
+* Interface com páginas mal formatadas, menu com opções grudadas umas nas outras e setas que se confundem entre as opções do menu.
+
+Pode-se dizer que o STF possui um site que fornece boa experiência ao usuário, visto que boa parte das heurísticas de Nielsen são devidamente seguidas. Conclui-se também que os problemas do site são pontuais e favorecem a ocorrência de erros por parte do usuário, tornando a experiência cansativa e, às vezes, frustrante, mas não impossibilitada.
+
+Planejamento: [Planejamento Individual - Ana Hoffmann](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075987/PlojetoParteIndividualMetodoeAvaliacaoAnaLuizaHoffmannFerreira.pdf)
 
