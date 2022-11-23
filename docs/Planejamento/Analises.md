@@ -72,6 +72,21 @@ Pode-se dizer que o STF possui um site que fornece boa experiência ao usuário,
 Planejamento: [Planejamento Individual - Ana](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075987/PlojetoParteIndividualMetodoeAvaliacaoAnaLuizaHoffmannFerreira.pdf)<br>
 Acesso ao [site](https://portal.stf.jus.br/).
 
+## Detran
+
+O site analisado foi o portal do detran-df, sendo utilizado principalmente por condutores que transitam na capital federal, fornecendo acesso facilitado a serviços como consulta de infrações, consulta da Carteira nacional de habilitação, solicitação da permissão de estacionamento para idosos e auto identificação de infrator.
+
+O responsável por essa pesquisa foi o Arthur. Segue alguns pontos analisados:
+
+* A necessidade de fazer login para obtenção das informações do site, adicionando uma dificuldade a mais no processo de obtenção das mesmas
+* Alguns serviços que necessitem de login aparecem disponíveis mesmo com o usuário não estando logado, e a mensagem de erro aparece apenas no final da página de forma "escondida" do usuário que não realizar a rolagem da página até o final.
+
+O site cumpre com seus serviços que propõe, apesar de que por alguma vezes possa ser difícil e frustrante para o usuário utiliza-lo pela primeira vez, já que necessita de uma conta para realizar login e obter a maioria das informações, e a mensagem de necessidade de login não aparece de forma clara, podendo fazer o usuário gastar mais tempo que o necessário para obtenção da informação desejada
+
+Planejamento: [Planejamento Individual - Arthur](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10078125/Arthur.pdf)
+Acesso ao [site](https://portal.detran.df.gov.br/#/home).
+
+
 ## Conclusão
 As avaliações realizadas acima seguem os critérios propostos por Nielsen [2]. Esses critérios foram propostos nas dez heurísticas e sua aplicação na avaliação dos sites escolhidos se conclui em um ponto: todos os sites citados possuem pontos a serem alterados para melhorar sua usabilidade.
 
