@@ -5,10 +5,10 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: |
 |22/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)|[Ana](https://github.com/AnHoff)
 |23/11/2022|1.1|Adiciona bibliografia, links e conclusão|[Ana](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
-|23/11/2022|1.2|Adiciona Simples Nacional e Detran|[Pedro Lucas](https://github.com/PedroLSF)| A Definir
+|23/11/2022|1.2|Adiciona Simples Nacional e Detran|[Pedro Lucas](https://github.com/PedroLSF)| [Ana](https://github.com/AnHoff)
 
 Antes de definir o site conhecido como Simples Nacional, a equipe realizou algumas pesquisas e trabalhos relacionados a outros sites. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
-Caso queira ir diretamente às informações específicas do Simples Nacioanl, clique [aqui]().
+Caso queira ir diretamente às informações específicas do Simples Nacional, use o menu à lateral direita.
 
 ## Caixa
 A Caixa Econômica Federal, também conhecida como Caixa, é uma instituição financeira brasileira, sob a forma de empresa pública, com patrimônio próprio e autonomia administrativa com sede em Brasília, no Distrito Federal, e com filiais em todo o território nacional. É vinculada ao Ministério da Economia. Sabendo disso todos que abriram uma conta na caixa pode utilizar de seus serviços.
