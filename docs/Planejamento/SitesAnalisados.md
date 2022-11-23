@@ -58,7 +58,7 @@ Planejamento: [Planejamento Individual - Thiago](https://github.com/Interacao-Hu
 
 O site do STF tem como proposta disponibilizar acesso às pautas de julgamentos, agenda de processos, ministros e presidente, fornecer informações confiáveis sobre o que acontece no tribunal, propor conhecimento sobre legislações e divulgar pesquisas relacionadas às áreas de atuação do tribunal, além de permitir a marcação de visitas ao STF.
 
-O responsável por essa pesquisa foi o Eduardo. Segue alguns pontos analisados:
+O responsável por essa pesquisa foi a Ana Hoffmann. Segue alguns pontos analisados:
 
 * Não é requerido revisar os dados para confirmação após clicar em reservar e não há opção de cancelar, reagendar ou desmarcar
 * Interface com páginas mal formatadas, menu com opções grudadas umas nas outras e setas que se confundem entre as opções do menu.
