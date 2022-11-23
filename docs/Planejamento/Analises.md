@@ -74,23 +74,23 @@ Acesso ao [site](https://portal.stf.jus.br/).
 
 ## Detran
 
-O site analisado foi o portal do detran-df, sendo utilizado principalmente por condutores que transitam na capital federal, fornecendo acesso facilitado a serviços como consulta de infrações, consulta da Carteira nacional de habilitação, solicitação da permissão de estacionamento para idosos e auto identificação de infrator.
+O site analisado foi o portal do Detran-DF, utilizado principalmente por condutores que transitam na capital federal, fornecendo acesso facilitado a serviços como consulta de infrações, consulta da Carteira Nacional de Habilitação, solicitação da permissão de estacionamento para idosos e auto-identificação de infrator.
 
-O responsável por essa pesquisa foi o Arthur. Segue alguns pontos analisados:
+O responsável por essa pesquisa foi o Arthur. Seguem alguns pontos analisados:
 
-* A necessidade de fazer login para obtenção das informações do site, adicionando uma dificuldade a mais no processo de obtenção das mesmas
-* Alguns serviços que necessitem de login aparecem disponíveis mesmo com o usuário não estando logado, e a mensagem de erro aparece apenas no final da página de forma "escondida" do usuário que não realizar a rolagem da página até o final.
+* A necessidade de fazer login para obtenção das informações do site, adicionando uma dificuldade a mais no processo de obtenção das mesmas;
+* Alguns serviços que necessitam de login aparecem disponíveis mesmo com o usuário não estando logado, e a mensagem de erro aparece apenas no final da página, sendo portanto "escondida" do usuário que não realizar a rolagem da página até o final.
 
-O site cumpre com seus serviços que propõe, apesar de que por alguma vezes possa ser difícil e frustrante para o usuário utiliza-lo pela primeira vez, já que necessita de uma conta para realizar login e obter a maioria das informações, e a mensagem de necessidade de login não aparece de forma clara, podendo fazer o usuário gastar mais tempo que o necessário para obtenção da informação desejada
+O site cumpre com os serviços que propõe, apesar de que, excepcionalmente, possa ser difícil e frustrante para o usuário utilizá-lo pela primeira vez, visto que necessita de uma conta para realizar login e obter a maioria das informações e a mensagem de necessidade de login não aparece de forma clara. Esses fatores fazem o usuário gastar mais tempo que o necessário para obtenção da informação desejada.
 
-Planejamento: [Planejamento Individual - Arthur](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10078125/Arthur.pdf)
+Planejamento: [Planejamento Individual - Arthur](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10078125/Arthur.pdf)<br>
 Acesso ao [site](https://portal.detran.df.gov.br/#/home).
 
 ## Simples Nacional
 
-O Simples Nacional é um regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às Microempresas e Empresas de Pequeno Porte, previsto na Lei Complementar nº 123, de 14 de dezembro de 2006. Abrange a participação de todos os entes federados (União, Estados, Distrito Federal e Municípios).
+O Simples Nacional é um regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às Microempresas e Empresas de Pequeno Porte, previsto na Lei Complementar nº 123, de 14 de dezembro de 2006. Ele abrange a participação de todos os entes federados (União, Estados, Distrito Federal e Municípios).
 
-Para o ingresso no Simples Nacional é necessário o cumprimento das seguintes condições:
+Para ingressar no Simples Nacional, é necessário cumprir as seguintes condições:
 
 * Enquadrar-se na definição de microempresa ou de empresa de pequeno porte;
 * Cumprir os requisitos previstos na legislação; 
@@ -106,22 +106,22 @@ Características principais do Regime do Simples Nacional:
 * Prazo para recolhimento do DAS até o dia 20 do mês subsequente àquele em que houver sido auferida a receita bruta;
 * Possibilidade de os Estados adotarem sublimites para EPP em função da respectiva participação no PIB. Os estabelecimentos localizados nesses Estados cuja receita bruta total extrapolar o respectivo sublimite deverão recolher o ICMS e o ISS diretamente ao Estado ou ao Município.
 
-O responsável por essa pesquisa foi o João Lucas. Segue alguns pontos analisados:
+O responsável por essa pesquisa foi o João Lucas. Seguem alguns pontos analisados:
 
-* Dificuldade na tela inicial para encontrar as principais funções
-* Simplicidade exacerbada (O que não está facilitando o contato do usuário a achar o que deseja)
+* Dificuldade na tela inicial para encontrar as principais funções;
+* Simplicidade exacerbada, que não facilita para o usuário achar o que deseja.
 
-Após a análise do site Simples nacional, concluísse que o principal problema do site é o seu excesso de simplicidade, o qual pode torna-lo inviável para alguns usuários, além de algumas tarefas não serem muito bem esclarecidas no site e como acessa-las, além da falta de independência do usuário com o próprio Sebrae devido ao código de acesso que é requisitado em todas as tarefas e o mesmo só pode ser criado por um administrador do sistema. Assim como a sua dependência de muitos sites externos, em quase todas suas funções o Simples Nacional redireciona o usuário para outros sites mostrando assim o quão realmente simples ele é.
+Planejamento: [Planejamento Individual - João Lucas](https://github.com/Interacao-Humano-Computador/2022.2SimplesNacional/files/10078239/PlojetoParteIndividualMetodoeAvalicaoJoaoLucasPintoVasconcelos.pdf)<br>
+Acesso ao [site](http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx).
 
-Planejamento: [Planejamento Individual - João Lucas](https://github.com/Interacao-Humano-Computador/2022.2SimplesNacional/files/10078239/PlojetoParteIndividualMetodoeAvalicaoJoaoLucasPintoVasconcelos.pdf)
-
-Acesso ao [site](http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx)
 ## Conclusão
 As avaliações realizadas acima seguem os critérios propostos por Nielsen [2]. Esses critérios foram propostos nas dez heurísticas e sua aplicação na avaliação dos sites escolhidos se conclui em um ponto: todos os sites citados possuem pontos a serem alterados para melhorar sua usabilidade.
 
 O maior requisito para escolher o site para o projeto foi a pergunta: é possível entrar facilmente em contato com usuários desse sistema? Por isso, apesar de todos possuírem bons pontos a serem explorados, o site escolhido para o projeto foi o Simples Nacional.
 
-O site possui certas dificuldades de interação humano computador que serão abordadas ao longo do projeto e, à medida que o grupo se aprofundar no uso do site em busca de problemas, há grande possibilidade de mais obstáculos de interação serem encontrados.
+Após analisar o site Simples nacional, conclui-se que seu principal problema é o excesso de simplicidade, que pode tornar o uso do sistema inviável para alguns usuários. Além disso, algumas tarefas não são muito bem esclarecidas no site e também não está claro como acessá-las, há falta de independência do usuário com o próprio Sebrae devido ao código de acesso, requisitado em todas as tarefas, e que só pode ser criado por um administrador do sistema. Por fim, o Simples Nacional é dependente de muitos sites externos, e em um grande número de tarefas acaba redirecionando o usuário para outros sites; isso mostra o quão simplificado e/ou incompleto ele é.
+
+As dificuldades de interação humano computador relacionadas ao Simples Nacional serão abordadas ao longo do projeto e, à medida que o grupo se aprofundar no uso do sistema em busca de problemas, há grande possibilidade de mais obstáculos de interação serem encontrados.
 
 ## Bibliografia
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010<br>
