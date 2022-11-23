@@ -1,9 +1,9 @@
 # Politica de Pull Request
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
+|Data|Versão|Descrição|Autor|
+| :----------: | :------: | :-----------: | :---------: |
+|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
 
 ## Criação de _Pull Request_
 

@@ -1,10 +1,10 @@
 ---
 hide:
   - navigation
-
 ---
-<center>
+# Apresentação
 
+<center>
 <h1 align="center">
 Simples Nacional
 </h1>
@@ -29,4 +29,8 @@ Este repositório destina-se à matéria de Requisitos de Software da Universida
 | <img width='100'  src='assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
 
 
+## Histórico de Versão
+|Data|Versão|Descrição|Autor|
+| :----------: | :------: | :-----------: | :---------: |
+|20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|
 </center>
