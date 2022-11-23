@@ -42,3 +42,6 @@ O escopo analisado do portal foi limitado a tudo disponível na página inicial 
 • Curiosidades e locais turísticos do amapá 
 Porém ao realizar a análise do portal, podemos ver alguns problemas, como a falta de suporte de qualquer tipo ao usuário, seja por chat ao vivo, número de telefone ou endereço de e-mail, ou seja, caso o usuário tenha alguma dúvida não tem para quem recorrer, barra de pesquisa que faz busca apenas para notícias, ignorando os serviços, programas e curiosidades presentes no site e baixa quantidade de serviços disponíveis, tanto para os cidadãos quanto para as empresas e servidores, no caso das empresas e servidores nem todos os serviços estão disponíveis na aba de serviços, estando alguns deles no rodapé da página, de difícil visualização e compreensão pelo usuário.
 
+Planejamento: [ProjetoParteIndividualMetodoeAvaliçãoThiagoOliveraCunha.pdf](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10072584/ProjetoParteIndividualMetodoeAvalicaoThiagoOliveraCunha.pdf)
+
+
