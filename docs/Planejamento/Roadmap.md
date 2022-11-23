@@ -14,11 +14,7 @@
 O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do projeto, sendo que as datas possuem em geral um prazo um pouco menor 
 que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
-<img src='../../assets/images/RoadmapIHC.jpg' width="1000" height="500"></img>
-
-
-
-*Este roadmap é uma versão inicial e pode sofrer alterações*
+<img src='https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/Mk-docs/docs/assets/images/IHC%20Roadmap.png' width="1000" height="500"></img>
 
 | Tarefa | Responsáveis | Entrega |
 | --- | --- | --- |
