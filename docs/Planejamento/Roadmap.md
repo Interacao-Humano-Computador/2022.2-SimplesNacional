@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |20/11/2022| 21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |22/11/2022| 23/11/2022|1.1|Atribuição das tarefas| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, Adição das Referências Utilizadas|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
+|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, Adição das Referências Utilizadas, Adição de novo Roadmap|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
 
 
 ## Roadmap planejado
