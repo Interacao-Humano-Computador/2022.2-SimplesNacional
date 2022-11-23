@@ -86,7 +86,36 @@ O site cumpre com seus serviços que propõe, apesar de que por alguma vezes pos
 Planejamento: [Planejamento Individual - Arthur](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10078125/Arthur.pdf)
 Acesso ao [site](https://portal.detran.df.gov.br/#/home).
 
+## Simples Nacional
 
+O Simples Nacional é um regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às Microempresas e Empresas de Pequeno Porte, previsto na Lei Complementar nº 123, de 14 de dezembro de 2006. Abrange a participação de todos os entes federados (União, Estados, Distrito Federal e Municípios).
+
+Para o ingresso no Simples Nacional é necessário o cumprimento das seguintes condições:
+
+* Enquadrar-se na definição de microempresa ou de empresa de pequeno porte;
+* Cumprir os requisitos previstos na legislação; 
+* Formalizar a opção pelo Simples Nacional.
+
+Características principais do Regime do Simples Nacional:
+
+* Ser facultativo;
+* Ser irretratável para todo o ano-calendário;
+* Abrange os seguintes tributos: IRPJ, CSLL, PIS/Pasep, Cofins, IPI, ICMS, ISS e a Contribuição para a Seguridade Social destinada à Previdência Social a cargo da pessoa jurídica (CPP);
+* Recolhimento dos tributos abrangidos mediante documento único de arrecadação - DAS; disponibilização às ME/EPP de sistema eletrônico para a realização do cálculo do valor mensal devido, geração do DAS e, a partir de janeiro de 2012, para constituição do crédito tributário;
+* Apresentação de declaração única e simplificada de informações socioeconômicas e fiscais;
+* Prazo para recolhimento do DAS até o dia 20 do mês subsequente àquele em que houver sido auferida a receita bruta;
+* Possibilidade de os Estados adotarem sublimites para EPP em função da respectiva participação no PIB. Os estabelecimentos localizados nesses Estados cuja receita bruta total extrapolar o respectivo sublimite deverão recolher o ICMS e o ISS diretamente ao Estado ou ao Município.
+
+O responsável por essa pesquisa foi o João Lucas. Segue alguns pontos analisados:
+
+* Dificuldade na tela inicial para encontrar as principais funções
+* Simplicidade exacerbada (O que não está facilitando o contato do usuário a achar o que deseja)
+
+Após a análise do site Simples nacional, concluísse que o principal problema do site é o seu excesso de simplicidade, o qual pode torna-lo inviável para alguns usuários, além de algumas tarefas não serem muito bem esclarecidas no site e como acessa-las, além da falta de independência do usuário com o próprio Sebrae devido ao código de acesso que é requisitado em todas as tarefas e o mesmo só pode ser criado por um administrador do sistema. Assim como a sua dependência de muitos sites externos, em quase todas suas funções o Simples Nacional redireciona o usuário para outros sites mostrando assim o quão realmente simples ele é.
+
+Planejamento: [Planejamento Individual - João Lucas](https://github.com/Interacao-Humano-Computador/2022.2SimplesNacional/files/10078239/PlojetoParteIndividualMetodoeAvalicaoJoaoLucasPintoVasconcelos.pdf)
+
+Acesso ao [site](http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx)
 ## Conclusão
 As avaliações realizadas acima seguem os critérios propostos por Nielsen [2]. Esses critérios foram propostos nas dez heurísticas e sua aplicação na avaliação dos sites escolhidos se conclui em um ponto: todos os sites citados possuem pontos a serem alterados para melhorar sua usabilidade.
 
