@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |20/11/2022| 21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |22/11/2022| 23/11/2022|1.1|Atribuição das tarefas| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
+|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, Adição das Referências Utilizadas|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
 
 
 ## Roadmap planejado
@@ -42,3 +42,7 @@ que o limite para possibilitar possíveis revisões e alterações nos artefatos
 | Protótipos dos designs de interface | João, Ana e Arthur | Entrega 6 |
 |Protótipo de alta fidelidade | Ana, Arthur, Eduardo e Thiago | Entrega 7 |
 | Coleta de opinião dos usuários e melhorias de IHC | Pedro e João  | Entrega 7 |
+
+## Referências
+- BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
+- Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022
