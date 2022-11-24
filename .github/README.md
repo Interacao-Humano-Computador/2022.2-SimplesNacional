@@ -21,6 +21,6 @@ Este repositório será para aprofundarmos e trabalharmos os conhecimentos com r
 
   |Conteúdo|Playlist com os videos| 
   |----|------|
-  |Planejamento||
+  |Planejamento|https://youtu.be/fPk5NnAmyGs|
 
 
