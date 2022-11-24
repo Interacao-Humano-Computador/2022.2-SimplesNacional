@@ -84,3 +84,5 @@ Terceira etapa a ser realizada, aqui iremos tocar nos feedbacks do usuário  ap�
     - Detectar oportunidades para melhoria de novas versões do produto e elaborar requisitos para novos produtos similares.
 
 ## Motivo de escolha
+
+Dos modelos existentes, o ciclo Mayhew foi considerado o mais adequado para o nosso projeto, pois seus artefatos são mais complexos e completos, e o grupo acredita que será idealpara uso na disciplina de interação humano-computador. Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizados para complementar alguns processos de projeto e, se for o caso, isso será devidamente documentado.
