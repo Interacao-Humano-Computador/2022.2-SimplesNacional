@@ -1,10 +1,10 @@
 ---
 hide:
   - navigation
-
 ---
-<center>
+# Apresentação
 
+<center>
 <h1 align="center">
 Simples Nacional
 </h1>
@@ -14,7 +14,7 @@ Simples Nacional
 </p> 
 
 ## Sobre o projeto
-Este repositório destina-se à matéria de Requisitos de Software da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
+Este repositório destina-se à matéria de Interface Humano Computador da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
 
 
 ## Equipe
@@ -29,4 +29,8 @@ Este repositório destina-se à matéria de Requisitos de Software da Universida
 | <img width='100'  src='assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
 
 
+## Histórico de Versão
+|Data|Versão|Descrição|Autor|
+| :----------: | :------: | :-----------: | :---------: |
+|20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|
 </center>

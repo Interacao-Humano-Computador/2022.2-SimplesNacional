@@ -3,8 +3,8 @@
 ## Histórico de Versão
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff)
-|23/09/2022|1.1|Ajustes nos exemplos de commits| [Ana Luiza](https://github.com/AnHoff) | [Joao Lucas](https://github.com/HacKairos)|
+|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff)
+|23/11/2022|1.1|Ajustes nos exemplos de commits| [Ana Luiza](https://github.com/AnHoff) | [Joao Lucas](https://github.com/HacKairos)|
 
 ## Criação de _commits_
 
