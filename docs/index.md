@@ -14,7 +14,7 @@ Simples Nacional
 </p> 
 
 ## Sobre o projeto
-Este repositório destina-se à matéria de Interface Humano Computador da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
+Este repositório destina-se à matéria de Interação Humano Computador da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
 
 
 ## Equipe
