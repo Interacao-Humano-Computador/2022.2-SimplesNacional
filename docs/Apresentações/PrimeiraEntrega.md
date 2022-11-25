@@ -22,4 +22,4 @@ A reunião foi realizada de forma remota com início às 22:00h, utilizando a pr
 - Thiago Oliveira
 
 ## Gravação
-[Primeira Entrega](https://youtu.be/OSfZTHsXr14)
+[Primeira Entrega](https://youtu.be/fPk5NnAmyGs)
