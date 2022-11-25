@@ -1,10 +1,5 @@
 # Politica de Issue
 
-## Histórico de Versão
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
-
 ## Criação de _issues_
 
 As _issues_ devem seguir o seguinte padrão:

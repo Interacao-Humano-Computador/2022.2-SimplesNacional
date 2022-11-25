@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-# Apresentação
+# Projeto
 
 <center>
 <h1 align="center">
