@@ -1,20 +1,29 @@
-# Simples Nacional
+<center>
+<h1 align="center">
+Simples Nacional
+</h1>
 
- ##  💻 Visão Geral
- 
-Este repositório será para aprofundarmos e trabalharmos os conhecimentos com relação a matéria Interaçao Humano Computador da faculdade do Gama (FGA).
+ <p align="center">
+  <img src="/docs/assets/images/favicon.png" alt="SimplesNacional" width="10%" />
+</p> 
 
-## 👨‍💻 Desenvolvedores
+## Sobre o projeto
+Este repositório destina-se à matéria de Interação Humano Computador da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
 
-## Equipe:
-| Nome            | GitHub      | E-mail       | 
-|-----------------|-------------|-------------|
-| Ana Luiza Hoffmann Ferreira | AnHoff | ana.hoffmann@aluno.unb.br |
-| Arthur Taylor de Jesus Popov | Eruel6 | arthur.popov@aluno.unb.br |
-| Eduardo Schuindt Santos | edudsan | eduardo.schuindt@aluno.unb.br |
-| Joao Lucas Pinto Vasconcelos | Hackairos | vasconcelos.joao@aluno.unb.br |
-| Pedro Lucas Siqueira Fernandes | PedroLSF | fernandes.siqueira@aluno.unb.br |
-| Thiago Oliveira Cunha | Thiab394| thiago.cunha@aluno.unb.br |
+
+## Equipe
+Apresentação da equipe na Tabela 1 :
+
+|Foto | Nome| GitHub| E-mail| 
+|:-----:|:-----:|:-----:|:-----:|
+| <img width='100'  src='/docs/assets/fotoEquipe/ana.jpeg'> | Ana Luiza Hoffmann Ferreira | [AnHoff](https://github.com/AnHoff) | ana.hoffmann@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/arthur.jpeg'> | Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/eduardo.jpg'> | Eduardo Schuindt Santos | [edudsan](https://github.com/edudsan) | eduardo.schuindt@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | [Hackairos](https://github.com/HacKairos) | vasconcelos.joao@aluno.unb.br 
+| <img width='100'  src='/docs/assets/fotoEquipe/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | [PedroLSF](https://github.com/PedroLSF) | fernandes.siqueira@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
+
+*Tabela 1 - Equipe*
 
 
 ## Apresentações
@@ -23,4 +32,4 @@ Este repositório será para aprofundarmos e trabalharmos os conhecimentos com r
   |----|------|
   |Planejamento|https://youtu.be/fPk5NnAmyGs|
 
-
+</center>
