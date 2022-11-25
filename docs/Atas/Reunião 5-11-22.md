@@ -33,7 +33,7 @@ Clique [aqui](https://youtu.be/OSfZTHsXr14) para ser redirecionado ao YouTube.
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Microsoft Teams <img src="https://github.com/Requisitos-de-Software/2022.2-MEI/blob/Mk-docs/docs/assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
+| Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
 
 ### Horário
 

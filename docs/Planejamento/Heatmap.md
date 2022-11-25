@@ -13,10 +13,10 @@
 Neste documento está apresentado o quadro de indisponibilidade dos integrantes do grupo. Cada membro preencheu uma tabela com seu respectivo nome, onde os integrantes deveriam preencher os horários em que não estariam disponíveis. Desse modo, pode-se organizar as reuniões com a participação do maior número possível de integrantes. O quadro pode ser observado na figura 1.<br><br>
 
 ![Heatmap](../../assets/images/heatmap.png)<br>
-*Figura 1 - Mapa de calor (Heatmap)*
+*Figura 1 - Heatmap (Figura do autor,2022)*
 <br><br>
 
-A figura 2 abaixo explica que onde possui um número maior que zero é a quantidade de integrantes que estão indisponíveis no horário. Assim, a tabela acima nos diz quantos integrantes não poderão comparecer às reuniões em determinados horários.<br><br>
+Onde consta zero na imagem acima é quando nenhum dos integrantes está ocupado, onde possui um número maior que zero é a quantidade de integrantes que estão indisponíveis no horário. Isso pode ser observado na figura 2 abaixo.<br><br>
 
 ![](../../assets/images/legendaHeatmap.png)<br>
 *Figura 2 - Legenda Heatmap*
