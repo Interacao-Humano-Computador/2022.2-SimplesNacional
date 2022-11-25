@@ -18,6 +18,7 @@ Este repositório destina-se à matéria de Interação Humano Computador da Uni
 
 
 ## Equipe
+Apresentação da equipe na Tabela 1 :
 
 |Foto | Nome| GitHub| E-mail| 
 |:-----:|:-----:|:-----:|:-----:|
@@ -28,9 +29,11 @@ Este repositório destina-se à matéria de Interação Humano Computador da Uni
 | <img width='100'  src='assets/fotoEquipe/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | [PedroLSF](https://github.com/PedroLSF) | fernandes.siqueira@aluno.unb.br |
 | <img width='100'  src='assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
 
+*Tabela 1 - Equipe*
 
 ## Histórico de Versão
 |Data|Versão|Descrição|Autor|
 | :----------: | :------: | :-----------: | :---------: |
 |20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|
+
 </center>

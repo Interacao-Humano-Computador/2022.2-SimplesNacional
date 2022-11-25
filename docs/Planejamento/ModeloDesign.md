@@ -27,7 +27,8 @@ O Ciclo de Mayhew foi proposto por Deborah Mayhew (1999), e este processo está 
 * Projeto, testes e implementação
 * Instalação
 
-<img src="../../assets/images/Mayhew.png" width="700" >Figura 1 - Ciclo de Vida da Mayhew</img>
+Ilustração do modelo na Figura 1 :
+<img src="../../assets/images/Mayhew.png" width="700" ><br>Figura 1 - Ciclo de Vida da Mayhew</img>
 
 <br></br>
 Iremos abranger cada tópico e discutir um pouco sobre cada uma das etapas.

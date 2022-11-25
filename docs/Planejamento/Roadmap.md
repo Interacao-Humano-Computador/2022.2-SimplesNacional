@@ -11,10 +11,15 @@
 
 ## Roadmap planejado
 
-O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do projeto, sendo que as datas possuem em geral um prazo um pouco menor 
-que o limite para possibilitar possíveis revisões e alterações nos artefatos.
+O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do projeto, sendo que as datas possuem em geral um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
-<img src="../../assets/images/IHCRoadmap.png" width="1000" ></img>
+Ilustração do Roadmap na Figura 1 :
+<img src="../../assets/images/IHCRoadmap.png" width="1000" >Figura 1 - RoadMap</img>
+<br></br>
+
+
+<center>
+Na tabela 1 a listade tarefas e seus respectivos responsaveis.
 
 | Tarefa | Responsáveis | Entrega |
 | --- | --- | --- |
@@ -38,6 +43,9 @@ que o limite para possibilitar possíveis revisões e alterações nos artefatos
 | Protótipos dos designs de interface | João, Ana e Arthur | Entrega 6 |
 |Protótipo de alta fidelidade | Ana, Arthur, Eduardo e Thiago | Entrega 7 |
 | Coleta de opinião dos usuários e melhorias de IHC | Pedro e João  | Entrega 7 |
+
+*Tabela 1 - Tarefas Designadas*
+</center>
 
 ## Referências
 - BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
