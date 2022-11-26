@@ -4,7 +4,6 @@
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
 |22/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)| [João Lucas](https://github.com/HacKairos)
-|25/11/2022|1.1|Correção legenda Figra 1| [Eduardo](https://github.com/edudsan)| [João Lucas](https://github.com/HacKairos)
 
 ## Introdução
 
@@ -29,10 +28,12 @@ O Ciclo de Mayhew foi proposto por Deborah Mayhew (1999), e este processo está 
 * Instalação
 
 Ilustração do modelo na Figura 1 :<br>
-<img src="../../assets/images/Mayhew.png" width="700" ></img>
-<p align="center">Figura 1 - Ciclo de Vida da Mayhew(BARBOSA e SILVA, 2010)</p>
+<center>
+<img src="../../assets/images/Mayhew.png" width="700" ><br>Figura 1 - Ciclo de Vida da Mayhew(BARBOSA e SILVA, 2010)</img>
+</center>
 <br></br>
 Iremos abranger cada tópico e discutir um pouco sobre cada uma das etapas.
+<br></br>
 
 #### Análise de Requisitos
 
