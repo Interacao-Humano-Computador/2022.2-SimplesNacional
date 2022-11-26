@@ -23,6 +23,8 @@ Foi de comum acordo também a decisão de que os artefatos confeccionados devem 
 ## Comunicação
 As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a seguir nas Tabelas 1 e 2 :
 
+<center>
+
 ### Formal 
 
 | Ferramenta | Descrição |
@@ -30,7 +32,7 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 | Github  <img src="../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
 | Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
 
-*Tabela 1 - Comunicação Formal*
+<p>Tabela 1 - Comunicação Formal (Tabela do autor, 2022)</p>
 
 ### Informal
 
@@ -38,7 +40,9 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 | :-: | :-: |
 | Telegram <img src="../../assets/ferramentasLogo/telegram.svg" width="100" height="100"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
 
-*Tabela 2 - Comunicação Formal*
+<p>Tabela 2 - Comunicação Informal (Tabela do autor, 2022)</p>
+
+</center>
 
 # Referências
 - SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.

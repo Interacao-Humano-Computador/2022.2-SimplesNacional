@@ -27,11 +27,13 @@ O Ciclo de Mayhew foi proposto por Deborah Mayhew (1999), e este processo está 
 * Projeto, testes e implementação
 * Instalação
 
-Ilustração do modelo na Figura 1 :
-<img src="../../assets/images/Mayhew.png" width="700" ><br>Figura 1 - Ciclo de Vida da Mayhew</img>
-
+Ilustração do modelo na Figura 1 :<br>
+<center>
+<img src="../../assets/images/Mayhew.png" width="700" ><br>Figura 1 - Ciclo de Vida da Mayhew(BARBOSA e SILVA, 2010)</img>
+</center>
 <br></br>
 Iremos abranger cada tópico e discutir um pouco sobre cada uma das etapas.
+<br></br>
 
 #### Análise de Requisitos
 
@@ -88,3 +90,7 @@ Terceira etapa a ser realizada, aqui iremos tocar nos feedbacks do usuário  ap�
 ## Motivo de escolha
 
 Dos modelos existentes, o ciclo Mayhew foi considerado o mais adequado para o nosso projeto, pois seus artefatos são mais complexos e completos, e o grupo acredita que será ideal para uso na disciplina de interação humano-computador. Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizados para complementar alguns processos de projeto e, se for o caso, isso será devidamente documentado.
+
+# Referência
+
+BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

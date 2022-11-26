@@ -15,6 +15,8 @@ Neste documento estão apresentados as ferramentas que estão sendo, serão ou j
 
 Ferramentas ilustradas na tabela 1 :
 
+<Center>
+
 |Logo|Descrição|
 |:--:|:-----------------:|
 |<img src="../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img> | **Google Docs**: Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
@@ -30,4 +32,5 @@ Ferramentas ilustradas na tabela 1 :
 |<img src="../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | **Visual Studio Code**: Ferramenta de programação, utilizada para montar o github pages. |
 |<img src="../../assets/ferramentasLogo/uxpressia.png" width="100" height="100"></img> | **UXPRESSIA**: Ferramenta de mapeamento da jornada dos clientes e criação de personas. |
     
-*Tabela 1 - Ferramentas Utilizadas*
+<p >Tabela 1 - Ferramentas Utilizadas (Figura do autor, 2022)</p>
+</center>
