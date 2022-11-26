@@ -7,6 +7,7 @@
 |20/11/2022| 21/11/2022|1.0|Criação do Documento de Metodologia| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |20/11/2022| 21/11/2022|1.1|Adição das logos de cada ferramenta de comunicação e colocação em tabela| [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)
 |22/11/2022| 23/11/2022|1.2|Ajustes no Histórico de Versão| [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)
+|25/11/2022| 26/11/2022|1.3|Ajustes na legenda da tabela| [Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)
 
 ## Sprints
 
@@ -30,7 +31,7 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 | Github  <img src="../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
 | Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
 
-*Tabela 1 - Comunicação Formal*
+<p align="center">Tabela 1 - Comunicação Formal (Tabela do autor, 2022)</p>
 
 ### Informal
 
@@ -38,7 +39,7 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 | :-: | :-: |
 | Telegram <img src="../../assets/ferramentasLogo/telegram.svg" width="100" height="100"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
 
-*Tabela 2 - Comunicação Formal*
+<p align="center">Tabela 2 - Comunicação Informal (Tabela do autor, 2022)</p>
 
 # Referências
 - SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.
