@@ -6,7 +6,7 @@
 |17/11/2022|1.0|Criação do Documento| [Eduardo](https://github.com/edudsan)| [João Lucas](https://github.com/HacKairos)|
 |22/11/2022|1.1|Adição de legendas nas figuras| [Eduardo](https://github.com/edudsan)| [João Lucas](https://github.com/HacKairos)|
 |25/11/2022|1.2|Correção gramatical| [Ana](https://github.com/AnHoff)| [João Lucas](https://github.com/HacKairos)|
-|25/11/2022|1.2|Correção gramatical| [Eduardo](https://github.com/edudsan)| |
+|25/11/2022|1.3|Correção da legenda| [Eduardo](https://github.com/edudsan)| |
 
 ## Heatmap de quadro de indisponibilidade
 
