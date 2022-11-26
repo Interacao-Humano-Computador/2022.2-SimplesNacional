@@ -8,6 +8,7 @@
 |14/11/2022|1.1|Adição de imagens e descrições| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
 |20/11/2022|1.2|Ajuste das logos das ferramentas que nao estavam aparecendo| [Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)
 |22/11/2022|1.3|Adição de novas ferramentas| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
+|25/11/2022|1.4|Correção na legenda| [Eduardo](https://github.com/edudsan)| |
 
 ## Ferramentas
 
@@ -30,4 +31,4 @@ Ferramentas ilustradas na tabela 1 :
 |<img src="../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | **Visual Studio Code**: Ferramenta de programação, utilizada para montar o github pages. |
 |<img src="../../assets/ferramentasLogo/uxpressia.png" width="100" height="100"></img> | **UXPRESSIA**: Ferramenta de mapeamento da jornada dos clientes e criação de personas. |
     
-*Tabela 1 - Ferramentas Utilizadas*
+<p align="center">Tabela 1 - Ferramentas Utilizadas (Figura do autor, 2022)</p>
