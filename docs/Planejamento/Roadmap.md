@@ -7,14 +7,16 @@
 |20/11/2022| 21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |22/11/2022| 23/11/2022|1.1|Atribuição das tarefas| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, Adição das Referências Utilizadas, Adição de novo Roadmap|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
+25/11/2022| 26/11/2022|1.1|Correção legenda da figura e tabela| [Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)
 
 
 ## Roadmap planejado
 
 O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do projeto, sendo que as datas possuem em geral um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
-Ilustração do Roadmap na Figura 1 :
-<img src="../../assets/images/IHCRoadmap.png" width="1000" >Figura 1 - RoadMap</img>
+Ilustração do Roadmap na Figura 1 :<br>
+<img src="../../assets/images/IHCRoadmap.png" width="1000" ></img>
+<p align="center">Figura 1 - RoadMap (Figura do autor, 2022)</p>
 <br></br>
 
 
