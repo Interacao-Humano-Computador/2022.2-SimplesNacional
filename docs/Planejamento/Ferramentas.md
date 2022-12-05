@@ -1,19 +1,17 @@
-# Ferramentas Utilizadas
+# Ferramentas
 
 ## Histórico de Versão
-
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|14/11/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
-|14/11/2022|1.1|Adição de imagens e descrições| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
-|20/11/2022|1.2|Ajuste das logos das ferramentas que nao estavam aparecendo| [Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)
-|22/11/2022|1.3|Adição de novas ferramentas| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|14/11/2022|14/11/2022|1.0|Criação do Documento de Ferramentas Utilizadas|[Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
+|14/11/2022|14/11/2022|1.1|Adição de imagens e descrições|[Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
+|20/11/2022|20/11/2022|1.2|Ajuste das logos que não estavam aparecendo|[Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)|
+|22/11/2022|22/11/2022|1.3|Adição de novas ferramentas| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)|
 
 ## Ferramentas
+Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utilizadas no desenvolvimento do presente trabalho e para a apresentação das tarefas realizadas pela equipe.
 
-Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utiliziadas no auxilio da criação e edição do presente trabalho seja para a existência ou apresentação das tarefas realizadas pela equipe.
-
-Ferramentas ilustradas na tabela 1 :
+As ferramentas são ilustradas na tabela 1 abaixo:
 
 <Center>
 
@@ -32,5 +30,6 @@ Ferramentas ilustradas na tabela 1 :
 |<img src="../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | **Visual Studio Code**: Ferramenta de programação, utilizada para montar o github pages. |
 |<img src="../../assets/ferramentasLogo/uxpressia.png" width="100" height="100"></img> | **UXPRESSIA**: Ferramenta de mapeamento da jornada dos clientes e criação de personas. |
     
-<p >Tabela 1 - Ferramentas Utilizadas (Figura do autor, 2022)</p>
+*Tabela 1 - Ferramentas Utilizadas*
+
 </center>

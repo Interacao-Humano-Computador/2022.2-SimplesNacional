@@ -4,23 +4,28 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|20/11/2022| 21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-|22/11/2022| 23/11/2022|1.1|Atribuição das tarefas| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, Adição das Referências Utilizadas, Adição de novo Roadmap|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
-
+|20/11/2022| 21/11/2022|1.0|Criação do Roadmap|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
+|22/11/2022| 23/11/2022|1.1|Atribuição das tarefas|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
+|22/11/2022| 23/11/2022|1.2|Ajuste no Histórico de Versão, adição das Referências Utilizadas e novo Roadmap|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## Roadmap planejado
 
 O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do projeto, sendo que as datas possuem em geral um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
-Ilustração do Roadmap na Figura 1 :<br>
-<center>
-<img src="../../assets/images/IHCRoadmap.png" width="1000" ><br>Figura 1 - RoadMap (Figura do autor, 2022)</img>
-<br></br>
-</center>
+A ilustração do Roadmap pode ser conferida na figura 1:<br>
 
 <center>
-Na tabela 1 a listade tarefas e seus respectivos responsaveis.
+
+<img src="../../assets/images/IHCRoadmap.png" width="1000" ></img>
+
+*Figura 1 - RoadMap (Figura do autor, 2022)*
+<br></br>
+
+</center>
+
+Pode ser conferida a lista de tarefas e seus respectivos responsáveis na tabela 1.
+
+<center>
 
 | Tarefa | Responsáveis | Entrega |
 | --- | --- | --- |
@@ -46,8 +51,9 @@ Na tabela 1 a listade tarefas e seus respectivos responsaveis.
 | Coleta de opinião dos usuários e melhorias de IHC | Pedro e João  | Entrega 7 |
 
 *Tabela 1 - Tarefas Designadas*
+
 </center>
 
-## Referências
+## Bibliografia
 - BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
 - Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022

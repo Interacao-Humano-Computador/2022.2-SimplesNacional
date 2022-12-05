@@ -1,12 +1,10 @@
 # 3ª Reuniao
 
 ## Histórico de Versão
-
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|22/11/2022|1.0|Criação da ata de reunião 12/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
-|23/11/2022|1.1|Conserta link da reunião| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6)| 
-
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|22/11/2022|22/11/2022|1.0|Criação da ata de reunião 12/11/2022|[Arthur Taylor](https://github.com/Eruel6)|[Ana Luiza](https://github.com/AnHoff)|
+|23/11/2022|23/11/2022|1.1|Conserta link da reunião|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)| 
 
 ## Local e horário
 
@@ -21,8 +19,7 @@ A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 16h,
 - Thiago Oliveira
 
 ## Objetivo
-
-Definir o site a ser utilizado como objeto de trabalho da disciplina, confecção da aba de aplicativos analisados no github pages, término da aba de planejamento e a confecção da landpage do github pages.
+Definir o site a ser utilizado como objeto de trabalho da disciplina, confecção da aba de aplicativos analisados no GitHub Pages, término da aba de planejamento e a confecção da landpage do GitHub Pages.
 
 ## Gravação
 Clique [aqui](https://youtu.be/w4O4GHrx6WA) para ser redirecionado ao YouTube.
@@ -30,18 +27,19 @@ Clique [aqui](https://youtu.be/w4O4GHrx6WA) para ser redirecionado ao YouTube.
 ## Conclusão
 
 ### Site selecionado
-
-O grupo discutiu sobre os site que foram analisados pelos intergrantes e chegaram a decisão de utilizar o site "Simples Nacional"
+O grupo discutiu sobre os sites analisados pelos integrantes e chegaram à decisão de utilizar o site "Simples Nacional" para o projeto da disciplina.
 
 ### Artefatos e Responsaveis
+Os artefatos e seus respectivos responsáveis podem ser conferidos na tabela 1:
+
 <center>
-A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
 
 | Artefato | Dupla responsável |
 | :-: | :-: |
 | Finalizar o planejamento | Arthur e Thiago |
-| Landpage github pages | Eduardo e João|
+| Landpage GitHub Pages | Eduardo e João|
 | Sites analisados | Ana e Pedro |
 
 *Tabela 1 - Artefatos/Responsaveis*
+
 </center>

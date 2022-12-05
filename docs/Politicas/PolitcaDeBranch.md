@@ -1,14 +1,14 @@
 # Politica de Branch
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
 
 ## Criação de _Branches_
 Ilustração do funcionamentos das branches na Figura 1 :
 
-<img src='../../assets/images/BranchPolicy.png'>Figura 1 - Politica de Branch </img>
+<img src='./../../assets/images/BranchPolicy.png'>Figura 1 - Politica de Branch </img>
 
 * <p align = "justify">O repositório do projeto terá uma branch principal e estável, a <i>main</i>.
 
