@@ -14,6 +14,29 @@ Dois métodos foram escolhidos para realizar a análise de tarefas nesse projeto
 * GOMS, sigla para Goals, Operators, Methods and Selection Rules.
 
 ## HTA
+Hierarchical Task Analysis (HTA) ou, em português, Análise Hierárquica de Tarefas (AHT), usa como base as tarefas a serem realizadas a fim de atingir um objetivo do usuário. Abaixo é possível conferir as principais tarefas que um usuário procura utilizar através do Simples Nacional. A listagem foi disponibilizada com base nas propostas de notação textual e gráfica; para entender essas notações, veja os exemplos abaixo:
+<br>
+
+#### Exemplo 1 - notação textual:
+
+* **0 - Objetivo**
+    * **1 - Tarefa 1**
+        * 1.1 - Sub-tarefa 1
+        * 1.2 - Sub-tarefa 2
+    * **2 - Tarefa 2**
+        * 2.1 - Sub-tarefa 1
+        * 2.2 - Sub-tarefa 2
+
+#### Exemplo 2 - notação gráfica:
+<center>
+
+<img src="../../assets/analise/imgLegendaHierarquia.png">
+
+</center>
+
+### Representação em notação textual
+
+### Representação em notação gráfica
 
 ## GOMS
 
