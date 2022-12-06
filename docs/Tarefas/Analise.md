@@ -39,6 +39,24 @@ Hierarchical Task Analysis (HTA) ou, em português, Análise Hierárquica de Tar
 ### Representação em notação gráfica
 
 ## GOMS
+GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, Operators, Methods e Selection Rules. Vamos entender um pouco mais sobre o método GOMS:
+
+É um métodos de análise de tarefas que permite a representação do conhecimento necessário para a realização de uma tarefa por parte de um usuário. Nessas representações podemos encontrar goals que são as metas e submetas que o usuário deseja fazer, operators que são as ações que o software permite que o usuário tome e que são diretamente relacionadas com o dispositivo em si, methods que são sequências claras de goals e operators que permitem o usuário concluir uma tarefa, selection rules que são as regras que o usuário pode seguir para decidir qual método usará para atingir uma goal.
+
+### Objetivos
+* Realizar o Débito Automático
+1. Method 1:
+   
+   1. **Goal 0:** Acessar o local do Débito Automático
+        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
+        2. **OP 0.2:** Apertar o botão esquerdo em "Débito Automático";
+        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
+        4. **OP 0.4:** Preencher o campo de "CNPJ";
+        5. **OP 0.5:** Preencher o campo de "CPF";
+        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
+        7. **OP 0.7:** Preencher o campo de caracteres;
+        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
+        9. **OP 0.8:** Apertar o botão esquerdo do Mouse;
 
 ## Bibliografia
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010<br>
