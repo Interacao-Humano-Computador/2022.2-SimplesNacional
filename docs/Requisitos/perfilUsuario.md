@@ -29,14 +29,14 @@ O questionário também dá suporte às pesquisas realizadas, que nos dizem que,
 * Sexo: 55,6 % do sexo masculino e 44,4 % do sexo feminino;
 * Status socioeconômico: classe média-baixa;
 * Atividades: comércio de vestuário e acessórios, cabelereiros, obras, lanchonetes, atividades relacionadas a beleza, minimercados e amarzéns, bares, entre outros;
-* Local de trabalho: grande maioria em casa, seguido de estabelecimento comercial e na rua;
-* Experiência: tanto pessoas que já exercem algum trabalho como pessoas que querem iniciar como MEI;
+* Local de trabalho: microempresa e empresa de pequeno porte;
+* Experiência: tanto pessoas que já exercem algum trabalho como pessoas que querem iniciar como Simples Nacional;
 * Dificuldades: encontrar empréstimo ou valor inicial para iniciar as atividades;
 * Afinidade com tecnologia: pessoas entre 18 e 30 anos possuem poucos problemas para entender o aplicativo, já as pessoas acima de 30 anos podem ter maiores dificuldades ao utilizá-lo;
 * Tecnologia disponível: celular, computador;
 * Tarefas do usuário: o sistema deve ser uma forma de ter acesso e formalizar os benefícios como, por exemplo, a aposentadoria;
 * Idiomas: português;
-* Motivação: o MEI propicia formas de regulamentar um trabalho informal.
+* Motivação: o Simples Nacional é uma alternativa para quem está empreendendo como microempresa e empresa de pequeno porte.
 
 <Center>
 A seguir o grafico com base nas pesquisas que indicam a relação de sexos dentro do projeto:
