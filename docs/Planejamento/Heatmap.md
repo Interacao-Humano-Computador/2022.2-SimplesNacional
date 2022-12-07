@@ -28,3 +28,6 @@ A figura 2 abaixo explica que um número maior que zero representa a quantidade 
 *Figura 2 - Legenda Heatmap  (Figura do autor, 2022)*
 
 </center>
+
+## Bibliografia
+- HEATMAP. Disponível em: https://pt.wikipedia.org/wiki/Mapa_de_calor Acesso em: 30 de novembro de 2022.
