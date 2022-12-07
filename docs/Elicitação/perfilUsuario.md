@@ -41,31 +41,37 @@ O questionário também dá suporte às pesquisas realizadas, que nos dizem que,
 
 <Center>
 A seguir o grafico exibido na figura 1 tem como base as pesquisas que indicam a relação de sexos dentro do projeto:
+<br>
 <img src='./../../assets/images/Sexo.png'><br>Figura 1 - Gráfico de dados relacionados ao sexo</img>
 </Center>
 <br>
 <Center>
 A seguir os objetivos dos usuários:
+ <br>
 <img src='./../../assets/images/Objetivos.png'><br>Figura 2 - Relação dos objetivos dos usuarios</img>
 </Center>
 <br>
 <Center>
 Na figura 3 pode ser observado aescolaridade das pessoas que fazem uso do Simples Nacional:
+<br>
 <img src='./../../assets/images/Escolaridade.png'><br>Figura 3 - Gráfico de dados relacionados a escolaridade</img>
 </Center>
 <br>
 <Center>
 O grau de afinidade com o sistema do Simples Nacional pode ser observado na figura 4:
+<br>
 <img src='./../../assets/images/ExperienciaSN.png'><br>Figura 4 - Gráfico da experiência com o Imples Nacional </img>
 </Center>
 <br>
 <Center>
 Na figura 5 é exibido o nível de afinidade das pessoas que utilizam o sistema possuem sobre a tecnologia:
+<br>
 <img src='./../../assets/images/ExperienciaTI.png'><br>Figura 5 - Gráfico da expeiência com tecnologia</img>
 </Center>
 <br>
 <Center>
 A seguir o grafico exibido na figura 6 tem como base as pesquisas que indicam a idade dos usuários que fazem uso do sistema:
+<br>
 <img src='./../../assets/images/Idade.png'><br>Figura 6 - Gráfico da idade dos usuarios</img>
 </Center>
 <br>
