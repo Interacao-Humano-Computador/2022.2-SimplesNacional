@@ -14,7 +14,7 @@ O perfil do usuário deve ser definido levando em conta o maior número possíve
 * Afinidade com tecnologias;
 * Tarefas primárias que procura realizar como usuário.
 
-Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e pesquisa do perfil em cima de estudos realizados previamente por outros analistas, método que complementa e orienta a obtenção de novos dados [1].
+Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e Baseados no TCC da ex aluna da UNB Rafaela da Silva Gomes [1] , método que complementa e orienta a obtenção de novos dados [2].
 
 ## Resultados
 Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário são:
@@ -78,4 +78,7 @@ A seguir o grafico exibido na figura 6 tem como base as pesquisas que indicam a 
 
 
 ## Bibliografia
-[1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
+[1] Gomes, R.S. (2016) Análise do perfil do microempreendedor individual mei no DF - unb, Trabalho de conclusao de curso. Available at: https://bdm.unb.br/bitstream/10483/16081/1/2016_RafaelaDaSilvaGomes_tcc.pdf (Accessed: December 8, 2022). 
+
+[2] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
+
