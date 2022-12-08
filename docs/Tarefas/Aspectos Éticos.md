@@ -8,10 +8,21 @@
 ## Introdução
 É responsabilidade da equipe de design proteger o bem-estar físico e psicológico dos participantes de qualquer estudo seja ele cientifico, acadêmico, etc. 
 
-De acordo com a Resolução No 466 de 12 de dezembro de 2012 do Conselho Nacional de Saúde, que regulamenta as pesquisas científicas envolvendo pessoas, 
-pode ser usada para orientar os avaliadores no cuidado ético durante seu trabalho.
+De acordo com a Resolução No 466 de 12 de dezembro de 2012 do Conselho Nacional de Saúde, que regulamenta as pesquisas científicas envolvendo pessoas,e com os 4
+principios éticos presentes no livro Interação Humano-Computador e Experiência do usuário de Barbosa e Silva, tais fontes
+podem ser usadas para orientar os avaliadores no cuidado ético durante seu trabalho.
 
-De acordo com tal resolução, tem-se quatro tarefas/fundamentos éticos á se seguir, referentes ao topico III.1 
+No que se refere aos 4 principios éticos, temos que eles são:
+
+ - Princípio da autonomia: que envolve o consentimento livre e esclarecido dos indivíduos e a proteção a grupos vulneráveis e aos legalmente incapazes.
+
+ - Princípio da beneficência: que envolve a ponderação entre riscos e benefícios, tanto atuais como potenciais, individuais ou coletivos, comprometendo-se com o máximo de benefícios e o mínimo de danos e riscos. Esses danos podem ser físicos, psíquicos, morais, intelectuais, sociais, etc.
+
+ - Princípio da não maleficência: que envolve a garantia de evitar danos previsíveis relacionados à pesquisa, tanto os imediatos quanto os tardios.
+
+ - Princípio da justiça e equidade: relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
+
+No que se refere à resolução citada acima, tem-se quatro tarefas/fundamentos éticos á se seguir, referentes ao topico III.1 
 da parte "III - DOS ASPECTOS ÉTICOS DA PESQUISA ENVOLVENDO SERES HUMANOS", tais fundamentos são:
 
  - Respeito ao participante da pesquisa em sua dignidade e autonomia,
@@ -93,4 +104,6 @@ Disponível em: https://www.inca.gov.br/sites/ufu.sti.inca.local/files//media/do
 
 Projeto de Interação-Humano-Computador da Agência Virtual Neoenergia Brasil - Aspectos Éticos, 
 disponivel em: https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/aspectos_eticos/. Acesso em: 7 dez. 2022.
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
