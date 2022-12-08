@@ -13,6 +13,7 @@ pode ser usada para orientar os avaliadores no cuidado ético durante seu trabal
 
 De acordo com tal resolução, tem-se quatro tarefas/fundamentos éticos á se seguir, referentes ao topico III.1 
 da parte "III - DOS ASPECTOS ÉTICOS DA PESQUISA ENVOLVENDO SERES HUMANOS", tais fundamentos são:
+
  - Respeito ao participante da pesquisa em sua dignidade e autonomia,
 reconhecendo sua vulnerabilidade, assegurando sua vontade de contribuir e
 permanecer, ou não, na pesquisa, por intermédio de manifestação expressa, livre e
