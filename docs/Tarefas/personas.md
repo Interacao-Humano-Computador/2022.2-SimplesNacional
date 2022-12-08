@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|7/12/2022|8/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | |
+|7/12/2022|8/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan)|
 
 ## Introdução
 Economistas criam modelos para representar o comportamento do mercado e o mesmo acontece na área de engenharia de software: engenheiros de requisitos criam personas para descrever os usuários. A criação de personas se provou uma ferramenta extremamente útil para lidar com designs relacionados à interação do usuário com o sistema.
@@ -31,13 +31,13 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 
 ## Escolhas da Persona
 
-O grupo abriu um questionário e levantou ideias com relação ao número ideal de personas. Foram analisadas as respostas do questionário e resultados das buscas sobre dados coletados anteriormente e, por fim, concluiu-se que 3 seria o número ideal para agrupar os usuários do MEI. Pontos levantados para a escolha desse número foram:
+O grupo abriu um questionário e levantou ideias com relação ao número ideal de personas. Foram analisadas as respostas do questionário e resultados das buscas sobre dados coletados anteriormente e, por fim, concluiu-se que 3 seria o número ideal para agrupar os usuários do Simples Nacional. Pontos levantados para a escolha desse número foram:
 
 * Apesar do MEI aceitar vários tipos de pessoas, as maiores diferenças são com relação ao trabalho realizado.Essas pessoas, apesar de terem atuações diferentes, realizam os mesmos comandos dentro do aplicativo;
-* Deve-se escolher um perfil secundário representando usuários que precisam de auxílio para utilizar o MEI;
-* As funções do MEI são simples e há poucas opções.
+* Deve-se escolher um perfil secundário representando usuários que precisam de auxílio para utilizar o Simples Nacional;
+* As funções do Simples Nacional são simples e há poucas opções.
 
-A antipersona por sua vez deveria ser um perfil de usuário que não precisasse do MEI, então ele foi criado com base nos requisitos necessários para ser recusado como MEI, como, por exemplo, renda e serviços prestados.
+A antipersona por sua vez deveria ser um perfil de usuário que não precisasse do Simples Nacional, então ele foi criado com base nos requisitos necessários para ser recusado como MEI, como, por exemplo, renda e serviços prestados.
 
 ## Personas Elaboradas
 <center>

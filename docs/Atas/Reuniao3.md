@@ -22,7 +22,10 @@ A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 16h,
 Definir o site a ser utilizado como objeto de trabalho da disciplina, confecção da aba de aplicativos analisados no GitHub Pages, término da aba de planejamento e a confecção da landpage do GitHub Pages.
 
 ## Gravação
-Clique [aqui](https://youtu.be/w4O4GHrx6WA) para ser redirecionado ao YouTube.
+
+<center>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/w4O4GHrx6WA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## Conclusão
 
