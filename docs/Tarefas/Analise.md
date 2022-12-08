@@ -349,146 +349,153 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
    
    1. **Goal 0:** Acessar o Débito Automático
        
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Débito Automático";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
     
     2. **Goal 1:** Incluir o Débito Automático
-        1. **OP 1.1:** Deslocar o mouse até "Débito Automático";
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
-        3. **OP 1.3:** Selecionar "Inclusão";
-        4. **OP 1.4:** Digitar os dados;
-        5. **OP 1.5:** Deslocar o mouse para "Continuar";
-        6. **OP 1.6:** Apertar o botão esquerdo do Mouse;
+        1. OP 1.1: Deslocar o mouse até "Débito Automático";
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
+        3. OP 1.3: Selecionar "Inclusão";
+        4. OP 1.4: Digitar os dados;
+        5. OP 1.5: Deslocar o mouse para "Continuar";
+        6. OP 1.6: Apertar o botão esquerdo do Mouse;
+        
 * Consultar o Débito Automático
 1. Method 1: Pelo CNPJ
    1. **Goal 0:** Acessar o Débito Automático
         
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Débito Automático";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
     
     2. **Goal 1:** Consultar o Débito Automático
-        1. **OP 1.1:** Deslocar o mouse até "Débito Automático";
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
-        3. **OP 1.3:** Selecionar "Consulta";
-        5. **OP 1.4:** Deslocar o mouse para "Continuar";
-        6. **OP 1.5:** Apertar o botão esquerdo do Mouse;
+        
+        1. OP 1.1: Deslocar o mouse até "Débito Automático";
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
+        3. OP 1.3: Selecionar "Consulta";
+        5. OP 1.4: Deslocar o mouse para "Continuar";
+        6. OP 1.5: Apertar o botão esquerdo do Mouse;
+        
 * Alterar o Débito Automático
 1. Method 1: Pelo CNPJ
    
    1. **Goal 0:** Acessar o Débito Automático
   
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Débito Automático";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
         
     2. **Goal 1:** Alterar o Débito Automático
-        1. **OP 1.1:** Deslocar o mouse até "Débito Automático";
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
-        3. **OP 1.3:** Selecionar "Alteração";
-        4. **OP 1.4:** Digitar os dados;
-        5. **OP 1.5:** Deslocar o mouse para "Continuar";
-        6. **OP 1.6:** Apertar o botão esquerdo do Mouse;
+        
+        1. OP 1.1: Deslocar o mouse até "Débito Automático";
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
+        3. OP 1.3: Selecionar "Alteração";
+        4. OP 1.4: Digitar os dados;
+        5. OP 1.5: Deslocar o mouse para "Continuar";
+        6. OP 1.6: Apertar o botão esquerdo do Mouse;
 
 * Desativar o Débito Automático
 1. Method 1: Pelo CNPJ
    1. **Goal 0:** Acessar o Débito Automático
       
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Débito Automático";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
         
     2. **Goal 1:** Desativar o Débito Automático
-        1. **OP 1.1:** Deslocar o mouse até "Débito Automático";
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
-        3. **OP 1.3:** Selecionar "Desativação";
-        5. **OP 1.4:** Deslocar o mouse para "Continuar";
-        6. **OP 1.5:** Apertar o botão esquerdo do Mouse;
+        
+        1. OP 1.1: Deslocar o mouse até "Débito Automático";
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
+        3. OP 1.3: Selecionar "Desativação";
+        5. OP 1.4: Deslocar o mouse para "Continuar";
+        6. OP 1.5: Apertar o botão esquerdo do Mouse;
 
 * Visualizar os cálculos e declarações
 1. Method 1: Pelo CNPJ
    1. **Goal 0:** Acessar o cálculo e declaração
    
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Cálculo e declaração";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Cálculo e declaração";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
         
     2. **Goal 1:** Visualizar cálculo e declaração
-    
-        1. **OP 1.1:** Deslocar o mouse até o desenho de uma impressora;
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
+   
+        1. OP 1.1: Deslocar o mouse até o desenho de uma impressora;
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
 
 * Pagar de forma on-line calculos e declarações
 1. Method 1: Pelo CNPJ
    1. **Goal 0:** Acessar o Débito Automático
    
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Cálculo e decração";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Cálculo e decração";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
         
     2. **Goal 1:** Visualizar cálculo e declaração
-        1. **OP 1.1:** Deslocar o mouse até o desenho de computador;
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
+        
+        1. OP 1.1: Deslocar o mouse até o desenho de computador;
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
 
 * Solicitar Restituição
 1. Method 1: Pelo CNPJ
    
    1. **Goal 0:** Acessar o Débito Automático
    
-        1. **OP 0.1:** Deslocar o mouse até o quadrado escrito "Simei";
-        2. **OP 0.2:** Apertar o botão esquerdo em "Restituição";
-        3. **OP 0.3:** Clicar na chave dentro de "Código de Acesso";
-        4. **OP 0.4:** Preencher o campo de "CNPJ";
-        5. **OP 0.5:** Preencher o campo de "CPF";
-        6. **OP 0.6:** Preencher o campo de "Código de Acesso";
-        7. **OP 0.7:** Preencher o campo de caracteres;
-        8. **OP 0.8:** Deslocar o mouse até o quadrado escrito "Continuar";
-        9. **OP 0.9:** Apertar o botão esquerdo do Mouse;
+        1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
+        2. OP 0.2: Apertar o botão esquerdo em "Restituição";
+        3. OP 0.3: Clicar na chave dentro de "Código de Acesso";
+        4. OP 0.4: Preencher o campo de "CNPJ";
+        5. OP 0.5: Preencher o campo de "CPF";
+        6. OP 0.6: Preencher o campo de "Código de Acesso";
+        7. OP 0.7: Preencher o campo de caracteres;
+        8. OP 0.8: Deslocar o mouse até o quadrado escrito "Continuar";
+        9. OP 0.9: Apertar o botão esquerdo do Mouse;
         
     2. **Goal 1:** Solicitar Restituição
-        1. **OP 1.1:** Deslocar o mouse até "Solicitar Restituição";
-        2. **OP 1.2:** Apertar o botão esquerdo do Mouse;
-        3. **OP 1.3:** Deslocar o mouse até a caixa de texto de "PA";
-        4. **OP 1.4:** Digitar o ano;
-        5. **OP 1.5:** Deslocar o mouse para "Continuar";
-        6. **OP 1.6:** Apertar o botão esquerdo do Mouse;
+       
+        1. OP 1.1: Deslocar o mouse até "Solicitar Restituição";
+        2. OP 1.2: Apertar o botão esquerdo do Mouse;
+        3. OP 1.3: Deslocar o mouse até a caixa de texto de "PA";
+        4. OP 1.4: Digitar o ano;
+        5. OP 1.5: Deslocar o mouse para "Continuar";
+        6. OP 1.6: Apertar o botão esquerdo do Mouse;
 
 ## Bibliografia
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010<br>
