@@ -31,6 +31,6 @@ Apresentação da equipe na Tabela 1 :
   |Conteúdo|Playlist com os videos| 
   |----|------|
   |Planejamento|https://youtu.be/fPk5NnAmyGs|
-  |Tarefas||
+  |Tarefas|https://youtu.be/GDX784RFX-8 |
 
 </center>
