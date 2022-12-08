@@ -345,9 +345,10 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
 
 ### Objetivos
 * Incluir o Débito Automático
+
 1. Method 1: Pelo CNPJ
    
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
        
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
@@ -368,8 +369,9 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         6. OP 1.6: Apertar o botão esquerdo do Mouse;
         
 * Consultar o Débito Automático
+
 1. Method 1: Pelo CNPJ
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
         
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
@@ -390,9 +392,10 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         6. OP 1.5: Apertar o botão esquerdo do Mouse;
         
 * Alterar o Débito Automático
+
 1. Method 1: Pelo CNPJ
    
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
   
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
@@ -414,8 +417,9 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         6. OP 1.6: Apertar o botão esquerdo do Mouse;
 
 * Desativar o Débito Automático
+
 1. Method 1: Pelo CNPJ
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
       
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Débito Automático";
@@ -436,8 +440,9 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         6. OP 1.5: Apertar o botão esquerdo do Mouse;
 
 * Visualizar os cálculos e declarações
+
 1. Method 1: Pelo CNPJ
-   1. **Goal 0:** Acessar o cálculo e declaração
+    1. **Goal 0:** Acessar o cálculo e declaração
    
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Cálculo e declaração";
@@ -455,8 +460,9 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         2. OP 1.2: Apertar o botão esquerdo do Mouse;
 
 * Pagar de forma on-line calculos e declarações
+
 1. Method 1: Pelo CNPJ
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
    
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Cálculo e decração";
@@ -474,9 +480,10 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         2. OP 1.2: Apertar o botão esquerdo do Mouse;
 
 * Solicitar Restituição
+
 1. Method 1: Pelo CNPJ
    
-   1. **Goal 0:** Acessar o Débito Automático
+    1. **Goal 0:** Acessar o Débito Automático
    
         1. OP 0.1: Deslocar o mouse até o quadrado escrito "Simei";
         2. OP 0.2: Apertar o botão esquerdo em "Restituição";
