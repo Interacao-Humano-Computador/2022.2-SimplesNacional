@@ -30,3 +30,38 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.top
+
+nav:
+  - Projeto: 
+    - Projeto: index.md
+  - Planejamento:
+    - Sites Analisados: Planejamento/SitesAnalisados.md
+    - Metodologias e Processos: Planejamento/Metodologia.md
+    - Modelo de Design: Planejamento/ModeloDesign.md
+    - Ferramentas: Planejamento/Ferramentas.md
+    - Heatmap: Planejamento/Heatmap.md
+    - Roadmap: Planejamento/Roadmap.md
+    - Políticas:
+      - Código de Conduta Para Colaboradores: Politicas/CodigoDeConduta.md
+      - Política de Contribuição: Politicas/PolitcaDeContribuicao.md
+      - Política de Issue: Politicas/PolitcaDeIssue.md
+      - Política de Branch: Politicas/PolitcaDeBranch.md
+      - Política de Commit: Politicas/PolitcaDeCommit.md
+      - Política de Pull Request: Politicas/PolitcaDePR.md
+      - Política de Segurança: Politicas/PolitcaDeSeguranca.md
+  - Apresentações/Reuniões:
+    - Apresentações:
+      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
+      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
+    - Reuniões:
+      - 1ª Reunião: Atas/Reuniao1.md
+      - 2ª Reunião: Atas/Reuniao2.md
+      - 3ª Reunião: Atas/Reuniao3.md
+  - Analise de Tarefas/Requisitos:
+    - Analise de Tarefas: Tarefas/Analise.md
+    - Perfil de Usúario:
+      - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
+      - Personas: Tarefas/personas.md
+      - Termo de Consentimento: Tarefas/ModeloTermoConsentimento.md
+    - Aspectos Éticos: Tarefas/AspectosEticos.md
+    - Cenários: Tarefas/Cenarios.md
