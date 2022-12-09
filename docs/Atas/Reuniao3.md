@@ -27,7 +27,7 @@ Definir o site a ser utilizado como objeto de trabalho da disciplina, confecçã
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/w4O4GHrx6WA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## Conclusão
+## Definições
 
 ### Site selecionado
 O grupo discutiu sobre os sites analisados pelos integrantes e chegaram à decisão de utilizar o site "Simples Nacional" para o projeto da disciplina.
