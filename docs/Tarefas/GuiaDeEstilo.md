@@ -2,15 +2,15 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/12/2022|12/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6)| - |
+|11/12/2022|12/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6)| [Eduardo](https://github.com/edudsan) |
 
 ## Introdução
 
-O guia de estilo é um documento criado com o intuito de reunir as decisões de design tomadas no projeto. Tornando assim mais fácil encontrar informações sobre este tópico auxiliando na implementação do produto final, uma vez que essas diretrizes guiarão a implementação do projeto. Então podemos definir este documento basicamente como uma linha de comunicação entre a equipe de design e a eqipe de desenvolvimento, este documento específico irá se refiri ao sítio "[Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/)" que é o foco do projeto desenvolvido pela equipe.
+O guia de estilo é um documento criado com o intuito de reunir as decisões de design tomadas no projeto. Tornando assim mais fácil encontrar informações sobre este tópico auxiliando na implementação do produto final, uma vez que essas diretrizes guiarão a implementação do projeto. Então podemos definir este documento basicamente como uma linha de comunicação entre a equipe de design e a equipe de desenvolvimento, este documento específico irá se referir ao sítio "[Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/)" que é o foco do projeto desenvolvido pela equipe.
 
 ## Objetivo
 
-O guia de estilo possui por objetivo reunir informações sobre as decisões de design do "Simples Nacional", analisando assim aspectos como: 
+O guia de estilo possui por objetivo reunir informações sobre as decisões de design do "[Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/)", analisando assim aspectos como: 
 
  - Layout 
  - Tipografia
@@ -33,7 +33,7 @@ Neste guia de estilo serão aboradados os seguintes tópicos do [Simples Naciona
 
 ## Público-alvo do guia
 
-O público alvo principal do guia são os integrantes do grupo 3, responsáveis pela análise do Simples nacional, servindo para auxílio no desenvolvimento posterios de etapas do projeto. Podemos dizer ainda que outros alunos da disciplina de Interação Humano Computador podem ser beneficiados pelo guia, uma vez que podem servir de consulta para outrs grupos de estudantes cursando a matéria.
+O público-alvo principal do guia são os integrantes do grupo 3, responsáveis pela análise do Simples nacional, servindo para auxílio no desenvolvimento posterios de etapas do projeto. Podemos dizer ainda que outros alunos da disciplina de Interação Humano-Computador podem ser beneficiados pelo guia, uma vez que podem servir de consulta para outros grupos de estudantes cursando a matéria.
 
 - Utilização do guia de estilos
 
