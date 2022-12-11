@@ -13,82 +13,157 @@ Este projeto utiliza personas para representar situações em que a plataforma p
 
 ## Representação dos Cenários
 A seguir na Tabela 1 a forma a qual sera representada os cenários.
-<center>
 
-| **Cenário**    | **Número do Cenário** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+<center style="max-width: 500px; margin: auto; align-items: center;">
+
+| **Cenário**a     | **Número do Cenário** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-Tabela 1 - representação dos cenarios.
+Tabela 1 - Representação dos cenários
 </center>
 
 ## Cenários
 
-Nas tabelas a seguir estão representados alguns cenários.
-<center>
+Nas tabelas a seguir estão representados alguns cenários.<br></br><br>
+<center style="max-width: 500px; margin: auto; align-items: center;">
 
-
-| **Cenário**    | **001** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+| **Cenário**     | **001** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-| **Cenário**    | **002** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+Tabela 2 - Cenário 001<br></br><br>
+
+| **Cenário**     | **002** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-| **Cenário**    | **003** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+Tabela 3 - Cenário 002<br></br><br>
+
+| **Cenário**     | **003** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-| **Cenário**    | **004** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+Tabela 4 - Cenário 003<br></br><br>
+
+| **Cenário**     | **004** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-| **Cenário**    | **005** |
-| :--------------: | :-------------- |
-| **Titulo**     | _Nome do Cenário._ |
+Tabela 5 - Cenário 004<br></br><br>
+
+| **Cenário**     | **005** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 6 - Cenário 005<br></br><br>
+
+| **Cenário**     | **006** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
+| **Objetivo**    | _Objetivo do Cenário._ |
+| **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
+| **Atores**      | _Ator(es) do Cenário._ |
+| **Recursos**    | _Recursos do Cenário._ |
+| **Episódios**   | _Episódios do Cenário da aplicação._ |
+| **Restrição**   | _Restrição do Cenário._ |
+| **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 7 - Cenário 006<br></br><br>
+
+| **Cenário**     | **007** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
+| **Objetivo**    | _Objetivo do Cenário._ |
+| **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
+| **Atores**      | _Ator(es) do Cenário._ |
+| **Recursos**    | _Recursos do Cenário._ |
+| **Episódios**   | _Episódios do Cenário da aplicação._ |
+| **Restrição**   | _Restrição do Cenário._ |
+| **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 8 - Cenário 007<br></br><br>
+
+| **Cenário**     | **008** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
+| **Objetivo**    | _Objetivo do Cenário._ |
+| **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
+| **Atores**      | _Ator(es) do Cenário._ |
+| **Recursos**    | _Recursos do Cenário._ |
+| **Episódios**   | _Episódios do Cenário da aplicação._ |
+| **Restrição**   | _Restrição do Cenário._ |
+| **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 9 - Cenário 008<br></br><br>
+
+| **Cenário**     | **009** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
+| **Objetivo**    | _Objetivo do Cenário._ |
+| **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
+| **Atores**      | _Ator(es) do Cenário._ |
+| **Recursos**    | _Recursos do Cenário._ |
+| **Episódios**   | _Episódios do Cenário da aplicação._ |
+| **Restrição**   | _Restrição do Cenário._ |
+| **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 10 - Cenário 009<br></br><br>
+
+| **Cenário**     | **010** |
+| :--------------:| :-------------- |
+| **Titulo**      | _Nome do Cenário._ |
+| **Objetivo**    | _Objetivo do Cenário._ |
+| **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
+| **Atores**      | _Ator(es) do Cenário._ |
+| **Recursos**    | _Recursos do Cenário._ |
+| **Episódios**   | _Episódios do Cenário da aplicação._ |
+| **Restrição**   | _Restrição do Cenário._ |
+| **Exceção**     | _Exceção do Cenário._ |
+
+Tabela 11 - Cenário 010
 
 </center>
 
