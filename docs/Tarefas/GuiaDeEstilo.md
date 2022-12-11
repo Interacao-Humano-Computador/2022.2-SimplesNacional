@@ -46,3 +46,7 @@ O guia deverá ser utilizado para consulta sempre que decisões de projeto nesce
 ## Elementos da interface
 
 *Inserir imagem dos elementos*
+
+## Bibliografia 
+
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
