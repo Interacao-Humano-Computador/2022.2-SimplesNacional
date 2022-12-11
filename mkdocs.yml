@@ -57,7 +57,7 @@ nav:
       - 1ª Reunião: Atas/Reuniao1.md
       - 2ª Reunião: Atas/Reuniao2.md
       - 3ª Reunião: Atas/Reuniao3.md
-  - Analise de Tarefas/Requisitos:
+  - Analise de Requisitos:
     - Analise de Tarefas: Tarefas/Analise.md
     - Perfil de Usúario:
       - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
@@ -65,3 +65,5 @@ nav:
       - Termo de Consentimento: Tarefas/ModeloTermoConsentimento.md
     - Aspectos Éticos: Tarefas/AspectosEticos.md
     - Cenários: Tarefas/Cenarios.md
+    - Metas de Usabilidade: Tarefas/MetasUsabilidade.md
+    - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
