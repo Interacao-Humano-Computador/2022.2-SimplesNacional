@@ -3,7 +3,7 @@
 ## Histórico de Versão 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor| 
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: | 
-|11/12/2022|12/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [ x ](https://github.com/) | 
+|11/12/2022|12/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan) | 
 
 ## Introdução 
 Como parte da análise de requisitos do ciclo de vida de Mayhew, as características da plataforma estão relacionadas às características do usuário e também estão relacionadas aos critérios de usabilidade. Esta é uma análise que aborda tecnologia, portabilidade e outros aspectos importantes da plataforma. Considere o que seus usuários desejam e quais são os principais recursos do seu produto. Representado na figura abaixo parte desse ciclo. 
@@ -27,7 +27,7 @@ O site é focado em resolver problemas em relação econômica dos MEI, fornece 
 
 ### Seção Imparcial 
 - Ler notícias sobre o estado dos MEI;<br/> 
-- Ler leis ou pl sobre MEI;<br/> 
+- Ler leis ou Projeto de Lei (PL) sobre MEI;<br/> 
 ### Seção Simples Nacional 
 - Emissão de DAS Avulso;<br/> 
 - Parcelamento - Simples Nacional;<br/> 
