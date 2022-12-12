@@ -76,5 +76,5 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 
 ## Bibliografia 
 
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.<br>
 [2] Github - Interação Humano Computador - Lichess 2022.2, Disponivel em: https://interacao-humano-computador.github.io/2022.2-Lichess/, Acessado em 11 de dezembro de 2022
