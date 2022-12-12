@@ -13,12 +13,12 @@ O guia de estilo é um documento criado com o intuito de reunir as decisões de 
 
 O guia de estilo possui o objetivo de reunir informações sobre as decisões de design do [Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/). Neste guia de estilo, serão abordados os seguintes tópicos: 
 
- - Layout;
- - Tipografia;
- - Simbolismo;
- - Cores;
- - Visualização de informação;
- - Design de telas e elementos de interface.
+- Layout;
+- Tipografia;
+- Simbolismo;
+- Cores;
+- Visualização de informação;
+- Design de telas e elementos de interface.
 
 Com essas informações documentadas, espera-se que o documento proposto sirva de apoio para as próximas fases de design, avaliação e desenvolvimento do site.
 
@@ -43,7 +43,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/logotipos.png">
-<br>Figura 2 - Logotipos (Fonte: elaboração própria - Thiago Oliveira)
+<br>Figura 2 - Logotipos (Fonte: elaboração própria)
 
 </center>
 
@@ -52,7 +52,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/tipografia.png">
-<br>Figura 3 - Tipografia (Fonte: elaboração própria - Thiago Oliveira)
+<br>Figura 3 - Tipografia (Fonte: elaboração própria)
 
 </center>
 
@@ -61,7 +61,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/cores.png">
-<br>Figura 1 - Paleta de Cores (Fonte: elaboração própria - Thiago Oliveira)
+<br>Figura 1 - Paleta de Cores (Fonte: elaboração própria)
 
 </center>
 
@@ -70,7 +70,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/icones.png">
-<br>Figura 4 - Ícones (Fonte: elaboração própria - Ana Hoffman)
+<br>Figura 4 - Ícones (Fonte: elaboração própria)
 
 </center>
 
