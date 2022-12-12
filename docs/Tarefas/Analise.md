@@ -34,11 +34,11 @@ Nas figuras de 2 a 8 e nas tabelas de 1 a 7 abaixo é possível conferir a execu
 
 <img src="../../assets/analise/objetivo1.png">
 
-Figura 2 - Representação gráfica de como incluir débito automático (Fonte: elaboração própria)<br><br><br>
+Figura 2 - Representação de como incluir débito automático (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
-|0 - Incluir débito automático (1>2)||
+|0 - Incluir débito automático (1>2)|**Plano:** encontrar a opção desejada, acessar o portal e ativar o débito automático|
 |1 - Encontrar a opção desejada (1>2)|**Plano:** abrir o menu e selecionar a opção "Débito Automático"<br>**Recomendação**: poderia ter uma seta, indicando que o menu é um dropdown
 |1.1 - Abra o menu||
 |1.2 - Escolha Débito Automático||
@@ -60,7 +60,7 @@ Tabela 1 - Detalhamento de atividades da figura 2
 
 <img src="../../assets/analise/objetivo2.png">
 
-Figura 3 - Representação gráfica de como consultar o débito automático (Fonte: elaboração própria)<br><br><br>
+Figura 3 - Representação de como consultar o débito automático (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
@@ -85,7 +85,7 @@ Tabela 2 - Detalhamento de atividades da figura 3
 
 <img src="../../assets/analise/objetivo3.png">
 
-Figura 4 - Representação gráfica de como alterar o débito automático (Fonte: elaboração própria)<br><br><br>
+Figura 4 - Representação de como alterar o débito automático (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
@@ -111,7 +111,7 @@ Tabela 3 - Detalhamento de atividades da figura 4
 
 <img src="../../assets/analise/objetivo4.png">
 
-Figura 5 - Representação gráfica de como desativar o débito automático (Fonte: elaboração própria)<br><br><br>
+Figura 5 - Representação de como desativar o débito automático (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
@@ -136,7 +136,7 @@ Tabela 4 - Detalhamento de atividades da figura 5
 
 <img src="../../assets/analise/objetivo5.png">
 
-Figura 6 - Representação gráfica de como visualizar cálculos e declarações (Fonte: elaboração própria)<br><br><br>
+Figura 6 - Representação de como visualizar cálculos e declarações (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
@@ -159,7 +159,7 @@ Tabela 5 - Detalhamento de atividades da figura 6
 
 <img src="../../assets/analise/objetivo6.png">
 
-Figura 7 - Representação gráfica de como realizar pagamentos on-line (Fonte: elaboração própria)<br><br><br>
+Figura 7 - Representação de como realizar pagamentos on-line (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
@@ -182,7 +182,7 @@ Tabela 6 - Detalhamento de atividades da figura 7
 
 <img src="../../assets/analise/objetivo7.png">
 
-Figura 8 - Representação gráfica de como solicitar a restituição (Fonte: elaboração própria)<br><br><br>
+Figura 8 - Representação de como solicitar a restituição (Fonte: elaboração própria)<br><br><br>
 
 |Objetivos e tarefas|Descrição, Recomendações e Problemas|
 |---|---|
