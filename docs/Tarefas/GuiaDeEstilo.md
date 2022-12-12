@@ -3,7 +3,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/12/2022|12/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6)| [Eduardo](https://github.com/edudsan) |
-|11/12/2022|12/12/2022|1.1|Remove listas duplicadas e adiciona imagens| [Ana](https://github.com/AnHoff)| - |
+|11/12/2022|12/12/2022|1.1|Remove listas duplicadas e adiciona imagens| [Ana](https://github.com/AnHoff)| [Thiago](https://github.com/Thiab394) |
 
 ## Introdução
 
@@ -11,7 +11,7 @@ O guia de estilo é um documento criado com o intuito de reunir as decisões de 
 
 ## Objetivo
 
-O guia de estilo possui o objetivo de reunir informações sobre as decisões de design do [Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/). Neste guia de estilo, serão aboradados os seguintes tópicos: 
+O guia de estilo possui o objetivo de reunir informações sobre as decisões de design do [Simples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/). Neste guia de estilo, serão abordados os seguintes tópicos: 
 
  - Layout;
  - Tipografia;
@@ -43,7 +43,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/logotipos.png">
-<br>Figura 2 - Logotipos (Fonte: elaboração própria)
+<br>Figura 2 - Logotipos (Fonte: elaboração própria - Thiago Oliveira)
 
 </center>
 
@@ -52,7 +52,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/tipografia.png">
-<br>Figura 3 - Tipografia (Fonte: elaboração própria)
+<br>Figura 3 - Tipografia (Fonte: elaboração própria - Thiago Oliveira)
 
 </center>
 
@@ -61,7 +61,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/cores.png">
-<br>Figura 1 - Paleta de Cores (Fonte: elaboração própria)
+<br>Figura 1 - Paleta de Cores (Fonte: elaboração própria - Thiago Oliveira)
 
 </center>
 
@@ -70,10 +70,11 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/icones.png">
-<br>Figura 4 - Ícones (Fonte: elaboração própria)
+<br>Figura 4 - Ícones (Fonte: elaboração própria - Ana Hoffman)
 
 </center>
 
 ## Bibliografia 
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+[2] Github - Interação Humano Computador - Lichess 2022.2, Disponivel em: https://interacao-humano-computador.github.io/2022.2-Lichess/, Acessado em 11 de dezembro de 2022
