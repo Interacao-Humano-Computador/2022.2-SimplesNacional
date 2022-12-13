@@ -4,7 +4,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor| 
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: | 
-|11/12/2022|12/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [ x ](https://github.com/) | 
+|11/12/2022|12/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) |  [Eduardo Santos](https://github.com/edudsan) | 
 
 ## Introdução 
 Usamos princípios de usabilidade eficazes e divertidos para tornar nossos produtos de software interativos fáceis de aprender e usar. A usabilidade é dividida em seis objetivos. Esses objetivos são tipicamente manipulados em perguntas para fornecer uma maneira de os designers avaliarem diferentes aspectos do sistema e da experiência do usuário [1]. Abaixo descrevemos cada um desses objetivos e mostramos como eles podem ser alcançados no domínio do Simples Nacional. 
