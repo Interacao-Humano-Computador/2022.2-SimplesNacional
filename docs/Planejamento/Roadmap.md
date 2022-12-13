@@ -151,6 +151,14 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 *Tabela 9 - Tarefas executadas para a entrega 3*<br><br>
 
+**Entrega 4**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| Planejamento da Avaliação - Storyboard | Ana | 13/12/2022 | 13/12/2022 | - |
+
+*Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
+
 </center>
 
 ## Bibliografia

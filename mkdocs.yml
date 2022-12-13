@@ -70,3 +70,6 @@ nav:
     - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
     - Princípios Gerais: Tarefas/PrincipiosGerais.md
     - Guia de Estilo: Tarefas/GuiaDeEstilo.md
+  - Avaliações:
+    - Storyboard:
+      - Planejamento de Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
