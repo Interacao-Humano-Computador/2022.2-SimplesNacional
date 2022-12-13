@@ -11,9 +11,9 @@
 
 ## Introdução
 
-O cronograma geral do projeto foi planejado seguindo a data e os requisitos para as entregas das tarefas do projeto. As datas previstas possuem um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
+O cronograma geral do projeto foi planejado seguindo a data e os requisitos para as entregas das tarefas do projeto. As datas previstas possuem um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos. [1]
 
-O cronograma planejado apresenta uma versão inicial de planejamento e pode diferir do cronograma executado ao longo do desenvolvimento do projeto. Nas tabelas de 1 a 6 abaixo, é possível conferir a lista de tarefas e seus respectivos responsaveis, datas e revisores. Mais a frente, será mostrado o cronograma executado.<br><br>
+O cronograma planejado apresenta uma versão inicial de planejamento e pode diferir do cronograma executado ao longo do desenvolvimento do projeto. Nas tabelas de 1 a 6 abaixo, é possível conferir a lista de tarefas e seus respectivos responsaveis, datas e revisores [2]. Mais a frente, será mostrado o cronograma executado.<br><br>
 
 ## Cronograma Planejado
 
@@ -141,15 +141,19 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
 | Termo de Consentimento | Thiago | 08/12/2022 | 09/12/2022 | Ana
-| Princípios gerais do projeto | Ana e Thiago | 04/12/2022 | 10/12/2022 | 12/12/2022 | Arthur
-| Guia de estilo | Arthur | 11/12/2022 | 12/12/2022 | Thiago
-| Características da plataforma | Eduardo | 11/12/2022 | 12/12/2022 | João
+| Refatoração do cronograma | Ana | 08/12/2022 | 09/12/2022 | Arthur
+| Ajustes HTA | Ana | 11/12/2022 | 11/12/2022 | Thiago
+| Princípios gerais do projeto | Pedro | 04/12/2022 | 10/12/2022 | 12/12/2022 | Ana
+| Guia de estilo | Arthur, Ana, Thiago | 11/12/2022 | 12/12/2022 | Thiago, Eduardo
+| Características da plataforma | João | 11/12/2022 | 12/12/2022 | Eduardo
 | Metas de usabilidade | Pedro e João | 11/12/2022 | 12/12/2022 | Eduardo
+| Cenários | João | 11/12/2022 | 12/12/2022 | Pedro
 
 *Tabela 9 - Tarefas executadas para a entrega 3*<br><br>
 
 </center>
 
 ## Bibliografia
-- BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
-- Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022
+[1] BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
+
+[2] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022

@@ -6,7 +6,7 @@
 |03/12/2022|05/12/2022|1.0|Criação do documento|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|
 |06/12/2022|07/12/2022|1.1|Adição do GOMS|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|
 |07/12/2022|07/12/2022|1.2|Adição HTA|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|
-|11/12/2022|11/12/2022|1.3|Ajustes no HTA|[Ana Luiza](https://github.com/AnHoff)|-|
+|11/12/2022|11/12/2022|1.3|Ajustes no HTA|[Ana Luiza](https://github.com/AnHoff)|[Thiago](https://github.com/Thiab394)|
 
 ## Introdução
 A análise de tarefas é uma atividade que pode ser realizada em diversas etapas do desenvolvimento, inclusive antes mesmo dele começar. Essa atividade consiste em analisar a situação atual do produto para determinar como cada tarefa é realizada, seja com o apoio de softwares externos ou não. Também é possível realizar a análise após a implementação de intervenções no sistema já existente.
