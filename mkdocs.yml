@@ -73,3 +73,6 @@ nav:
   - Avaliações:
     - Storyboard:
       - Planejamento de Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
+    - Tarefas:
+      - Planejamento de Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
+      - Planejamento de Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseDeTarefas.md
