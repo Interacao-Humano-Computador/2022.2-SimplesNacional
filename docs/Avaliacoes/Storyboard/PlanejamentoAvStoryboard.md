@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|-|
+|13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## Introdução
 
@@ -29,7 +29,7 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 * **D**etermine: deve-se determinar (*determine*) os objetivos da avaliação;
 * **E**xplore: deve-se explorar (*explore*) as perguntas que serão respondidas;
 * **C**hoose: deve-se escolher (*choose*) os métodos de avaliação que serão utilizados;
-* **I** dentify: deve-se identificar (*identify*) e administrar as questões práticas;
+* **I**dentify: deve-se identificar (*identify*) e administrar as questões práticas;
 * **D**ecide: deve-se decidir (*decide*) como lidar com as questões do *Identify*;
 * **E**valuate: deve-se avaliar (*evaluate*), interpretar e apresentar os dados coletados.
 
