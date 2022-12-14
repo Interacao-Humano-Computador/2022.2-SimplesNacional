@@ -35,7 +35,7 @@ O método de avaliação escolhido para lidar com os storyboards foi a avaliaç�
 
 A avaliação por observação irá fornecer dados sobre como o usuário utiliza o site e o ambiente ao seu redor para realizar as atividades desejadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
 
-Para a observação, será adotado um questionário que o avaliador deverá responder com base nos passos realizados pelo usuário observado. Esse questionário poderá ser conferido na tabela 1 a seguir.
+Para a observação, será adotado um questionário que o avaliador deverá responder com base nos passos realizados pelo usuário observado. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 1 a seguir.
 
 
 <center>
@@ -44,19 +44,18 @@ Para a observação, será adotado um questionário que o avaliador deverá resp
 
 |ID|Descrição|Resposta|Dado|
 |---|---|---|---|
-|01|Qual o nome do entrevistado?|Nominal|Qualitativo|
-|02|Qual a idade do entrevistado?|( ) 15 a 18 anos<br>( ) 19 a 25 anos<br>( ) 26 a 30 anos<br>( ) 31 a 40 anos<br>( ) Acima de 40 anos |Qualitativo|
-|03|O entrevistado possui dispositivo compatível com o site e acesso a internet?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|04|Qual a ocupação do entrevistado?|Nominal|Qualitativo|
-|05|O entrevistado utiliza o Simples Nacional?|Nominal|Qualitativo|
-|04|O storyboard apresenta usuário(s) semelhante(s) aos reais?|Nominal|Qualitativo|
-|05|O usuário demonstra interesse em continuar utilizando o site?|( ) Sim<br>( ) Não|Qualitativo|
-|06|O usuário demonstra frustração ou raiva ao utilizar o site?|( ) Sim<br>( ) Não|Qualitativo|
-|07|Quais funcionalidades o usuário mais utilizou?|Nominal|Qualitativo|
-|08|O usuário apresentou confusão ou teve que refazer alguma etapa devido a erros?|( ) Sim<br>( ) Não|Qualitativo|
-|09|Você (avaliador) notou aspectos não representados no storyboard?|( ) Sim<br>( ) Não|Qualitativo|
-|10|Com quantos erros o usuário se deparou durante o uso do site?|( ) Nenhum<br>( ) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
-|11|Os objetivos foram atingidos rapidamente?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|01|O storyboard apresenta ator semelhante ao real?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|03|O storyboard apresenta tarefas condizentes com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|05|Houve representação de problemas de IHC no storyboard?|Nominal|Qualitativo|
+|08|O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?|( ) Sim<br>( ) Não|Qualitativo|
+|09|Você (avaliador) notou aspectos importantes não representados no storyboard?|( ) Sim<br>( ) Não|Qualitativo|
+|10|O ator se deparou com quantos erros durante o uso do sistema?|( ) Nenhum<br>( ) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
+|11|O objetivo apresentado foi atingido por meio de um caminho intuitivo?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|12|Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|13|O storyboard deixa claro a motivação do usuário para utilizar o site?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
 
 *Tabela 1 - Dados de observação*
 
@@ -68,7 +67,7 @@ Para deixar claro o objetivo e os procedimentos a serem realizados nesta avalia�
 
 ## Cronograma
 
-Será seguido um cronograma para realizar as avaliações postas acima; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas. Esse número se mostra o suficiente para representar usuários com diferentes objetivos no Simples Nacional.
+Será seguido um cronograma para realizar as avaliações postas acima; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
 
 Confira na tabela 2 abaixo o horário, local e participantes.
 
@@ -84,6 +83,10 @@ Confira na tabela 2 abaixo o horário, local e participantes.
 *Tabela 2 - Cronograma das avaliações*
 
 </center>
+
+## Relato dos Resultados
+
+Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados
 
 ## Bibliografia
 
