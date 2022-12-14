@@ -4,11 +4,11 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|14/12/2022|14/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)|-|
+|14/12/2022|14/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
 
 ## Introdução
 
-Na execução do projeto foram realizadas diversas etapas, uma delas sendo a etapa de [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Tarefas/Analise.md) que foi realizada baseada no [perfil do usuário](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Tarefas/perfilUsuario.md) obtido através de respostas ao formulário elaborado com o objetivo de determinar este perfil. Para o projeto avançar de uma forma conssitente o próimo passo a ser realizado deve ser a confirmação e investigação dos pontos levantados no documento de Análise de tarefas, para isso será nescessário a utilização de técnicas como entrevistas que fornecem dados de usuários do sistema proporcinando assim dados relvantes para a análise ou então metodologias de inspeção, como por exemplo o percurso cognitivo, utilizado para a detecção de experiências de uso potenciais e não reais de fato. Para definir como será realizada tal análise foi criado este documento denominado de Planejamento de Avaliação de Análise de Tarefas, auxiliando assim o grupo na fase de execução por propocionar um "roteiro" a ser seguido.
+Na execução do projeto foram realizadas diversas etapas, uma delas sendo a etapa de [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Tarefas/Analise.md) que foi realizada baseada no [perfil do usuário](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Tarefas/perfilUsuario.md) obtido através de respostas ao formulário elaborado com o objetivo de determinar este perfil. Para o projeto avançar de uma forma conssitente o próximo passo a ser realizado deve ser a confirmação e investigação dos pontos levantados no documento de Análise de tarefas, para isso será nescessário a utilização de técnicas como entrevistas que fornecem dados de usuários do sistema proporcinando assim dados relevantes para a análise ou então metodologias de inspeção, como por exemplo o percurso cognitivo, utilizado para a detecção de experiências de uso potenciais e não reais de fato. Para definir como será realizada tal análise foi criado este documento denominado de Planejamento de Avaliação de Análise de Tarefas, auxiliando assim o grupo na fase de execução por propocionar um "roteiro" a ser seguido.
 
 ## Metodologia
  
@@ -45,38 +45,37 @@ Podemos destacar os seguintes pontos como objetivos traçados para esta análise
 |2|Qual a sua idade?| - |Aberta| - |
 |3|Qual o seu grau de ensino?| - |Aberta| - |
 |4|Qual o sua oucupação?| - |Aberta| - |
-|5|Qual o seu grau de ensino?| - |Aberta| - |
-|6|Você utiliza o simples nacional?| 1 |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
-|7|Você acha que a plataforma proporciona as funcionalidade que promete?| 1 |Aberta| - |
-|8|Você possui algum problema com o design do simples Nacional?Se sim, qual?| 2 |Aberta| - |
-|9|Alguma parte do sistema possui diferenças em relação as outras?| 3 |Aberta| - |
-|10|Você enfrenta problemas reconrrentes na utilização do Simples Nacional?| 4 |Fechada| Sim/Não (caso não enfrete problemas a pergunta 14,  não deve ser feita) |
-|11|Você atinje seu objetivo com rapidez?| 4 |Aberta| - |
-|12|Quais problemas são feralmente encontrados por você durante a utilização do sistema?| 4 |Aberta| - |
-|13|Alguma parte do sistema te desmotiva a utiliza-lo? Se sim qual?|4|Aberta| - |
+|5|Você utiliza o simples nacional?| 1 |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
+|6|Você acha que a plataforma proporciona as funcionalidade que promete?| 1 |Aberta| - |
+|7|Você possui algum problema com o design do simples Nacional?Se sim, qual?| 2 |Aberta| - |
+|8|Alguma parte do sistema possui diferenças em relação as outras?| 3 |Aberta| - |
+|9|Você enfrenta problemas recorrentes na utilização do Simples Nacional?| 4 |Fechada| Sim/Não (caso não enfrete problemas a pergunta 11,  não deve ser feita) |
+|10|Você atinje seu objetivo com rapidez?| 4 |Aberta| - |
+|11|Quais problemas são geralmente encontrados por você durante a utilização do sistema?| 4 |Aberta| - |
+|12|Alguma parte do sistema te desmotiva a utiliza-lo? Se sim qual?|4|Aberta| - |
 
 Tabela 2 - Exemplos de questões a serem tratadas
 </center>
 
 ### (C) Escolher métodos
 
-Como discutido acima os resultados desta análise podem ser obtidos de duas formas basicamente, o método de investigação e o método de inspeção. Cada um tendo suas vantagens e desvantagens, com isso o grupo optou por utilizar técnicas de ambos os métodos esperando que consigamos atingir um nível maior de fidelidade nas anpalises realizadas para a realização de um bom projeto. Para o método de inspeção será utilizado o percurso cognitivo e para o método de investigação será utilizado novamente o método de entrevista.
+Como discutido acima os resultados desta análise podem ser obtidos de duas formas basicamente, o método de investigação e o método de inspeção. Cada um tendo suas vantagens e desvantagens, com isso o grupo optou por utilizar técnicas de ambos os métodos esperando que consigamos atingir um nível maior de fidelidade nas analises realizadas para a confecção de um bom projeto. Para o método de inspeção será utilizado o percurso cognitivo e para o método de investigação será utilizado novamente o método de entrevista.
 
 #### Percurso cognitivo
 
-O percurso cognitivo tem o objetivo de guiar a inspeção que será realizada com o intuito de obter os dados sobre as tarefas do usuário. Neste método o avaliador irá percorrer todos os caminhos que seriam utilizados pelo usuário para a realização de uma tarefa. É de suma importância que o avaiador tente se colocar no papel do usuário no momento da realização desta inspeção para a coleta de dados mais fiéis possíveis.
+O percurso cognitivo tem o objetivo de guiar a inspeção que será realizada com o intuito de obter os dados sobre as tarefas do usuário. Neste método o avaliador irá percorrer todos os caminhos que seriam utilizados pelo usuário para a realização de uma tarefa. É de suma importância que o avaliador tente se colocar no papel do usuário no momento da realização desta inspeção para a coleta de dados mais fiéis possíveis.
 
 #### Entrevista 
 
-Para a entrevista podemos detalha como uma conversa guiada com um roteiro de perguntas onde o entrevistador busca obter informações relavantes para o projeto sobre o entrevistado. Para isso o entrevistador pode se valer de perguntas de cunho aberto (mais exploratórias) ou fechado (opções que o entrevistado deve selecionar) com cada uma tendo vantagens e desvantagens, para essa entrevista o grupo decidiu por realizar uma entrevista estruturada (seguindo o roteiro de entrevista) devido a pouca experiência dos entrevistadores.
+Para a entrevista podemos detalhar como uma conversa guiada com um roteiro de perguntas onde o entrevistador busca obter informações relevantes para o projeto sobre o entrevistado. Para isso o entrevistador pode se valer de perguntas de cunho aberto (mais exploratórias) ou fechado (opções que o entrevistado deve selecionar) com cada uma tendo vantagens e desvantagens, para essa entrevista o grupo decidiu por realizar uma entrevista estruturada (seguindo o roteiro de entrevista) devido a pouca experiência dos entrevistadores.
 
 ### (I) Identificar e administrar questões práticas
 
-Para a realização das entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as pesonas. A entrevista será realizada por dois membros do grupo, onde um irá conduzir a entrevista e fato com outro tomando notas sobre a mesma, isso possibilita um maior conforto do entrevistado, uma vez que o entrevistador irá ter atenção total voltada para a conversa que será realizada entre os dois.
+Para a realização das entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as pesonas. A entrevista será realizada por dois membros do grupo, onde um irá conduzir a entrevista e com outro tomando notas sobre a mesma, isso possibilita um maior conforto do entrevistado, uma vez que o entrevistador irá ter atenção total voltada para a conversa que será realizada entre os dois.
 
-Para a metodolgia do percurso cognitivo o avaliador irá utilizar-se das persona criadas pelo grupo a fim de realizar as tarefas definidas no documento de Análise de tarefas, sendo elas Incluir débito automático, Alterar débito automático, Desativar débito atomático, Visualizar cálculo e declarações, Pagar Online e Solicitar restituição. (mais detalhes destastarefas podem ser encontradas [aqui](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/))
+Para a metodolgia do percurso cognitivo o avaliador irá utilizar-se das persona criadas pelo grupo a fim de realizar as tarefas definidas no documento de Análise de tarefas, sendo elas Incluir débito automático, Alterar débito automático, Desativar débito atomático, Visualizar cálculo e declarações, Pagar Online e Solicitar restituição. (mais detalhes destas tarefas podem ser encontradas [aqui](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/))
 
-Para a documentação das entrevistas e dopercurso cognitivo deverão ser confecionadas tabelas como as tabelas 3 e 4 que servirá de exemplo para preencimento na medida que os métodos sejam realizados.
+Para a documentação das entrevistas e do percurso cognitivo deverão ser confeccionadas tabelas como as tabelas 3 e 4 que servirá de exemplo para preenchimento na medida que os métodos sejam realizados.
 
 |Entrevistadores|Entrevistado|Data|Hora de início e final|Local|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
@@ -98,7 +97,7 @@ As questões éticas tratadas no projeto podem ser encontradas no documento [asp
 
 ### (E) Interpretar e apresentar dados
 
-Para a finalização os dados deverão ser analisados e validados pela equipe que após o processo de validação utilizarão os mesmos para a elhoria do entendimento do projeto.
+Para a finalização os dados deverão ser analisados e validados pela equipe que após o processo de validação utilizarão os mesmos para a melhoria do entendimento do projeto.
 
 ## Bibliografia
 
