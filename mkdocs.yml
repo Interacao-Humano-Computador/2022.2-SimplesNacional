@@ -72,7 +72,8 @@ nav:
     - Guia de Estilo: Tarefas/GuiaDeEstilo.md
   - Avaliações:
     - Storyboard:
-      - Planejamento de Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
-    - Tarefas:
-      - Planejamento de Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
-      - Planejamento de Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseDeTarefas.md
+      - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
+      - Planejamento de relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
+    - Analise de Tarefas:
+      - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
+      - Planejamento de relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
