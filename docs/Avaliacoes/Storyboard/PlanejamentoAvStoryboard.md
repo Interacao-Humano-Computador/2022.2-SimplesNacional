@@ -88,6 +88,8 @@ A inspeção deverá ter certas metas, gerando sugestões de caminhos a serem se
 
 *Tabela 2 - Dados da inspeção*
 
+</center>
+
 ## Bibliografia
 
 [1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 
