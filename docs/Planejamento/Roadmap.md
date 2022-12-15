@@ -155,7 +155,10 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
-| Planejamento da Avaliação - Storyboard | Ana | 13/12/2022 | 13/12/2022 | - |
+| Planejamento da Avaliação - Storyboard | Ana | 13/12/2022 | 13/12/2022 | Arthur |
+| Planejamento da Avaliação - Análise de Tarefas | Arthur, Eduardo, Pedro | 13/12/2022 | 14/12/2022 | Thiago, Arthur |
+| Planejamento de relato de resultados - Storyboard | João | 14/12/2022 | 14/12/2022 | Ana |
+| Planejamento de relato de resultados - Análise de Tarefas | Thiago | 14/12/2022 | 14/12/2022 | João |
 
 *Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
 
