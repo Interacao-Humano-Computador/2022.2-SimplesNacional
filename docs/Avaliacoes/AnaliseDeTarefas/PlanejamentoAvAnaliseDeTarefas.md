@@ -5,7 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |14/12/2022|14/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
-|14/12/2022|14/12/2022|1.1|Adção do teste piloto|[Eduardo](https://github.com/edudsan) e [Pedro](https://github.com/PedroLSF)|-|
+|14/12/2022|14/12/2022|1.1|Adção do teste piloto|[Eduardo](https://github.com/edudsan) e [Pedro](https://github.com/PedroLSF)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## Introdução
 
