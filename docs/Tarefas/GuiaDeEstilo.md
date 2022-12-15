@@ -3,7 +3,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/12/2022|12/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6)| [Eduardo](https://github.com/edudsan) |
-|11/12/2022|12/12/2022|1.1|Remove listas duplicadas e adiciona imagens| [Ana](https://github.com/AnHoff)| [Thiago](https://github.com/Thiab394) |
+|11/12/2022|12/12/2022|1.1|Remove listas duplicadas e adiciona imagens| [Ana](https://github.com/AnHoff) e [Thiago](https://github.com/Thiab394)| [Eduardo](https://github.com/edudsan) |
 
 ## Introdução
 
