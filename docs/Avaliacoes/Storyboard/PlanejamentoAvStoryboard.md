@@ -86,7 +86,7 @@ Confira na tabela 2 abaixo o horário, local e participantes.
 
 ## Relato dos Resultados
 
-Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados
+Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Relato de Resultados](PlanejamentoRelatoResuStoryboard.md).
 
 ## Bibliografia
 
