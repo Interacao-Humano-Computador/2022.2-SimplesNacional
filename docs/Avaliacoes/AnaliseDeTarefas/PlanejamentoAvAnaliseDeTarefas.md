@@ -5,6 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |14/12/2022|14/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
+|14/12/2022|14/12/2022|1.1|Adção do teste piloto|[Eduardo](https://github.com/edudsan) e [Pedro](https://github.com/PedroLSF)|-|
 
 ## Introdução
 
@@ -98,6 +99,11 @@ As questões éticas tratadas no projeto podem ser encontradas no documento [asp
 ### (E) Interpretar e apresentar dados
 
 Para a finalização os dados deverão ser analisados e validados pela equipe que após o processo de validação utilizarão os mesmos para a melhoria do entendimento do projeto.
+
+## Teste Piloto
+
+Antes de realizar a entrevista com o(s) participante(s) escolhidos, será feito um teste piloto com o objetivo de verificar o planejamento, analisar se a avaliação 
+irá produzir dados necessários e verificar se as ferramentas para a avaliação estão funcionando corretamente. O teste piloto será composto por dois avaliadores, onde estes irão realizar uma simulação de uma entrevista e a gravação deste teste e os dados obtidos serão devidamente documentados no relato dos resultados, para que qualquer mudança necessária no planejamento seja efetuada antes que entresvistas comecem.
 
 ## Bibliografia
 
