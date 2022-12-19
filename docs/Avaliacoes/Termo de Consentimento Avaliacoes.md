@@ -3,7 +3,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|18/12/2022|19/12/2022|1.0|Criação do Termo de Consentimento para Avaliações| [Thiago Oliveira](https://github.com/Thiab394)|-|
+|18/12/2022|19/12/2022|1.0|Criação do Termo de Consentimento para Avaliações| [Thiago Oliveira](https://github.com/Thiab394)|[Pedro Lucas](https://github.com/PedroLSF)|
 
 ## TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
