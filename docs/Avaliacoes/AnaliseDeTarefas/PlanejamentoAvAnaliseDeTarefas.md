@@ -45,7 +45,7 @@ Podemos destacar os seguintes pontos como objetivos traçados para esta análise
 |1|Qual o seu nome?| - |Aberta| - |
 |2|Qual a sua idade?| - |Aberta| - |
 |3|Qual o seu grau de ensino?| - |Aberta| - |
-|4|Qual o sua oucupação?| - |Aberta| - |
+|4|Qual o sua ocupação?| - |Aberta| - |
 |5|Você utiliza o simples nacional?| 1 |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
 |6|Você acha que a plataforma proporciona as funcionalidade que promete?| 1 |Aberta| - |
 |7|Você possui algum problema com o design do simples Nacional?Se sim, qual?| 2 |Aberta| - |
