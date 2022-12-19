@@ -5,6 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
+|19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|-|
 
 ## Introdução
 
@@ -17,6 +18,32 @@ O ciclo de vida de Mayhew [1] propõe o planejamento da avaliação como ativida
 Um storyboard é um tipo de prototipação de baixa fidelidade, ou seja, apresenta um produto que não é muito parecido com o produto final, apesar de ter que apresentar as mesmas qualidades mínimas como tamanho e funções básicas. Esse recurso é normalmente utilizado em conjunto com cenários e consiste em séries de desenhos que mostram como o usuário poderá interagir com as tarefas do produto que, no caso desse projeto, será uma tela do sistema.
 
 O projeto se trata de GUI, Graphical User Interface. Esse é um tipo de interface que permite a interação do humano com dispositivos digitais a partir de elementos gráficos extremamente comuns nos sites atuais, como ícones e outros tipos de indicadores visuais. A partir dessas informações, torna-se possível utilizar esboços de telas nos storyboards, agregando benefícios como o aumento da fidelidade com o esperado do produto final e a diminuição de tempo e esforço necessários para a elaboração de protótipos mais complexos do projeto.
+
+A confecção do storyboard se deu em algumas etapas que podem ser conferidas na tabela 1 abaixo.
+<br><br>
+
+<center>
+
+|Data|Descrição|Responsáveis|Revisores|
+|---|---|---|---|
+|17/12/2022|Decidir temas abordados no storyboard|Thiago, João, Ana, Eduardo|Arthur, Pedro|
+|18/12/2022|Confecção do rascunho do storyboard|Ana|Arthur, Pedro|
+|19/12/2022|Redesenho digital do storyboard|Eduardo|Arthur, Pedro|
+
+*Tabela 1 - Planejamento do Storyboard*
+
+</center>
+
+<br>
+O storyboard confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
+
+<center>
+
+<img src="../../../assets/storyboard/story.jpg">
+
+*Figura 1 - Storyboard (elaboração própria: Eduardo)*
+
+</center>
 
 ## Metodologia
 
@@ -35,7 +62,7 @@ O método de avaliação escolhido para lidar com os storyboards foi a avaliaç�
 
 A avaliação por observação irá fornecer dados sobre como o usuário utiliza o site e o ambiente ao seu redor para realizar as atividades desejadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
 
-Para a observação, será adotado um questionário que o avaliador deverá responder com base nos passos realizados pelo usuário observado. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 1 a seguir.
+Para a observação, será adotado um questionário que o avaliador deverá responder com base nos passos realizados pelo usuário observado. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
 
 
 <center>
@@ -57,7 +84,7 @@ Para a observação, será adotado um questionário que o avaliador deverá resp
 |13|O storyboard deixa claro a motivação do usuário para utilizar o site?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
 |14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
 
-*Tabela 1 - Dados de observação*
+*Tabela 2 - Questionário*
 
 </center>
 
@@ -69,7 +96,7 @@ Para deixar claro o objetivo e os procedimentos a serem realizados nesta avalia�
 
 Será seguido um cronograma para realizar as avaliações postas acima; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
 
-Confira na tabela 2 abaixo o horário, local e participantes.
+Confira na tabela 3 abaixo o horário, local e participantes.
 
 <center>
 
@@ -80,7 +107,7 @@ Confira na tabela 2 abaixo o horário, local e participantes.
 |16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Observação|
 |16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Observação|
 
-*Tabela 2 - Cronograma das avaliações*
+*Tabela 3 - Cronograma das avaliações*
 
 </center>
 

@@ -43,7 +43,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/logotipos.png">
-<br>Figura 2 - Logotipos (Fonte: elaboração própria)
+<br>Figura 2 - Logotipos (Elaboração própria: Thiago)
 
 </center>
 
@@ -52,7 +52,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/tipografia.png">
-<br>Figura 3 - Tipografia (Fonte: elaboração própria)
+<br>Figura 3 - Tipografia (Elaboração própria: Thiago)
 
 </center>
 
@@ -61,7 +61,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/cores.png">
-<br>Figura 1 - Paleta de Cores (Fonte: elaboração própria)
+<br>Figura 1 - Paleta de Cores (Elaboração própria: Thiago)
 
 </center>
 
@@ -70,7 +70,7 @@ Os elementos da interface podem ser observados nas figuras de 1 a 4 a seguir:
 <center>
 
 <img src="../../assets/estilo/icones.png">
-<br>Figura 4 - Ícones (Fonte: elaboração própria)
+<br>Figura 4 - Ícones (Elaboração própria: Ana)
 
 </center>
 
