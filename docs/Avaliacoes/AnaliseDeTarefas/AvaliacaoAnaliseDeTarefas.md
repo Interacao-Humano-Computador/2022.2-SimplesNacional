@@ -6,21 +6,17 @@
 |20/12/2022|21/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/Eruel6) | 
 
 ## Introdução 
-As metodologias selecionadas pelo grupo para a avaliação da análise de tarefas consistem na entrevista que visa a partir de usuários conseguir uma visão mais real  
-possível sobre os tópicos abordados durante a elaboração do roteiro da entrevista, o percurso cognitivo consiste na utilização do sistema por um membro do grupo 
-onde o mesmo tenta se colocar no lugar de usuário, com isso podemos definir que a partir de ambas as avaliações teremos dados que devem ser tratados para serem  
-apresentados de forma fiel. 
+A primeita metodologia selecionada para realizar a análise de tarefas foi a entrevista, que visa conseguir a partir dos usuários uma visão real sobre os tópicos abordados durante a elaboração do roteiro da entrevista. A segunda metodologia foi o percurso cognitivo, que consiste na utilização do sistema por um membro da equipe, onde o mesmo tenta se colocar no lugar de usuário. Com isso em mente, pode-se definir que esse conjunto de avaliações trará dados que, para serem apresentados de forma fiel, devem ser tratados. 
 
 ## Tarefas Analisadas 
-As seguintes tarefas foram analisadas durante a fase de avaliação, conforme definido no documento de  
-[Planejamento da Avaliação de Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/) 
+As seguintes tarefas foram analisadas durante a fase de avaliação, conforme definido no documento de [Planejamento da Avaliação de Análise de Tarefas](PlanejamentoAvAnaliseDeTarefas.md):
 
-- Incluir débito automático 
-- Alterar débito automático 
-- Desativar débito automático 
-- Visualizar cálculo e declarações 
-- Pagar Online
-- Solicitar restituição 
+- Incluir débito automático;
+- Alterar débito automático;
+- Desativar débito automático; 
+- Visualizar cálculo e declarações; 
+- Pagar Online;
+- Solicitar restituição. 
 
 ## Conclusão 
 De acordo com o material de base de Barbosa e Silva [1] os avaliadores deveram relatar os seus resultados em documentos que incluirão: 
@@ -34,8 +30,4 @@ De acordo com o material de base de Barbosa e Silva [1] os avaliadores deveram r
 - Um planejamento para o reprojeto do sistema. 
 
 ## Referências 
-[1]Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Auto publicação. 2021 
-
-<br>
-
-[2]https://interacao-humano-computador.github.io/2021.2-PMBA/design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas/ 
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Auto publicação. 2021 

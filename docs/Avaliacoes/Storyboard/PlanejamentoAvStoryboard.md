@@ -35,6 +35,7 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 </center>
 
 <br>
+
 O storyboard confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
 
 <center>
@@ -56,14 +57,13 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 * **D**ecide: deve-se decidir (*decide*) como lidar com as questões do *Identify*;
 * **E**valuate: deve-se avaliar (*evaluate*), interpretar e apresentar os dados coletados.
 
-O método de avaliação escolhido para lidar com os storyboards foi a avaliação por observação. Esse método irá promover dados a partir do ponto de vista do usuário.
+O método de avaliação escolhido para lidar com os storyboards foi a avaliação por observação, complementada por uma entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-## Observação
+## Observação e entrevista
 
-A avaliação por observação irá fornecer dados sobre como o usuário utiliza o site e o ambiente ao seu redor para realizar as atividades desejadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
+A avaliação por observação irá fornecer dados sobre como o usuário reage ao storyboard elaborado, assim como sobre o ambiente, atores e etapas para realizar as atividades apresentadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
 
-Para a observação, será adotado um questionário que o avaliador deverá responder com base nos passos realizados pelo usuário observado. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
-
+Para a observação, será adotado um questionário que o avaliador deverá responder com base nas reações do usuário ao entrar em contato com a história em quadrinhos. Essa etapa será seguida por uma pequena entrevista, que visa complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
 
 <center>
 

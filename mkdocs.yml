@@ -58,8 +58,8 @@ nav:
       - 1ª Reunião: Atas/Reuniao1.md
       - 2ª Reunião: Atas/Reuniao2.md
       - 3ª Reunião: Atas/Reuniao3.md
-  - Analise de Requisitos:
-    - Analise de Tarefas: Tarefas/Analise.md
+  - Análise de Requisitos:
+    - Análise de Tarefas: Tarefas/Analise.md
     - Perfil de Usúario:
       - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
       - Personas: Tarefas/personas.md
@@ -74,8 +74,8 @@ nav:
     - Storyboard:
       - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
       - Planejamento de Relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
-    - Analise de Tarefas:
-      - Avaliação da Analise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md
+    - Análise de Tarefas:
+      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md
       - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
       - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
     - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
