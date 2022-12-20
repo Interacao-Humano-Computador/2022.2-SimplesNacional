@@ -5,7 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
-|19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|-|
+|19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
 ## Introdução
 
