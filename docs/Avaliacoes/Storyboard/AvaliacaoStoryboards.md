@@ -17,7 +17,7 @@ A avaliação por observação fornecem dados sobre como os usuários realizam a
 
 Observação prevê um questionário no qual os avaliadores devem responder com base nas etapas observadas do usuário. A pesquisa foi criada no Microsoft Forms e seu conteúdo é mostrado na Tabela 1 abaixo. 
 
-Alem da observação também foi realizada uma pequena entrevista, que visava complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional.
+Alem da observação também foi realizada uma pequena entrevista, que visava complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional e confirmar os resultados obtidos.
 
 <center>
 
