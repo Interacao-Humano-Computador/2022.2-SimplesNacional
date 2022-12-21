@@ -5,7 +5,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |18/12/2022|19/12/2022|1.0|Criação do Termo de Consentimento para Avaliações| [Thiago Oliveira](https://github.com/Thiab394)|[Pedro Lucas](https://github.com/PedroLSF)|
 
-## TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+## Termo de Consentimento Livre e Esclarecido
 
 **Título da Pesquisa**: Avaliação do site Simples Nacional(Análise de Tarefas e Storyboard), referente ao projeto do grupo 3 da disciplina Interação Humano Computador Da Universidade de Brasilia(UnB),ministrada pelo professor André Barros
 

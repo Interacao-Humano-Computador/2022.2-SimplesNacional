@@ -5,7 +5,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)
 
-## TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+## Termo de Consentimento Livre e Esclarecido
 
 **Título da Pesquisa**: 
 

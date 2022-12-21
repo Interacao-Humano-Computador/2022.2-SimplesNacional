@@ -33,3 +33,21 @@ As ferramentas são ilustradas na tabela 1 abaixo:
 *Tabela 1 - Ferramentas Utilizadas*
 
 </center>
+
+## Bibliografia
+- Wikipedia Contributors (2019). Google Docs. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Google_Docs).
+- Wikipedia Contributors (2019). Canva. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Canva).
+- play.google.com. (n.d.). Google Chrome: Fast & Secure - Apps on Google Play. [online] Available at: [Link](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_CA&gl=US) [Accessed 20 Dec. 2022].‌
+- play.google.com. (n.d.). Firefox Fast & Private Browser – Apps on Google Play. [online] Available at: [Link](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_SG&gl=US) [Accessed 20 Dec. 2022].
+- Wikipedia Contributors (2019). Git. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Git).
+- Wikipedia Contributors (2019). GitHub. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/GitHub).
+- Wikipedia. (2021). Figma (software). [online] Available at: [Link](https://en.wikipedia.org/wiki/Figma_(software)).
+- Wikipedia. (2020). Microsoft Teams. [online] Available at: [Link](https://en.wikipedia.org/wiki/Microsoft_Teams).
+- Wikipedia Contributors (2019). Telegram (software). [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Telegram_(software)).
+- Wikipedia Contributors (2019). YouTube. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/YouTube).
+- Wikipedia Contributors (2019). Visual Studio Code. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Visual_Studio_Code).
+- uxpressia.com. (n.d.). UXPressia - Customer Journey Tool. [online] Available at: [Link](https://uxpressia.com/).
+
+‌
+‌
+‌‌‌

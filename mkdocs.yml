@@ -74,9 +74,10 @@ nav:
     - Storyboard:
       - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
       - Planejamento de Relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
+      - Avaliação do Storyboards: Avaliacoes/Storyboard/AvaliacaoStoryboards.md
     - Análise de Tarefas:
-      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md
       - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
       - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
+      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md
     - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
     - Teste Piloto: Avaliacoes/Teste-Piloto.md

@@ -18,6 +18,6 @@ atualmente sendo suportado com atualizações de segurança.
 
 Use esta seção para dizer às pessoas como relatar uma vulnerabilidade.
 
-Diga-lhes para onde ir, quantas vezes eles podem esperar para obter uma atualização em um
+Diga-lhes para onde ir, quantas vezes eles podem esperar para obter uma atualização em uma
 vulnerabilidade relatada, o que esperar se a vulnerabilidade for aceita ou
-declinou, etc.
+recusada, etc.
