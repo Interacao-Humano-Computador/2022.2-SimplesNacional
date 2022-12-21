@@ -4,6 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2022|12/11/2022|1.0|Criação do Documento de Políticas| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo Santos](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)|
+|20/11/2022|21/11/2022|1.1|Criação do Documento de Políticas|[Eduardo Santos](https://github.com/edudsan)|-|
 
 ## Introdução
 Os princípios gerais do projeto são fundamentais para o desenvolvimento do projeto. Esses princípios geralmente são utilizados como roteiro para a elaboração e aperfeiçoamento do projeto selecionado [1]. Os princípios gerais usados estão ligados as seguintes partes: 
@@ -18,6 +19,20 @@ Os princípios gerais do projeto são fundamentais para o desenvolvimento do pro
 **Simplicidade:** recomenda-se simplificar as estruturas da tarefa. Para isso, deve-se reduzir a quantidade de planejamento e resolução de problemas que são necessárias. Sempre que encontrar uma tarefa de maior complexidade, esta deve ser quebrada em tarefas menores.
 
 **Padronização:** é fundamental que o projeto esteja padronizado. Deve-se manter o modelo conceitual embutido no sistema, deixando o usuário confortável ao utilizar a plataforma e não ter dúvidas devido a estruturas diferentes. [2]
+
+## Aplicação dos princípios no projeto
+
+### • Conteúdo Relevante e Expressão Adequada
+
+Podemos perceber no site do Simples Nacional, possui botões que não são muito intuitivos, como no caso da chave que aparece em referência para fazer login utilizando o código de acesso. Desse modo acaba não sendo muito claro o que deve ser feito
+
+### • Correspondência com as Expectativas dos Usuários
+
+No site do Simples Nacional possui dois tipos de menus com praticamente as mesmas funcionalidades, ondo quando realiza login no menu "Simples" o usuário é redirecionado para uma página com estilos diferentes de quando se loga no menu "Simei".
+
+### • Consistência e padronizção
+
+Conforme o usuário acessa algum menu, seja o "Simples" ou o "Simei", os botões de deslogar possuem símbolos diferentes. A logo do Simples Nacional perde a função de levar para a página inicial quando se loga em algum menu. Dessa forma o usuário acaba tendo dificuldade de entender o que fazer em determinadas páginas.
 
 ## Bibliografia
 
