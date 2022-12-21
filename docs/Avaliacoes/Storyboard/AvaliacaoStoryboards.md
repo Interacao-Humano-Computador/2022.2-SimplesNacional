@@ -4,20 +4,18 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|20/12/2022|21/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Arthur Taylor](https://github.com/)|
+|20/12/2022|21/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Arthur Taylor](https://github.com/) e [Ana Luiza](https://github.com/AnHoff)|
 
 ## Introdução
-O storyboard é tipo de protótipo de baixa fidelidade e consiste em uma série de desenhos que demonstram como o usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os [storyboards](PlanejamentoAvStoryboard.md) criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam o objetivo de "Realizar o pagamento do DAS".
+O storyboard é um tipo de protótipo de baixa fidelidade que consiste em uma série de desenhos que demonstram como o usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os [storyboards](PlanejamentoAvStoryboard.md) criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam o objetivo de "Realizar o pagamento do DAS".
 
 ## Objetivo
 O objetivo desta avaliação é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários do Simples Nacional. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas e questionario podem ser verificadas no [planejamento da avaliação](PlanejamentoAvStoryboard.md) dos storyboards.
 
 ## Metodologia
-A avaliação por observação fornecem dados sobre como os usuários realizam as atividades desejadas usando sites e ambientes, com ou sem suporte para sistemas interativos. Esse método [1] expõe você a experiências de usuário do mundo real, para que você possa identificar problemas reais. 
+A avaliação por observação fornece dados sobre como os usuários interagem e reagem aos recursos apresentados, com ou sem suporte para sistemas interativos. Esse método [1] expõe o visualizador a experiências de um usuário do mundo real, para que possam ser identificados problemas reais. 
 
-Observação prevê um questionário no qual os avaliadores devem responder com base nas etapas observadas do usuário. A pesquisa foi criada no Microsoft Forms e seu conteúdo é mostrado na Tabela 1 abaixo. 
-
-Alem da observação também foi realizada uma pequena entrevista, que visava complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional e confirmar os resultados obtidos.
+A observação é seguida por uma entrevista, constituindo-se de um questionário no qual os avaliadores devem responder com base nas respostas do leitor, visando complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional e confirmar os resultados obtidos. A pesquisa foi criada no Microsoft Forms e seu conteúdo é mostrado na Tabela 1 abaixo. 
 
 <center>
 
