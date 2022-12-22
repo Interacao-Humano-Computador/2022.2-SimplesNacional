@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|22/12/2022|22/12/2022|1.0|Criação da ata de reunião 26/11/2022|[Arthur Taylor](https://github.com/Eruel6)| - |
+|22/12/2022|22/12/2022|1.0|Criação da ata de reunião 26/11/2022|[Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
 
 
 ## Local e horário
@@ -24,7 +24,7 @@ Definir o site a ser utilizado como objeto de trabalho da disciplina, confecçã
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://www.youtube.com/watch?v=1FD9jvr_M1I&list=PLz1vcLMmwmQIvYR2CUA_lY7vRQM65MwIu&index=4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/1FD9jvr_M1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## Definições
@@ -34,8 +34,8 @@ Os artefatos e seus respectivos responsáveis podem ser conferidos na tabela 1:
 
 <center>
 
-| Artefato | Dupla responsável |
-| :-: | :-: |
+| Artefato | Dupla responsável | revisor |
+| :-: | :-: | :-: |
 | Traçar perfil de usuários | Eduardo, João e Pedro | João, Ana
 | Personas | Pedro | João
 | Perfil - Questionário | Eduardo | Thiago

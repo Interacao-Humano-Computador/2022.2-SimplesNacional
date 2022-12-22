@@ -25,12 +25,4 @@ Apresentação da equipe na Tabela 1 :
 
 *Tabela 1 - Equipe*
 
-
-## Apresentações
-
-  |Conteúdo|Playlist com os videos| 
-  |----|------|
-  |Planejamento|https://youtu.be/fPk5NnAmyGs|
-  |Tarefas|https://youtu.be/GDX784RFX-8 |
-
 </center>

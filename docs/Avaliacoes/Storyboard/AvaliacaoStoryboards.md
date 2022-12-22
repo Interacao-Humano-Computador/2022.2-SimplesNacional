@@ -22,7 +22,7 @@ A observação é seguida por uma entrevista, constituindo-se de um questionári
 Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no papel de entrevistador e o outro no papel de entrevistado.<br>
 <center>
 
-<!--VIDEO DO YOUTUBE | descrever minimamente o vídeo -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdLhP_vi53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
