@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|22/11/2022|22/11/2022|1.0|Criação da ata de reunião 26/11/2022|[Arthur Taylor](https://github.com/Eruel6)| - |
+|22/12/2022|22/12/2022|1.0|Criação da ata de reunião 26/11/2022|[Arthur Taylor](https://github.com/Eruel6)| - |
 
 
 ## Local e horário
