@@ -21,5 +21,5 @@ A reunião foi realizada dia 21 de dezembro de 2022, de forma remota com início
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/S741_WSpXfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/qlIrAinpoTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
