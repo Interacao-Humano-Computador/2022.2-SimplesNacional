@@ -17,24 +17,29 @@ A avaliação por observação fornece dados sobre como os usuários interagem e
 
 A observação é seguida por uma entrevista, constituindo-se de um questionário no qual os avaliadores devem responder com base nas respostas do leitor, visando complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional e confirmar os resultados obtidos. A pesquisa foi criada no Microsoft Forms e seu conteúdo é mostrado na Tabela 1 abaixo. 
 
+
+## Teste-Piloto
+Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no papel de entrevistador e o outro no papel de entrevistado.<br>
 <center>
 
-**Avaliadores designados:** Pedro, Arthur, Eduardo
+<!--VIDEO DO YOUTUBE | descrever minimamente o vídeo -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mdLhP_vi53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 |ID|Descrição|Resposta|Dado|
 |---|---|---|---|
-|01|O storyboard apresenta ator semelhante ao real?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|03|O storyboard apresenta tarefas condizentes com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|01|O storyboard apresenta ator semelhante ao real?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|03|O storyboard apresenta tarefas condizentes com a realidade?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|( ) Sim<br>( ) Não<br>(X) Em parte|Qualitativo|
 |05|Houve representação de problemas de IHC no storyboard?|Nominal|Qualitativo|
-|08|O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?|( ) Sim<br>( ) Não|Qualitativo|
-|09|Você (avaliador) notou aspectos importantes não representados no storyboard?|( ) Sim<br>( ) Não|Qualitativo|
-|10|O ator se deparou com quantos erros durante o uso do sistema?|( ) Nenhum<br>( ) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
-|11|O objetivo apresentado foi atingido por meio de um caminho intuitivo?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|12|Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|13|O storyboard deixa claro a motivação do usuário para utilizar o site?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|08|O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?|(X) Sim<br>( ) Não|Qualitativo|
+|09|Você (avaliador) notou aspectos importantes não representados no storyboard?|(X) Sim<br>( ) Não|Qualitativo|
+|10|O ator se deparou com quantos erros durante o uso do sistema?|( ) Nenhum<br>(X) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
+|11|O objetivo apresentado foi atingido por meio de um caminho intuitivo?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|12|Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|13|O storyboard deixa claro a motivação do usuário para utilizar o site?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+|14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>(X) Em parte|Qualitativo|
 
 *Tabela 1 - Questionário*
 
