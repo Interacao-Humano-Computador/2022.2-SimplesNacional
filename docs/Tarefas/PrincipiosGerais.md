@@ -4,7 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2022|12/11/2022|1.0|Criação do Documento de Políticas| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo Santos](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)|
-|20/11/2022|21/11/2022|1.1|Adiciona aplicação dos princípios no projeto|[Eduardo Santos](https://github.com/edudsan)|-|
+|20/11/2022|21/11/2022|1.1|Adiciona aplicação dos princípios no projeto|[Eduardo Santos](https://github.com/edudsan)|[Arthur Taylor](https://github.com/Eruel6) |
 
 ## Introdução
 Os princípios gerais do projeto são fundamentais para o desenvolvimento do projeto. Esses princípios geralmente são utilizados como roteiro para a elaboração e aperfeiçoamento do projeto selecionado [1]. Os princípios gerais usados estão ligados as seguintes partes: 
