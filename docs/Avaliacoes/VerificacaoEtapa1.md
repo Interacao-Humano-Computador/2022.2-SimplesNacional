@@ -1,16 +1,17 @@
-# Teste Piloto
+# Verificação da Etapa 1 do Projeto
 
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |18/12/2022|19/12/2022|1.0|Criação do Documento| [Thiago Oliveira](https://github.com/Thiab394) e [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)|
+|27/12/2022|28/12/2022|1.1|Troca do Documento de "Teste Piloto" para "Verificação da Etapa 1 do Projeto|[Thiago Oliveira](https://github.com/Thiab394)| - |
 
 ## Introdução
-Na realização do teste piloto, os membros Thiago Oliveira e Pedro Lucas fizeram uma simulação de entrevista utilizando personas a fim de entender os pontos falhos das entrevistas. Obteve-se assim respostas sobre como potencializar as entrevistas para gerar melhores resultados para o avanço do projeto. Foi testado o [storyboard](Storyboard/PlanejamentoAvStoryboard.md) e a [análise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/Analise/).
+Na realização da verificação da primeira etapa do Projeto, que engloba as etapas de [Planejamento da Avaliação da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoAvStoryboard/),[Planejamento do Relato dos Resultados da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/),[Planejamento do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard/) ,os membros Thiago Oliveira e Pedro Lucas fizeram uma simulação de entrevista utilizando personas a fim de entender os pontos falhos das entrevistas. Obteve-se assim respostas sobre como potencializar as entrevistas para gerar melhores resultados para o avanço do projeto.
 
 Após as gravações, foram levantadas ideias de alterações e resultados, que estão contidas nesse documento e foram levadas para debate interno do grupo. 
 
-## Gravação do Teste Piloto
+## Gravação da Verificação
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdLhP_vi53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
