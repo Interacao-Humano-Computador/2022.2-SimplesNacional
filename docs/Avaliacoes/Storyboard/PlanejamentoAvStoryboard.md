@@ -6,6 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
 |19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
+|28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|-|
 
 ## Introdução
 
@@ -59,6 +60,13 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 
 O método de avaliação escolhido para lidar com os storyboards foi a avaliação por observação, complementada por uma entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
+Os principais pontos avaliados pelo DECIDE são:
+
+* Apropriação de tecnologia pelos usuários;
+* Ideias e alternativas de design;
+* Conformidade com um padrão;
+* Problemas na interação e na interface.
+
 ## Observação e entrevista
 
 A avaliação por observação irá fornecer dados sobre como o usuário reage ao storyboard elaborado, assim como sobre o ambiente, atores e etapas para realizar as atividades apresentadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
@@ -69,20 +77,25 @@ Para a observação, será adotado um questionário que o avaliador deverá resp
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
-|ID|Descrição|Resposta|Dado|
-|---|---|---|---|
-|01|O storyboard apresenta ator semelhante ao real?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|03|O storyboard apresenta tarefas condizentes com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|05|Houve representação de problemas de IHC no storyboard?|Nominal|Qualitativo|
-|08|O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?|( ) Sim<br>( ) Não|Qualitativo|
-|09|Você (avaliador) notou aspectos importantes não representados no storyboard?|( ) Sim<br>( ) Não|Qualitativo|
-|10|O ator se deparou com quantos erros durante o uso do sistema?|( ) Nenhum<br>( ) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
-|11|O objetivo apresentado foi atingido por meio de um caminho intuitivo?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|12|Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|13|O storyboard deixa claro a motivação do usuário para utilizar o site?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
+| ID | Descrição | Objetivo |
+| :: | :-------: | :------: |
+|01|O storyboard apresenta ator semelhante ao real?|Verificar a conformidade com um padrão|
+|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|Verificar a conformidade com um padrão|
+|03|O storyboard apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
+|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
+|05|De que maneira os usuários utilizam o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
+|06|O quanto os usuários são motivados a explorar novas funcionalidades?|Analisar a apropriação da tecnologia|
+|07|Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?|Analisar a apropriação da tecnologia|
+|08|Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?|Analisar a apropriação da tecnologia|
+|09|A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?|Analisar a apropriação da tecnologia|
+|10|O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?|Analisar a apropriação da tecnologia|
+|11|Há alternativas de design mais eficientes? Mais fáceis de aprender?|Comparar ideias e alternativas de design|
+|12|(Caso a pergunta 11 seja respondida) Qual das alternativas de design (a atual ou a proposta na pergunta 11) os usuários preferem? Por quê?|Comparar ideias e alternativas de design|
+|13|O usuário consegue operar o sistema?|Identificar problemas na interação e interface|
+|14|Que parte da interface e da interação deixa o usuário insatisfeito?|Identificar problemas na interação e interface|
+|15|O usuário entende o que significa e para que serve cada elemento de interface?|Identificar problemas na interação e interface|
+|16|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
+|17|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
 
 *Tabela 2 - Questionário*
 
@@ -103,9 +116,9 @@ Confira na tabela 3 abaixo o horário, local e participantes.
 |Data|Hora|Local|Avaliador|Usuário|Avaliação|
 |---|---|---|---|---|---|
 |14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Observação - Teste Piloto|
-|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Observação|
-|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Observação|
-|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Observação|
+|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Observação, entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Observação, entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Observação, entrevista|
 
 *Tabela 3 - Cronograma das avaliações*
 
