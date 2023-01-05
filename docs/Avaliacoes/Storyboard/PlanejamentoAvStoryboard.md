@@ -16,7 +16,7 @@ O ciclo de vida de Mayhew [1] propõe o planejamento da avaliação como ativida
 
 ## Storyboard
 
-Um storyboard é um tipo de prototipação de baixa fidelidade, ou seja, apresenta um produto que não é muito parecido com o produto final, apesar de ter que apresentar as mesmas qualidades mínimas como tamanho e funções básicas. Esse recurso é normalmente utilizado em conjunto com cenários e consiste em séries de desenhos que mostram como o usuário poderá interagir com as tarefas do produto que, no caso desse projeto, será uma tela do sistema.
+Um storyboard é um tipo de prototipação de baixa fidelidade, ou seja, apresenta um produto que não é muito parecido com o produto final, apesar de ter que apresentar as mesmas qualidades mínimas como tamanho e funções básicas. Esse recurso é normalmente utilizado em conjunto com cenários e consiste em séries de desenhos que mostram como o usuário poderá interagir com as tarefas do produto.
 
 O projeto se trata de GUI, Graphical User Interface. Esse é um tipo de interface que permite a interação do humano com dispositivos digitais a partir de elementos gráficos extremamente comuns nos sites atuais, como ícones e outros tipos de indicadores visuais. A partir dessas informações, torna-se possível utilizar esboços de telas nos storyboards, agregando benefícios como o aumento da fidelidade com o esperado do produto final e a diminuição de tempo e esforço necessários para a elaboração de protótipos mais complexos do projeto.
 
@@ -36,6 +36,8 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 </center>
 
 <br>
+
+No storyboard confeccionado, temos um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
 
 O storyboard confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
 
@@ -58,20 +60,24 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 * **D**ecide: deve-se decidir (*decide*) como lidar com as questões do *Identify*;
 * **E**valuate: deve-se avaliar (*evaluate*), interpretar e apresentar os dados coletados.
 
-O método de avaliação escolhido para lidar com os storyboards foi a avaliação por observação, complementada por uma entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
+O método de avaliação escolhido para lidar com os storyboards foi a avaliação por meio de uma entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-Os principais pontos avaliados pelo DECIDE são:
+## Objetivos
+
+Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
 
 * Apropriação de tecnologia pelos usuários;
 * Ideias e alternativas de design;
 * Conformidade com um padrão;
 * Problemas na interação e na interface.
 
-## Observação e entrevista
+## Método de Avaliação
 
-A avaliação por observação irá fornecer dados sobre como o usuário reage ao storyboard elaborado, assim como sobre o ambiente, atores e etapas para realizar as atividades apresentadas, seja com ou sem o apoio de sistemas interativos. Esse método identifica os problemas reais, visto que permite ter contato com experiências de uso reais.
+A entrevista foi escolhida como método de avaliação adequado para o Storyboard. Esse método será realizado pela plataforma Microsoft Teams ou, caso possível, de forma presencial e possui a participação de 2 pessoas: um entrevistador e um usuário do sistema.
 
-Para a observação, será adotado um questionário que o avaliador deverá responder com base nas reações do usuário ao entrar em contato com a história em quadrinhos. Essa etapa será seguida por uma pequena entrevista, que visa complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional. Esse questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
+Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do storyboard e, por fim, a realização de um questionário. Haverá, por fim, um tempo extra para que o usuário faça comentários a respeito de problemas e sugestões sobre o storyboard e as atividades apresentadas nele.
+
+O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
 
 <center>
 
@@ -115,18 +121,29 @@ Confira na tabela 3 abaixo o horário, local e participantes.
 
 |Data|Hora|Local|Avaliador|Usuário|Avaliação|
 |---|---|---|---|---|---|
-|14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Observação - Teste Piloto|
-|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Observação, entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Observação, entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Observação, entrevista|
+|14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
+|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Entrevista|
+|06/01/2023|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
 
 *Tabela 3 - Cronograma das avaliações*
 
 </center>
 
-## Relato dos Resultados
+## Interpretação
 
-Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Relato de Resultados](PlanejamentoRelatoResuStoryboard.md).
+A interpretação é um tópico subjetivo e muito variável, não havendo um método fixo para realizá-la. Apesar disso, para guiar o avaliador, foram sugeridos alguns tópicos que devem ser refletidos durante a interpretação dos resultados, são eles:
+
+* O usuário apresentou reações mais positivas ou negativas? Por quê?
+* O usuário estava confortável e atento à tarefa que deveria realizar?
+* As respostas do questionário apresentam um bom alinhamento de ideias?
+* As respostas foram diretas ou subjetivas? Houveram muitas histórias contadas pelo usuário durante as respostas?
+* Ainda de acordo com as respostas, pode-se concluir que o usuário tem uma boa relação com o Simples Nacional?
+
+## Avaliação dos Resultados
+
+Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Planejamento do Relato de Resultados](PlanejamentoRelatoResuStoryboard.md).
 
 ## Bibliografia
 

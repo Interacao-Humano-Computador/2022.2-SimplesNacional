@@ -173,6 +173,27 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 *Tabela 11 - Tarefas executadas para a entrega 5*<br><br>
 
+**Entrega 6**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| Planejamento da Avaliação - Protótipo de Alta Fidelidade | Ana |  |  |  |
+| Planejamento da Avaliação - Protótipo de Papel | Ana |  |  |  |
+| Planejamento de relato de resultados - Protótipo de Alta Fidelidade | João |  |  |  |
+| Planejamento de relato de resultados - Protótipo de Papel | João |  |  |  |
+| Avaliação - Protótipo de Papel | Pedro, Arthur |  |  | |
+| Gravação de Avaliação - Storyboard | Pedro, Arthur |  |  | |
+| Gravação de Avaliação - Análise de Tarefas | Pedro, Arthur |  |  | |
+| Desenvolvimento do Protótipo de Papel | Ana |  |  |  |
+| Teste piloto - Protótipo de Papel | Eduardo |  |  |  |
+| Teste piloto - Protótipo de Alta Fidelidade | Eduardo |  |  |  |
+| Relato dos Resultados - Protótipo de Papel | Thiago |  |  |  |
+| Relato dos Resultados - Storyboard | Thiago |  |  |  |
+| Relato dos Resultados - Análise de Tarefas | Thiago |  |  |  |
+| Ajustes no Planejamento de Relato dos Resultados - Storyboard | Ana | 05/01/2023 |  |  |
+
+*Tabela 12 - Tarefas executadas para a entrega 6*<br><br>
+
 </center>
 
 ## Bibliografia
