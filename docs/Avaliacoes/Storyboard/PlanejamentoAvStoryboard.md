@@ -1,4 +1,4 @@
-# Planejamento da Avaliação dos Storyboards
+# Planejamento da Avaliação do Storyboard
 
 ## Histórico de Versão
 
@@ -13,6 +13,26 @@
 Sistemas interativos de qualidade precisam passar por avaliações de interação humano-computador para obter informações sobre o grau de satisfação das necessidades dos usuários. Com a realização da avaliação, é possível promover a identificação de problemas de capazes de prejudicar a interação do usuário com o sistema.
 
 O ciclo de vida de Mayhew [1] propõe o planejamento da avaliação como atividade essencial. Essa etapa orienta os avaliadores e melhora os resultados coletados que, por consequência, aumenta o grau de confiança das informações sobre o tema.
+
+## Cronograma
+
+Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
+
+Confira na tabela 1 abaixo o horário, local e participantes.
+
+<center>
+
+|Data|Hora|Local|Avaliador|Usuário|Avaliação|
+|---|---|---|---|---|---|
+|14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
+|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Entrevista|
+|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Entrevista|
+|06/01/2023|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
+
+*Tabela 1 - Cronograma das avaliações*
+
+</center>
 
 ## Storyboard
 
@@ -31,13 +51,13 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 |18/12/2022|Confecção do rascunho do storyboard|Ana|Arthur, Pedro|
 |19/12/2022|Redesenho digital do storyboard|Eduardo|Arthur, Pedro|
 
-*Tabela 1 - Planejamento do Storyboard*
+*Tabela 2 - Planejamento do Storyboard*
 
 </center>
 
 <br>
 
-No storyboard confeccionado, temos um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
+No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
 
 O storyboard confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
 
@@ -60,7 +80,7 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 * **D**ecide: deve-se decidir (*decide*) como lidar com as questões do *Identify*;
 * **E**valuate: deve-se avaliar (*evaluate*), interpretar e apresentar os dados coletados.
 
-O método de avaliação escolhido para lidar com os storyboards foi a avaliação por meio de uma entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
+O método de avaliação escolhido para lidar com os storyboards foi a entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
 ## Objetivos
 
@@ -103,33 +123,13 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 |16|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
 |17|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
 
-*Tabela 2 - Questionário*
+*Tabela 3 - Questionário*
 
 </center>
 
 ## Aspectos Éticos
 
 Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Storyboard e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
-
-## Cronograma
-
-Será seguido um cronograma para realizar as avaliações postas acima; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
-
-Confira na tabela 3 abaixo o horário, local e participantes.
-
-<center>
-
-|Data|Hora|Local|Avaliador|Usuário|Avaliação|
-|---|---|---|---|---|---|
-|14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
-|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Entrevista|
-|06/01/2023|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
-
-*Tabela 3 - Cronograma das avaliações*
-
-</center>
 
 ## Interpretação
 
