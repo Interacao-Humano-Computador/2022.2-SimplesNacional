@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)||
+|05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|-|
 
 ## Introdução
 
@@ -84,6 +84,46 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 * Ideias e alternativas de design;
 * Conformidade com um padrão;
 * Problemas na interação e na interface.
+
+## Tarefas
+
+Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático e solicitar restituição. Para isso, haverão alguns passos a serem seguidos.
+
+### A1: Ativar Débito Automático
+
+**Dados necessários:**
+
+* CNPJ;
+* CPF do responsável;
+* Código de acesso;
+* Dados de pagamento.
+
+**Caminho a ser seguido:**
+
+1. Acessar a página inicial do Simples Nacional;
+2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
+3. Realizar login;
+4. Selecionar a opção "Ativar débito automático";
+5. Preencher dados de cobrança;
+6. Confirmar.
+
+### A2: Solicitar Restituição
+
+**Dados necessários:**
+
+* CNPJ;
+* CPF do responsável;
+* Código de acesso;
+* Dados de pagamento.
+
+**Caminho a ser seguido:**
+
+1. Acessar a página inicial do Simples Nacional;
+2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
+3. Realizar login;
+4. Selecionar a opção "Solicitar restituição";
+5. Preencher dados de cobrança;
+6. Confirmar.
 
 ## Método de Avaliação
 
