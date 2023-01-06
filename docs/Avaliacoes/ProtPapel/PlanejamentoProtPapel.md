@@ -53,17 +53,9 @@ A confecção do protótipo de papel se deu em algumas etapas que podem ser conf
 
 <br>
 
-No protótipo de papel confeccionado, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre a experiência que teve com o protótipo.
+No protótipo de papel confeccionado, tem-se 1 tarefa disponível para ser realizada: ativar débito automático; essa tarefa pode ser conferida detalhadamente [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre sua experiência.
 
-O protótipo confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/protpapel/protpapel.pdf).
-
-<center>
-
-<img src="../../../assets/protpapel/protpapel.jpg">
-
-*Figura 1 - Protótipo de Papel (Elaboração própria: Ana)*
-
-</center>
+O protótipo confeccionado pode ser conferido em [PDF](../../assets/protpapel/protpapel.pdf).
 
 ## Metodologia
 
@@ -89,7 +81,7 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 
 ## Tarefas
 
-Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático e solicitar restituição. Para isso, haverão alguns passos a serem seguidos.
+Os usuários deverão realizar uma das tarefas mais procuradas por quem acessa o Simples Nacional, sendo ela ativar débito automático. Para isso, haverão alguns passos a serem seguidos.
 
 ### A1: Ativar Débito Automático
 
@@ -104,28 +96,13 @@ Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático 
 
 1. Acessar a página inicial do Simples Nacional;
 2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
-3. Realizar login;
-4. Selecionar a opção "Ativar débito automático";
-5. Preencher dados de cobrança;
-6. Confirmar.
-
-### A2: Solicitar Restituição
-
-**Dados necessários:**
-
-* CNPJ;
-* CPF do responsável;
-* Código de acesso;
-* Dados de pagamento.
-
-**Caminho a ser seguido:**
-
-1. Acessar a página inicial do Simples Nacional;
-2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
-3. Realizar login;
-4. Selecionar a opção "Solicitar restituição";
-5. Preencher dados de cobrança;
-6. Confirmar.
+3. Escolher "Código de Acesso" como modo de login;
+4. Realizar login;
+5. Selecionar a opção "Débito automático";
+6. Selecionar a opção "Ativar débito automático"
+7. Preencher dados de cobrança;
+8. Confirmar formulário;
+9. Clicar no check de confirmação final.
 
 ## Método de Avaliação
 
