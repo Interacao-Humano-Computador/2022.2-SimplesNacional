@@ -34,7 +34,7 @@ Um protótipo de alta fidelidade apresenta um produto parecido com o produto fin
 
 A utilização desse tipo de prototipagem possui benefícios como: .
 
-A confecção do protótipo de alta fidelidade se deu em algumas etapas que podem ser conferidas na tabela 1 abaixo.
+A confecção do protótipo de alta fidelidade se deu em algumas etapas que podem ser conferidas na tabela 2 abaixo.
 <br><br>
 
 <center>
@@ -53,7 +53,7 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 
 No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e comentando em voz alta o que passa em sua mente durante a realização das tarefas.
 
-O protótipo confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/protalta/protalta.pdf).
+O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/protalta/protalta.pdf).
 
 <center>
 
@@ -131,14 +131,14 @@ O teste de usabilidade foi escolhido como método de avaliação adequado para o
 
 Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas; o avaliador irá observar o comportamento do usuário e, por fim, irá realizar um questionário. Haverá também um tempo extra para que o usuário faça comentários a respeito de problemas e sugestões de melhorias sobre o protótipo e suas atividades.
 
-O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
+O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 3 a seguir.
 
 <center>
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
 | ID | Descrição | Objetivo |
-| :: | :-------: | :------: |
+| :--: | :-------: | :------: |
 |01|O protótipo apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
 |02|O protótipo apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
 |03|De que maneira o usuário utiliza o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
