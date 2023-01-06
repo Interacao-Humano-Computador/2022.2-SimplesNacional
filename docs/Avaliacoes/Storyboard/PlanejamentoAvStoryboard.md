@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
 |19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
-|28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|-|
+|28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
 ## Introdução
 
@@ -40,7 +40,7 @@ Um storyboard é um tipo de prototipação de baixa fidelidade, ou seja, apresen
 
 O projeto se trata de GUI, Graphical User Interface. Esse é um tipo de interface que permite a interação do humano com dispositivos digitais a partir de elementos gráficos extremamente comuns nos sites atuais, como ícones e outros tipos de indicadores visuais. A partir dessas informações, torna-se possível utilizar esboços de telas nos storyboards, agregando benefícios como o aumento da fidelidade com o esperado do produto final e a diminuição de tempo e esforço necessários para a elaboração de protótipos mais complexos do projeto.
 
-A confecção do storyboard se deu em algumas etapas que podem ser conferidas na tabela 1 abaixo.
+A confecção do storyboard se deu em algumas etapas que podem ser conferidas na tabela 2 abaixo.
 <br><br>
 
 <center>
@@ -59,7 +59,7 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 
 No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
 
-O storyboard confeccionado pode ser conferido na imagem abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
+O storyboard confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
 
 <center>
 
@@ -97,14 +97,14 @@ A entrevista foi escolhida como método de avaliação adequado para o Storyboar
 
 Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do storyboard e, por fim, a realização de um questionário. Haverá, por fim, um tempo extra para que o usuário faça comentários a respeito de problemas e sugestões sobre o storyboard e as atividades apresentadas nele.
 
-O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 2 a seguir.
+O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 3 a seguir.
 
 <center>
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
 | ID | Descrição | Objetivo |
-| :: | :-------: | :------: |
+| :---: | :-------: | :------: |
 |01|O storyboard apresenta ator semelhante ao real?|Verificar a conformidade com um padrão|
 |02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|Verificar a conformidade com um padrão|
 |03|O storyboard apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
