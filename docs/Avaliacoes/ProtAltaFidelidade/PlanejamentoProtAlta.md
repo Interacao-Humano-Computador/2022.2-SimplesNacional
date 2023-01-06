@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|-|
+|05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
 ## Introdução
 
