@@ -1,4 +1,4 @@
-# Teste Piloto do Protótipo de papel
+# Teste Piloto do Protótipo de Papel
 
 ## Histórico de Versão  
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|  
