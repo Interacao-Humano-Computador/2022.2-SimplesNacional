@@ -12,7 +12,7 @@ necessário para responder as questões levantadas pelo estudo e auxiliar os des
 ## Objetivo 
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
 
-O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. 
+O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação. 
 
 Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiaiscontêm informações adequadas e suficientes para orientar o participante durante a avaliação [1].
 
