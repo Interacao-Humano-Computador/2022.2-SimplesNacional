@@ -3,7 +3,7 @@
 ## Histórico de Versão  
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|  
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |  
-|05/01/2023|06/01/2023|1.0|Criação do Teste Piloto|[Eduardo](https://github.com/edudsan) e [Thiago Oliveira](https://github.com/thiab394| [-](https://github.com/) | 
+|05/01/2023|06/01/2023|1.0|Criação do Teste Piloto|[Eduardo](https://github.com/edudsan) e [Thiago Oliveira](https://github.com/thiab394)| [-](https://github.com/) | 
 
 ## Introdução 
 Durante o planejamento da avaliação notou-se a necessidade de realizar um teste-piloto para e avaliar o planejamento desenvolvido pela equipe, se ele produz os dados 
