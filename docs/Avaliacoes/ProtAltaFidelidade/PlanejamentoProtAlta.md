@@ -53,13 +53,13 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 
 No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e comentando em voz alta o que passa em sua mente durante a realização das tarefas.
 
-O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/protalta/protalta.pdf).
+<!-- O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/protalta/protalta.pdf).
 
 <center>
 
 <img src="../../assets/protalta/protalta.jpg">*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*<img>
 
-</center>
+</center> -->
 
 ## Metodologia
 
@@ -85,7 +85,7 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 
 ## Tarefas
 
-Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático e solicitar restituição. Para isso, haverão alguns passos a serem seguidos.
+Os usuários deverão realizar uma tarefa, sendo ela "ativar débito automático". Para isso, haverão alguns passos a serem seguidos.
 
 ### A1: Ativar Débito Automático
 
@@ -100,10 +100,13 @@ Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático 
 
 1. Acessar a página inicial do Simples Nacional;
 2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
-3. Realizar login;
-4. Selecionar a opção "Ativar débito automático";
-5. Preencher dados de cobrança;
-6. Confirmar.
+3. Escolher "Código de Acesso" como modo de login;
+4. Realizar login;
+5. Selecionar a opção "Débito automático";
+6. Selecionar a opção "Ativar débito automático"
+7. Preencher dados de cobrança;
+8. Confirmar formulário;
+9. Clicar no check de confirmação final.
 
 ### A2: Solicitar Restituição
 
@@ -118,20 +121,46 @@ Os usuários deverão realizar 2 tarefas, sendo elas ativar débito automático 
 
 1. Acessar a página inicial do Simples Nacional;
 2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
-3. Realizar login;
-4. Selecionar a opção "Solicitar restituição";
-5. Preencher dados de cobrança;
-6. Confirmar.
+3. Escolher "Código de Acesso" como modo de login;
+4. Realizar login;
+5. Selecionar a opção "Solicitar restituição";
+6. Preencher dados de cobrança;
+7. Confirmar formulário;
+8. Clicar no check de confirmação final.
 
 ## Método de Avaliação
 
-O teste de usabilidade foi escolhido como método de avaliação adequado para o Protótipo de Alta Fidelidade. Esse método será realizado pela plataforma Microsoft Teams ou, caso possível, de forma presencial e possui a participação de 3 pessoas, sendo um usuário e dois observadores.
+O teste de usabilidade foi escolhido como método de avaliação adequado para o Protótipo de Alta Fidelidade. Esse método será realizado por meio da plataforma Microsoft Teams ou, caso possível, de forma presencial e possui a participação de 3 pessoas, sendo um usuário e dois observadores.
 
-Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas; o avaliador irá observar o comportamento do usuário e, por fim, irá realizar um questionário. Haverá também um tempo extra para que o usuário faça comentários a respeito de problemas e sugestões de melhorias sobre o protótipo e suas atividades.
+Para iniciar a avaliação, o avaliador deverá apresentar ao usuário um termo de consentimento e aplicar um questionário inicial; em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, o protótipo e as tarefas a serem realizadas; o avaliador irá observar o comportamento do usuário e, por fim, irá realizar um questionário pós-teste. Haverá também um tempo extra para que o usuário faça comentários a respeito de problemas e sugestões de melhorias sobre o protótipo e suas atividades.
 
-O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser conferido na tabela 3 a seguir.
+Durante o teste de usabilidade, serão registrados dados relacionados à experiência dos participantes na realização das tarefas designadas, assim como seus pensamentos expostos em palavras. 
+
+Os questionários serão desenvolvidos no Microsoft Forms e podem ser conferidos nas tabelas 3 e 4 a seguir.
 
 <center>
+
+**Avaliadores designados:** Pedro, Arthur, Eduardo
+
+| ID | Descrição |
+| :--: | :-------: |
+|01|Você (usuário) está de acordo com o termo de consentimento apresentado?|
+|02|Você (usuário) se sente bem para realizar o teste de usabilidade?|
+|03|Qual o seu nível escolaridade?|
+|04|Quantos anos o sr(a). tem?|
+|05|Já precisou de algum tipo de ajuda para utilizar o sistema?|
+|06|Você (usuário) utiliza o Simples Nacional com qual frequência?|
+|07|Você (usuário) acredita que o site atual tem um design agradável?|
+|08|Você (usuário) acredita que o site atual é intuitivo?|
+|09|Você (usuário) possui necessidades e/ou desejos não atendidos pelo site atual?|
+|10|Você (usuário) encontra obstáculos durante o uso do site atual?|
+|11|Você (usuário) possui acesso a internet e dispositivos compatíveis com o site?|
+|12|Qual parte do sistema atual mais te agrada? E qual mais te desagrada?|
+|13|Em sua opinião, o site atual possui um bom suporte ao usuário? Por quê?|
+|14|Você (usuário) consegue atingir seus objetivos?|
+|15|Você (usuário) tem alguma sugestão de melhoria relacionada ao site atual?|
+
+*Tabela 3 - Questionário pré-teste*
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
@@ -153,7 +182,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 |14|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
 |15|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
 
-*Tabela 3 - Questionário*
+*Tabela 4 - Questionário pós-teste*
 
 </center>
 
@@ -173,7 +202,7 @@ A interpretação é um tópico subjetivo e muito variável, não havendo um mé
 
 ## Avaliação dos Resultados
 
-Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Planejamento do Relato de Resultados](). A partir dos resultados relatados, serão implementadas melhorias no protótipo de alta fidelidade para que ele atenda ao máximo os desejos dos usuários finais.
+Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Planejamento do Relato de Resultados](PlanejamentoRelatoResuProtAlta.md). A partir dos resultados relatados, serão implementadas melhorias no protótipo de alta fidelidade para que ele atenda ao máximo os desejos e necessidades dos usuários finais.
 
 ## Bibliografia
 
