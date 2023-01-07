@@ -78,19 +78,21 @@ nav:
     - 1º Nível:
       - Storyboard:
         - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
-        - Planejamento de Relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
-        - Avaliação do Storyboards: Avaliacoes/Storyboard/AvaliacaoStoryboards.md
+        - Planejamento do Relato : Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
+        - Avaliação : Avaliacoes/Storyboard/AvaliacaoStoryboards.md
       - Análise de Tarefas:
         - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
-        - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
-        - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md  
+        - Planejamento do Relato : Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
+        - Avaliação : Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md  
       - Verificação da 1ª Etapa: Avaliacoes/VerificacaoEtapa1.md
     - 2º Nível:
       - Protótipo de Papel:
         - Planejamento da Avaliação: Avaliacoes/ProtPapel/PlanejamentoProtPapel.md
+        - Planejamento do Relato : Avaliacoes/ProtPapel/PlanejamentoRelatoResuProtPapel.md
     - 3º Nível:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação: Avaliacoes/ProtAltaFidelidade/PlanejamentoProtAlta.md
+        - Planejamento do Relato : Avaliacoes/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta.md
     - Testes Piloto: 
       - Storyboard: Avaliacoes/TestesPiloto/TestePilotoStoryboard.md
       - Analise de Tarefas: Avaliacoes/TestesPiloto/TestepilotoAnaliTarefas.md

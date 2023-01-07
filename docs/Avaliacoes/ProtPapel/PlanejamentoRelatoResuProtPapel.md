@@ -1,11 +1,10 @@
-# Planejamento do Relato de Resultados dos Storyboards
+# Planejamento do Relato de Resultados dos Protótipo de Papel
 
 ## Histórico de Versão
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|14/12/2022|14/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|
-|05/01/2023|06/01/2023|1.1|Ajustes e complementações|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
+|14/12/2022|14/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[-](https://github.com/)|
 
 ## Introdução
 
@@ -15,11 +14,11 @@ Vale lembrar que os resultados da avaliação do IHC costumam indicar problemas 
 
 ## Metodologia
 
-Será posta em prática a avaliação proposta no [planejamento](PlanejamentoAvStoryboard.md), em seguida serão analisados os dados referentes às perguntas elaboradas. Caso o usuário se encontre em um ambiente inadequado ou apresente quaisquer indícios de desconforto ou inaptidão, a avaliação será interrompida e os dados obtidos durante sua duração poderão ser descartados.
+Será posta em prática a avaliação proposta no [planejamento](PlanejamentoProtPapel.md), em seguida serão analisados os dados referentes às perguntas elaboradas. Caso o usuário se encontre em um ambiente inadequado ou apresente quaisquer indícios de desconforto ou inaptidão, a avaliação será interrompida e os dados obtidos durante sua duração poderão ser descartados.
 
 ## Relato de Resultados
 
-Os tópicos que serão apresentados a seguir deverão estar explícitos no relato de resultados.
+Os tópicos que serão apresentados a seguir deverão estar explícitos na avaliação.
 
 ### Objetivos
 
@@ -39,11 +38,11 @@ As tarefas a serem realizadas pelo(s) participante(s) devem estar também esclar
 
 ### Interpretação
 
-A interpretação dos dados deve ser feita para garantir um bom relato de resultados. Tópicos sugeridos para realizar essa etapa se encontram no documento de [planejamento](PlanejamentoAvStoryboard.md).
+A interpretação dos dados deve ser feita para garantir um bom relato de resultados. Tópicos sugeridos para realizar essa etapa se encontram no documento de [planejamento](PlanejamentoProtPapel.md).
 
 ### Problemas
 
-Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no storyboard ou na formulação do storyboard em si, devem ser listados.
+Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no Prototipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
 
 ### Sugestões
 

@@ -1,4 +1,4 @@
-# Planejamento de Relato dos Resultados da Análise de Tarefas
+# Planejamento do Relato de Resultados da Análise de Tarefas
 
 ## Histórico de Versão
 

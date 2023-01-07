@@ -20,7 +20,7 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 |Data|Hora|Local|Avaliador|Usuário|Avaliação|
 |---|---|---|---|---|---|
-|05/06/2023|16:00|Online - Microsoft Teams|Pedro|Thiago|Teste Piloto|
+|05/01/2023|16:00|Online - Microsoft Teams|Pedro|Thiago|Teste Piloto|
 |06/01/2023|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
 |06/01/2023|20:00|Online - Microsoft Teams|Thiago|*A confirmar*|Entrevista|
 
