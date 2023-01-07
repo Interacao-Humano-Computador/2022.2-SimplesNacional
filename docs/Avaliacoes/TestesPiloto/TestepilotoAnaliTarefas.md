@@ -1,5 +1,10 @@
 # Teste Piloto
 
+## Histórico de Versão 
+|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor| 
+| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: | 
+|05/01/2023|06/01/2023|1.0|Criação do do Teste Piloto|[Eduardo](https://github.com/edudsan)| [-](https://github.com/) |
+
 ## 1.Introdução
 
 Durante o planejamento da avaliação notou-se a necessidade de realizar um teste-piloto para e avaliar o planejamento desenvolvido pela equipe, se ele produz os dados
