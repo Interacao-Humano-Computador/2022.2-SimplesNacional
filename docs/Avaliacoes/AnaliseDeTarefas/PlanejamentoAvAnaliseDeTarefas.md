@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |14/12/2022|14/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
 |14/12/2022|14/12/2022|1.1|Adição do teste piloto|[Eduardo](https://github.com/edudsan) e [Pedro](https://github.com/PedroLSF)|[Arthur Taylor](https://github.com/Eruel6)|
-|06/01/2023|08/01/2022|1.2|Mudança nas perguntas de análise|[Arthur Taylor](https://github.com/Eruel6)| - |
+|06/01/2023|08/01/2022|1.2|Mudança nas perguntas de análise|[Arthur Taylor](https://github.com/Eruel6)| [Thiago Oliveira](https://github.com/Thiab394) |
 
 ## Introdução
 
@@ -48,13 +48,13 @@ Podemos destacar os seguintes pontos como objetivos traçados para esta análise
 |3|Qual o seu grau de ensino?| - |Aberta| - |
 |4|Qual o sua ocupação?| - |Aberta| - |
 |5|Você utiliza o simples nacional?| 1 |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
-|6|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo1.png) para realizar a ativação do débito automático  está condizente com a realidade?|3|Aberta|-|
-|7|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo2.png) para realizar a consulta do débito automático  está condizente com a realidade?|3|Aberta|-|
-|8|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo3.png) para realizar a alteração do débito automático  está condizente com a realidade?|3|Aberta|-|
-|9|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo4.png) para desativar o débito automático  está condizente com a realidade?|3|Aberta|-|
-|10|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo5.png) para vizualizar cálculos e declarações está condizente com a realidade?|3|Aberta|-|
-|11|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo6.png) para realizar um pagamento de forma online está condizente com a realidade?|3|Aberta|-|
-|12|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo7.png) para a solicitação de uma restituição está condizente com a realidade?|3|Aberta|-|
+|6|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo1.png) para realizar a ativação do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|7|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo2.png) para realizar a consulta do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|8|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo3.png) para realizar a alteração do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|9|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo4.png) para desativar o débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|10|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo5.png) para vizualizar cálculos e declarações está condizente com a realidade?|3|Fechada|Sim/Não|
+|11|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo6.png) para realizar um pagamento de forma online está condizente com a realidade?|3|Fechada|Sim/Não|
+|12|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo7.png) para a solicitação de uma restituição está condizente com a realidade?|3|Fechada|Sim/Não|
 
 Tabela 2 - Exemplos de questões a serem tratadas
 </center>
