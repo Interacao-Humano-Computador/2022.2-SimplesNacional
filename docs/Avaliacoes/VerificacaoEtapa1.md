@@ -4,7 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |18/12/2022|19/12/2022|1.0|Criação do Documento| [Thiago Oliveira](https://github.com/Thiab394) e [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)|
-|27/12/2022|28/12/2022|1.1|Troca do Documento de "Teste Piloto" para "Verificação da Etapa 1 do Projeto|[Thiago Oliveira](https://github.com/Thiab394)| - |
+|27/12/2022|28/12/2022|1.1|Troca do Documento de "Teste Piloto" para "Verificação da Etapa 1 do Projeto|[Thiago Oliveira](https://github.com/Thiab394)| [Eduardo](https://github.com/edudsan) |
 
 ## Introdução
 Na realização da verificação da primeira etapa do Projeto, que engloba as etapas de [Planejamento da Avaliação da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoAvStoryboard/),[Planejamento do Relato dos Resultados da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/),[Planejamento do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard/) ,os membros Thiago Oliveira e Pedro Lucas fizeram uma simulação de entrevista utilizando personas a fim de entender os pontos falhos das entrevistas. Obteve-se assim respostas sobre como potencializar as entrevistas para gerar melhores resultados para o avanço do projeto.
