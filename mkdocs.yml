@@ -49,6 +49,7 @@ nav:
       - Política de Commit: Politicas/PolitcaDeCommit.md
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
+    - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
   - Apresentações/Reuniões:
     - Apresentações:
       - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
@@ -83,10 +84,11 @@ nav:
     - Análise de Tarefas:
       - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
       - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
-      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md
+      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md  
     - Protótipo de Papel:
       - Planejamento da Avaliação: Avaliacoes/ProtPapel/PlanejamentoProtPapel.md
     - Protótipo de Alta Fidelidade:
       - Planejamento da Avaliação: Avaliacoes/ProtAltaFidelidade/PlanejamentoProtAlta.md
-    - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
-    - Teste Piloto: Avaliacoes/Teste-Piloto.md
+    - Testes Piloto: 
+      - Storyboard: Avaliacoes/TestesPiloto/TestePilotoStoryboard.md
+      - Analise de Tarefas: Avaliacoes/TestesPiloto/TestepilotoAnaliTarefas.md

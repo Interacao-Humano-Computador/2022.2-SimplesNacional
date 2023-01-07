@@ -57,9 +57,7 @@ O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../
 
 <center>
 
-<img src="../../../assets/protalta/protalta.jpg">
-
-*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*
+<img src="../../assets/protalta/protalta.jpg">*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*<img>
 
 </center>
 
