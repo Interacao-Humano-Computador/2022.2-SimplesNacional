@@ -1,4 +1,4 @@
-# Teste Piloto 
+# Teste Piloto da Análise de Tarefas
 
 ## Histórico de Versão  
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|  
@@ -7,7 +7,7 @@
 
 ## Introdução 
 Durante o planejamento da avaliação notou-se a necessidade de realizar um teste-piloto para e avaliar o planejamento desenvolvido pela equipe, se ele produz os dados 
-necessário para responder as questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no formulário da Analise de tarefas. 
+necessário para responder as questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no formulário da Análise de tarefas. 
 
 ## Objetivo 
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
@@ -47,7 +47,7 @@ Natureza da pesquisa: O senhor(a) está sendo convidado(a) a participar desta pe
 
 Participantes da pesquisa: 1 participante, com foco em perfil semelhante ao perfil de usuário do projeto.
 
-Envolvimento na pesquisa: Ao participar deste estudo o senhor(a) permitirá que o(a) pesquisador(a), anotar suas respostas tanto pessoais quanto impessoais para analise, avaliação, design e melhora do site Simples Nacional e Utilização de sua Imagem para os mesmos fins especificados anteriormente. O senhor(a) tem liberdade de se recusar a participar e ainda se recusar a continuar participando em qualquer fase da pesquisa, sem qualquer prejuízo para o senhor(a). Sempre que quiser, poderá pedir mais informações sobre a pesquisa através do e-mail do(a) pesquisador(a) do projeto.
+Envolvimento na pesquisa: Ao participar deste estudo o senhor(a) permitirá que o(a) pesquisador(a), anotar suas respostas tanto pessoais quanto impessoais para análise, avaliação, design e melhora do site Simples Nacional e Utilização de sua Imagem para os mesmos fins especificados anteriormente. O senhor(a) tem liberdade de se recusar a participar e ainda se recusar a continuar participando em qualquer fase da pesquisa, sem qualquer prejuízo para o senhor(a). Sempre que quiser, poderá pedir mais informações sobre a pesquisa através do e-mail do(a) pesquisador(a) do projeto.
 
 Riscos e desconforto: A participação nesta pesquisa não traz complicações legais. Os procedimentos adotados nesta pesquisa obedecem aos Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução no. 196/96 do Conselho Nacional de Saúde. Nenhum dos procedimentos usados oferece riscos à sua dignidade.
 

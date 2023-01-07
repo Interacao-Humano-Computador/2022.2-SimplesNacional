@@ -32,8 +32,20 @@ theme:
     - navigation.top
 
 nav:
-  - Projeto: 
-    - Projeto: index.md
+  - Apresentações/Reuniões:
+    - Apresentações:
+      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
+      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
+      - 3º Ponto de Controle: Apresentacoes/TerceiraEntrega.md
+      - 4º Ponto de Controle: Apresentacoes/QuartaEntrega.md
+      - 5º Ponto de Controle: Apresentacoes/QuintaEntrega.md
+    - Reuniões:
+      - 1ª Reunião: Atas/Reuniao1.md
+      - 2ª Reunião: Atas/Reuniao2.md
+      - 3ª Reunião: Atas/Reuniao3.md
+      - 4ª Reunião: Atas/Reuniao4.md
+      - 5ª Reunião: Atas/Reuniao5.md
+      - 6ª Reunião: Atas/Reuniao6.md
   - Planejamento:
     - Sites Analisados: Planejamento/SitesAnalisados.md
     - Metodologias e Processos: Planejamento/Metodologia.md
@@ -50,20 +62,6 @@ nav:
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
     - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
-  - Apresentações/Reuniões:
-    - Apresentações:
-      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
-      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
-      - 3º Ponto de Controle: Apresentacoes/TerceiraEntrega.md
-      - 4º Ponto de Controle: Apresentacoes/QuartaEntrega.md
-      - 5º Ponto de Controle: Apresentacoes/QuintaEntrega.md
-    - Reuniões:
-      - 1ª Reunião: Atas/Reuniao1.md
-      - 2ª Reunião: Atas/Reuniao2.md
-      - 3ª Reunião: Atas/Reuniao3.md
-      - 4ª Reunião: Atas/Reuniao4.md
-      - 5ª Reunião: Atas/Reuniao5.md
-      - 6ª Reunião: Atas/Reuniao6.md
   - Análise de Requisitos:
     - Análise de Tarefas: Tarefas/Analise.md
     - Perfil de Usúario:
@@ -76,19 +74,22 @@ nav:
     - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
     - Princípios Gerais: Tarefas/PrincipiosGerais.md
     - Guia de Estilo: Tarefas/GuiaDeEstilo.md
-  - Avaliações:
-    - Storyboard:
-      - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
-      - Planejamento de Relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
-      - Avaliação do Storyboards: Avaliacoes/Storyboard/AvaliacaoStoryboards.md
-    - Análise de Tarefas:
-      - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
-      - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
-      - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md  
-    - Protótipo de Papel:
-      - Planejamento da Avaliação: Avaliacoes/ProtPapel/PlanejamentoProtPapel.md
-    - Protótipo de Alta Fidelidade:
-      - Planejamento da Avaliação: Avaliacoes/ProtAltaFidelidade/PlanejamentoProtAlta.md
+  - Design, Avaliação e Desenvolvimento:
+    - 1º Nível:
+      - Storyboard:
+        - Planejamento da Avaliação: Avaliacoes/Storyboard/PlanejamentoAvStoryboard.md
+        - Planejamento de Relato dos Resultados: Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard.md
+        - Avaliação do Storyboards: Avaliacoes/Storyboard/AvaliacaoStoryboards.md
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
+        - Planejamento de Relato dos Resultados: Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
+        - Avaliação da Análise de Tarefas: Avaliacoes/AnaliseDeTarefas/AvaliacaoAnaliseDeTarefas.md  
+    - 2º Nível:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação: Avaliacoes/ProtPapel/PlanejamentoProtPapel.md
+    - 3º Nível:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: Avaliacoes/ProtAltaFidelidade/PlanejamentoProtAlta.md
     - Testes Piloto: 
       - Storyboard: Avaliacoes/TestesPiloto/TestePilotoStoryboard.md
       - Analise de Tarefas: Avaliacoes/TestesPiloto/TestepilotoAnaliTarefas.md
