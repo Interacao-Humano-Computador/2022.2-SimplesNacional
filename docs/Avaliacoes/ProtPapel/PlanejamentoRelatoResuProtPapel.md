@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|05/01/2023|06/01/2023|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[-](https://github.com/)|
+|05/01/2023|06/01/2023|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Thiago Olveira](https://github.com/Thiab394)|
 
 ## Introdução
 
