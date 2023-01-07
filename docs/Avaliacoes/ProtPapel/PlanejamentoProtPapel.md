@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|01/01/2023|02/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|-|
+|01/01/2023|02/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Thiago Oliveira](https://github.com/Thiab394)|
 
 ## Introdução
 
@@ -117,7 +117,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
 | ID | Descrição | Objetivo |
-| :: | :-------: | :------: |
+| :---: | :-------: | :------: |
 |01|O protótipo de papel apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
 |02|O protótipo apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
 |03|De que maneira o usuário utiliza o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
