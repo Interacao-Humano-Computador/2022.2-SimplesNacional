@@ -5,6 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |14/12/2022|14/12/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
+|10/01/2022|11/01/2022|2.0|Mudança na estrutura do documento para estar condizente com o planejamento da avaliação da analise de tarefas|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
 
 ## <a>Introdução</a>
 Neste documento será apresentado os pontos que foram levantados para a entrevista e para o percurso cognitivo, 
@@ -30,20 +31,20 @@ para o Entrevistado.
 As perguntas a serem realizadas na Entrevista poderão ser visualizadas a seguir na *tabela 1*:
 <center>
 
-|Questão|Pergunta|Tipo de pergunta|Opções de Resposta|
-| :----------: | :-----------: | :---------: |:---------: |
-|1|Qual é o seu nome ?|Aberta| - |
-|2|Qual é a sua idade ? |Aberta| - |
-|3|Qual é o seu grau de ensino ? |Aberta| - |
-|4|Qual é a sua oucupação ? |Aberta| - |
-|5|Você utiliza o simples nacional ? |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
-|6|Você acha que a plataforma proporciona as funcionalidade que promete ? |Aberta| - |
-|7|Você possui algum problema com o design do simples Nacional ? Se sim, qual ? |Aberta| - |
-|8|Alguma parte do sistema possui diferenças em relação as outras ? |Aberta|
-|9|Você enfrenta problemas recorrentes na utilização do Simples Nacional ? |Fechada| Sim/Não (caso não enfrete problemas a pergunta 11,  não deve ser feita) |
-|10|Você Alcança seu objetivo com rapidez ? |Aberta| - |
-|11|Quais problemas são geralmente encontrados por você durante a utilização do sistema ? |Aberta| - |
-|12|Alguma parte do sistema te desmotiva a utiliza-lo ? Se sim qual ?|Aberta| - |
+|Ordem|Pergunta|Objetivo relacionado|Tipo de pergunta|Opções de Resposta|
+| :----------: | :------: | :-----------: | :---------: |:---------: |
+|1|Qual o seu nome?| - |Aberta| - |
+|2|Qual a sua idade?| - |Aberta| - |
+|3|Qual o seu grau de ensino?| - |Aberta| - |
+|4|Qual o sua ocupação?| - |Aberta| - |
+|5|Você utiliza o simples nacional?| 1 |Fechada| Sim/Não (caso não seja usuário as demais perguntas não devem ser feitas) |
+|6|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo1.png) para realizar a ativação do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|7|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo2.png) para realizar a consulta do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|8|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo3.png) para realizar a alteração do débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|9|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo4.png) para desativar o débito automático  está condizente com a realidade?|3|Fechada|Sim/Não|
+|10|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo5.png) para vizualizar cálculos e declarações está condizente com a realidade?|3|Fechada|Sim/Não|
+|11|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo6.png) para realizar um pagamento de forma online está condizente com a realidade?|3|Fechada|Sim/Não|
+|12|O [diagrama](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/assets/analise/objetivo7.png) para a solicitação de uma restituição está condizente com a realidade?|3|Fechada|Sim/Não|
 
 Tabela 1 - Questões a serem tratadas na Entrevista. 
 </center>
@@ -64,27 +65,11 @@ as mesmas vantagens da questão anterior.
 Todas as questões até agora foram de cunho geral, a partir desta seguiremos para um cunho mais especifico, onde será abordado a especificidade e os objetivos do projeto/do site
 de acordo com o entrevistado(a), esta questão em espicifico é basicamente uma confirmação de que se pode continuar a entrevista, e tirar algum resultado da mesma, pois
 como visto na *tabela1*, caso a resposta seja negativa, a entrevista será encerrada.
-### <a>Questão 6</a>
-Para tal questão vale especificar quais as "funcionalidades prometidas" caso o entrevistado(a) não saiba ou fique em dúvida/perdido, a partir dai e da resposta do entrevistado(a)
-da pra se ter uma boa ideia de quasi funcionalidades presentes no site são passiveis de melhora.
-### <a>Questão 7</a>
-A partir desta questão tem-se várias opiniões e sugestões sobre o design do site, informações essas que serão utilizadas e analisadas para a melhora do design do mesmo,
-por meio do prototipo de baixa fidelidade e de alta fidelidade confeccionados neste projeto(tentar ter o maximo de sugestões possiveis).
-### <a>Questão 8</a>
-A partir desta questão tem-se opiniões sobre a padronização do site, tais opiniões caso sejam negativas, devem ser utilizadas para a melhora do mesmo, fazendo com que
-tais partes de certa forma diferentes do restante, se tornem algo mais padronizado.
-### <a>Questão 9</a>
-Pergunta fechada com o objetivo de verificar se a pergunta numero 11 pode ser realizada, visto que com resposta negativa, nao é possivel de se realizar a mesma.
-### <a>Questão 10</a>
-A partir desta questão da pra se ter uma noção da eficiência do site Simples Nacional, podendo englobar nao apenas rapidez mas consistência também, onde cabem respostas
-como, queda frequente, mal carregamento, etc, que serão utilizadas para confecção do documento de resultados da analise de tarefas e do restante do projeto, como os prototipos.
-### <a>Questão 11</a>
-Questão com o objetivo de levantar uma grande quantidade de requisitos, podendo ser eles tanto funcionais quanto não funcionais, que em conjunto com os requisitos já
-elaborados pelos pesquisadores, serão analisados e comparados para a solução de tais problemas.
-### <a>Questão 12</a>
-A partir desta questão conseguimos ter opiniões sobre o engajmaneto que o site tem com seus usuários, onde no caso de resposta positiva, deve-se perguntar quais áreas
-estão com tal problema, perguntar possiveis soluções para o entrevistado(a), caso tenha alguma resposta utiliza-lá, caso não tenha, elaborar uma reunião com os demais
-pesquisadores e rever o design do site.
+### <a>Questão 6+</a>
+A partir desta questão entramos na parte mais especifica, das perguntas destinadas á avaliação dos diagramas da analise de tarefas, portanto tais perguntas foram 
+elaboradas com isso em mente, fazendo com que todas as perguntas a partir desta, busquem dizer se os diagramas realizados com suas interações entre si e no
+próprio diagrama isolado, estão condizentes com a realidade, referente a como aquela atividade descrita no diagrama é realizada no próprio site do SimplesNacional,
+tal questionamento/duvida sendo sanada a partir da resposta do usuário entrevitado, após receber instruções sobre as funções e interações de cada diagrama de analise de tarefas.
 ## <a>Conclusão</a>
 A partir de tal documento temos de certa forma um "roteiro" de como se obter os resultados referentes a avaliação da analise de tarefas, e como e quando utiliza-los
 da melhor forma possivel, sendo tais caracteristicas tanto para o método da entrevista, quanto para o método do percurso cognitivo.
