@@ -1,6 +1,6 @@
 # Planejamento da Avaliação do Storyboard
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
@@ -8,13 +8,13 @@
 |19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 |28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
-## Introdução
+## <a>Introdução</a>
 
 Sistemas interativos de qualidade precisam passar por avaliações de interação humano-computador para obter informações sobre o grau de satisfação das necessidades dos usuários. Com a realização da avaliação, é possível promover a identificação de problemas de capazes de prejudicar a interação do usuário com o sistema.
 
 O ciclo de vida de Mayhew [1] propõe o planejamento da avaliação como atividade essencial. Essa etapa orienta os avaliadores e melhora os resultados coletados que, por consequência, aumenta o grau de confiança das informações sobre o tema.
 
-## Cronograma
+## <a>Cronograma</a>
 
 Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 3, consistindo em 1 usuário real e 2 personas, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
 
@@ -34,7 +34,7 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 </center>
 
-## Storyboard
+## <a>Storyboard</a>
 
 Um storyboard é um tipo de prototipação de baixa fidelidade, ou seja, apresenta um produto que não é muito parecido com o produto final, apesar de ter que apresentar as mesmas qualidades mínimas como tamanho e funções básicas. Esse recurso é normalmente utilizado em conjunto com cenários e consiste em séries de desenhos que mostram como o usuário poderá interagir com as tarefas do produto.
 
@@ -69,7 +69,7 @@ O storyboard confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../
 
 </center>
 
-## Metodologia
+## <a>Metodologia</a>
 
 O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que ele propõe uma boa opção de estruturação de avaliações, seguindo as definições do acrônimo. Confira abaixo os tópicos inclusos no DECIDE.
 
@@ -82,7 +82,7 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 
 O método de avaliação escolhido para lidar com os storyboards foi a entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-## Objetivos
+## <a>Objetivos</a>
 
 Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
 
@@ -91,7 +91,7 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 * Conformidade com um padrão;
 * Problemas na interação e na interface.
 
-## Método de Avaliação
+## <a>Método de Avaliação</a>
 
 A entrevista foi escolhida como método de avaliação adequado para o Storyboard. Esse método será realizado pela plataforma Microsoft Teams ou, caso possível, de forma presencial e possui a participação de 2 pessoas: um entrevistador e um usuário do sistema.
 
@@ -127,11 +127,11 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 </center>
 
-## Aspectos Éticos
+## <a>Aspectos Éticos</a>
 
 Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Storyboard e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
-## Interpretação
+## <a>Interpretação</a>
 
 A interpretação é um tópico subjetivo e muito variável, não havendo um método fixo para realizá-la. Apesar disso, para guiar o avaliador, foram sugeridos alguns tópicos que devem ser refletidos durante a interpretação dos resultados, são eles:
 
@@ -141,10 +141,10 @@ A interpretação é um tópico subjetivo e muito variável, não havendo um mé
 * As respostas foram diretas ou subjetivas? Houveram muitas histórias contadas pelo usuário durante as respostas?
 * Ainda de acordo com as respostas, pode-se concluir que o usuário tem uma boa relação com o Simples Nacional?
 
-## Avaliação dos Resultados
+## <a>Avaliação dos Resultados</a>
 
 Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Planejamento do Relato de Resultados](PlanejamentoRelatoResuStoryboard.md).
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

@@ -1,11 +1,11 @@
 # Termo de Consentimento
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |18/12/2022|19/12/2022|1.0|Criação do Termo de Consentimento para Avaliações| [Thiago Oliveira](https://github.com/Thiab394)|[Pedro Lucas](https://github.com/PedroLSF)|
 
-## Termo de Consentimento Livre e Esclarecido
+## <a>Termo de Consentimento Livre e Esclarecido</a>
 
 **Título da Pesquisa**: Avaliação do site Simples Nacional(Análise de Tarefas e Storyboard), referente ao projeto do grupo 3 da disciplina Interação Humano Computador Da Universidade de Brasilia(UnB),ministrada pelo professor André Barros
 
@@ -25,7 +25,7 @@ Após estes esclarecimentos, solicitamos o seu consentimento de forma livre para
 
 **Obs:** Não assine esse termo se ainda tiver dúvidas a respeito da sua participação.
 
-### Consentimento Livre e Esclarecido
+### <a>Consentimento Livre e Esclarecido</a>
 Tendo em vista os itens acima apresentados, eu, de forma livre e esclarecida, manifesto meu consentimento em participar da pesquisa. Declaro que recebi cópia deste termo de consentimento, e autorizo a realização da pesquisa e a divulgação dos dados obtidos neste estudo.
 
 **Nome do Participante da Pesquisa**: Raimundo Coelho

@@ -1,15 +1,15 @@
 # Teste Piloto da Análise de Tarefas
 
-## Histórico de Versão  
+## <a>Histórico de Versão  </a>
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|  
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |  
 |05/01/2023|06/01/2023|1.0|Criação do Teste Piloto|[Eduardo](https://github.com/edudsan) e [Thiago Oliveira](https://github.com/Thiab394)| [João Lucas](https://github.com/Hackairos) | 
 
-## Introdução 
+## <a>Introdução </a>
 Durante o planejamento da avaliação notou-se a necessidade de realizar um teste-piloto para e avaliar o planejamento desenvolvido pela equipe, se ele produz os dados 
 necessário para responder as questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no formulário da Análise de tarefas. 
 
-## Objetivo 
+## <a>Objetivo </a>
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
 
 O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação. 
@@ -18,11 +18,11 @@ Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações 
 
 Caso algum problema for detectado o material de apoio deve ser corrigido, caso haja diversas mudanças caso o avaliador sinta necessidade ele pode aplicar outra avaliação descartando os dados das avaliações anteriores. 
 
-## Teste Piloto 
+## <a>Teste Piloto </a>
 
 No vídeo a seguir é possível visualizar o integrante do grupo Eduardo verificando se o material a ser utilizado pela equipe está disponível no repositório e se estão funcionando como o esperado.
 
-### Video 
+### <a>Video </a>
 A seguir pode ser encontrado o vídeo confeccionado pelo grupo :
 
 <center>
@@ -32,10 +32,10 @@ A seguir pode ser encontrado o vídeo confeccionado pelo grupo :
 
 </center>
 
-## Resultado 
+## <a>Resultado </a>
 Após realizar a verificação dos matérias que serão utilizados para a entrevista do usuário, pode-se concluir que está tudo pronto para realizar a entrevistas sem maiores problemas. 
 
-## Termo de consentimento 
+## <a>Termo de consentimento </a>
  
 Título da Pesquisa: Avaliação do site Simples Nacional(Análise de Tarefas e Storyboard), referente ao projeto do grupo 3 da disciplina Interação Humano Computador Da Universidade de Brasilia(UnB),ministrada pelo professor André Barros
 
@@ -73,6 +73,6 @@ Pesquisadores: Eduardo Schuindt Santos – 202042927@aluno.unb.br
 Thiago Oliveira Cunha - tholiv1@gmail.com
 
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010. 

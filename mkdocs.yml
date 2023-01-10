@@ -30,23 +30,11 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
 
 nav:
-  - Apresentações/Reuniões:
-    - Apresentações:
-      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
-      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
-      - 3º Ponto de Controle: Apresentacoes/TerceiraEntrega.md
-      - 4º Ponto de Controle: Apresentacoes/QuartaEntrega.md
-      - 5º Ponto de Controle: Apresentacoes/QuintaEntrega.md
-    - Reuniões:
-      - 1ª Reunião: Atas/Reuniao1.md
-      - 2ª Reunião: Atas/Reuniao2.md
-      - 3ª Reunião: Atas/Reuniao3.md
-      - 4ª Reunião: Atas/Reuniao4.md
-      - 5ª Reunião: Atas/Reuniao5.md
-      - 6ª Reunião: Atas/Reuniao6.md
-  - Planejamento:
+  - Planejamento: 
+    - Projeto: index.md
     - Sites Analisados: Planejamento/SitesAnalisados.md
     - Metodologias e Processos: Planejamento/Metodologia.md
     - Modelo de Design: Planejamento/ModeloDesign.md
@@ -62,6 +50,21 @@ nav:
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
     - Termo de Consentimento: Avaliacoes/Termo-de-Consentimento-Avaliacoes.md
+  - Apresentações/Reuniões:
+    - Reunioes: Reunioes/index.md
+    - Apresentações:
+      - 1º Ponto de Controle: Reunioes/Apresentacoes/PrimeiraEntrega.md
+      - 2º Ponto de Controle: Reunioes/Apresentacoes/SegundaEntrega.md
+      - 3º Ponto de Controle: Reunioes/Apresentacoes/TerceiraEntrega.md
+      - 4º Ponto de Controle: Reunioes/Apresentacoes/QuartaEntrega.md
+      - 5º Ponto de Controle: Reunioes/Apresentacoes/QuintaEntrega.md
+    - Reuniões:
+      - 1ª Reunião: Reunioes/Atas/Reuniao1.md
+      - 2ª Reunião: Reunioes/Atas/Reuniao2.md
+      - 3ª Reunião: Reunioes/Atas/Reuniao3.md
+      - 4ª Reunião: Reunioes/Atas/Reuniao4.md
+      - 5ª Reunião: Reunioes/Atas/Reuniao5.md
+      - 6ª Reunião: Reunioes/Atas/Reuniao6.md
   - Análise de Requisitos:
     - Análise de Tarefas: Tarefas/Analise.md
     - Perfil de Usúario:
@@ -96,3 +99,4 @@ nav:
     - Testes Piloto: 
       - Storyboard: Avaliacoes/TestesPiloto/TestePilotoStoryboard.md
       - Analise de Tarefas: Avaliacoes/TestesPiloto/TestepilotoAnaliTarefas.md
+      - Protótipo de Papel: Avaliacoes/TestesPiloto/TestePilotoProtPapel.md

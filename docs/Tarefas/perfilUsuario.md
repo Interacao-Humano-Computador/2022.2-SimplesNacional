@@ -1,11 +1,11 @@
 # Perfil do Usuário
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |05/12/2022|06/12/2022|1.0|Criação do documento| [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos) |
 
-## Introdução
+## <a>Introdução</a>
 
 O perfil do usuário deve ser definido levando em conta o maior número possível de tipos de dados a serem coletados. Em outras palavras, um perfil deve possuir informações como, por exemplo:
 
@@ -16,7 +16,7 @@ O perfil do usuário deve ser definido levando em conta o maior número possíve
 
 Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e Baseados no TCC da ex aluna da UNB Rafaela da Silva Gomes [1] , método que complementa e orienta a obtenção de novos dados [2].
 
-## Resultados
+## <a>Resultados</a>
 Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário são:
 
 1. Escolaridade;
@@ -77,7 +77,7 @@ A seguir o grafico exibido na figura 6 tem como base as pesquisas que indicam a 
 <br>
 
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] Gomes, R.S. (2016) Análise do perfil do microempreendedor individual mei no DF - unb, Trabalho de conclusao de curso. Available at: https://bdm.unb.br/bitstream/10483/16081/1/2016_RafaelaDaSilvaGomes_tcc.pdf (Accessed: December 8, 2022). 
 
 [2] Cooper, Alan, 1952 - About face 3: the essentials of interaction design

@@ -1,17 +1,17 @@
 # Cenários
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/12/2022|10/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
-## Introdução
+## <a>Introdução</a>
 Cenários são representações do contexto do sistema por meio de histórias de pessoas realizando atividades e são específicos e ricos em detalhes de contexto de uso do aplicativo, incluindo usuários, processos e dados reais ou potenciais. , texto ou narrativa visual. Os cenários não são apenas poderosos, mas também são uma ferramenta importante no processo geral de design de HCI porque representam um investimento de custo e tempo menor em comparação com os protótipos.
 
-## Metodologia
+## <a>Metodologia</a>
 Este projeto utiliza personas para representar situações em que a plataforma pode ser utilizada e para representar problemas enfrentados tanto pela plataforma quanto pelos usuários.
 
-## Representação dos Cenários
+## <a>Representação dos Cenários</a>
 A seguir na Tabela 1 a forma a qual sera representada os cenários.
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -30,7 +30,7 @@ A seguir na Tabela 1 a forma a qual sera representada os cenários.
 Tabela 1 - Representação dos cenários
 </center>
 
-## Cenários
+## <a>Cenários</a>
 
 Nas tabelas a seguir estão representados alguns cenários.<br></br><br>
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -167,5 +167,5 @@ Tabela 11 - Cenário 010
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.

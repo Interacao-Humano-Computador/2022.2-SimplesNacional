@@ -1,6 +1,6 @@
 # Análise de tarefas
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|05/12/2022|1.0|Criação do documento|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|
@@ -8,7 +8,7 @@
 |07/12/2022|07/12/2022|1.2|Adição HTA|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|
 |11/12/2022|11/12/2022|1.3|Ajustes no HTA|[Ana Luiza](https://github.com/AnHoff)|[Thiago](https://github.com/Thiab394)|
 
-## Introdução
+## <a>Introdução</a>
 A análise de tarefas é uma atividade que pode ser realizada em diversas etapas do desenvolvimento, inclusive antes mesmo dele começar. Essa atividade consiste em analisar a situação atual do produto para determinar como cada tarefa é realizada, seja com o apoio de softwares externos ou não. Também é possível realizar a análise após a implementação de intervenções no sistema já existente.
 
 Dois métodos foram escolhidos para realizar a análise de tarefas nesse projeto, são eles:
@@ -16,7 +16,7 @@ Dois métodos foram escolhidos para realizar a análise de tarefas nesse projeto
 * Hierarchical Task Analysis, ou HTA;
 * GOMS, sigla para Goals, Operators, Methods and Selection Rules.
 
-## HTA
+## <a>HTA</a>
 Hierarchical Task Analysis (HTA) ou, em português, Análise Hierárquica de Tarefas (AHT), usa como base as tarefas a serem realizadas a fim de atingir um objetivo do usuário. Abaixo é possível conferir as principais tarefas que um usuário procura utilizar através do Simples Nacional. A listagem foi disponibilizada com base nas propostas de notação textual e gráfica; para entender essa notação, veja o exemplo na figura 1 abaixo:
 <br><br>
 
@@ -29,7 +29,7 @@ Figura 1 - Exemplo de notação gráfica (Fonte: [1])
 
 Nas figuras de 2 a 8 e nas tabelas de 1 a 7 abaixo é possível conferir a execução da análise hierárquica de tarefas.<br><br>
 
-#### Incluir Débito Automático
+#### <a>Incluir Débito Automático</a>
 <center>
 
 <img src="../../assets/analise/objetivo1.png">
@@ -55,7 +55,7 @@ Tabela 1 - Detalhamento de atividades da figura 2
 
 </center><br>
 
-#### Consultar Débito Automático
+#### <a>Consultar Débito Automático</a>
 <center>
 
 <img src="../../assets/analise/objetivo2.png">
@@ -80,7 +80,7 @@ Tabela 2 - Detalhamento de atividades da figura 3
 
 </center><br>
 
-#### Alterar Débito Automático
+#### <a>Alterar Débito Automático</a>
 <center>
 
 <img src="../../assets/analise/objetivo3.png">
@@ -106,7 +106,7 @@ Tabela 3 - Detalhamento de atividades da figura 4
 
 </center><br>
 
-#### Desativar débito automático
+#### <a>Desativar débito automático</a>
 <center>
 
 <img src="../../assets/analise/objetivo4.png">
@@ -131,7 +131,7 @@ Tabela 4 - Detalhamento de atividades da figura 5
 
 </center><br>
 
-#### Visualizar cálculos e declarações
+#### <a>Visualizar cálculos e declarações</a>
 <center>
 
 <img src="../../assets/analise/objetivo5.png">
@@ -154,7 +154,7 @@ Tabela 5 - Detalhamento de atividades da figura 6
 
 </center><br>
 
-#### Pagar on-line
+#### <a>Pagar on-line</a>
 <center>
 
 <img src="../../assets/analise/objetivo6.png">
@@ -177,7 +177,7 @@ Tabela 6 - Detalhamento de atividades da figura 7
 
 </center><br>
 
-#### Solicitar restituição
+#### <a>Solicitar restituição</a>
 <center>
 
 <img src="../../assets/analise/objetivo7.png">
@@ -202,12 +202,12 @@ Tabela 7 - Detalhamento de atividades da figura 8
 
 </center><br>
 
-## GOMS
+## <a>GOMS</a>
 GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, Operators, Methods e Selection Rules. Vamos entender um pouco mais sobre o método GOMS:
 
 É um métodos de análise de tarefas que permite a representação do conhecimento necessário para a realização de uma tarefa por parte de um usuário. Nessas representações podemos encontrar goals que são as metas e submetas que o usuário deseja fazer, operators que são as ações que o software permite que o usuário tome e que são diretamente relacionadas com o dispositivo em si, methods que são sequências claras de goals e operators que permitem o usuário concluir uma tarefa, selection rules que são as regras que o usuário pode seguir para decidir qual método usará para atingir uma goal.
 
-### Objetivos
+### <a>Objetivos</a>
 * Incluir o Débito Automático
 
 1. Method 1: Pelo CNPJ
@@ -368,5 +368,5 @@ GOMS é a abreviação de 4 termos utilizados nesse método, seriam eles Goals, 
         5. OP 1.5: Deslocar o mouse para "Continuar";
         6. OP 1.6: Apertar o botão esquerdo do Mouse;
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010<br>

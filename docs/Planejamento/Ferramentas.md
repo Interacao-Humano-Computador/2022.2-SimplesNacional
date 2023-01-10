@@ -1,6 +1,6 @@
 # Ferramentas
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |14/11/2022|14/11/2022|1.0|Criação do Documento de Ferramentas Utilizadas|[Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
@@ -8,7 +8,7 @@
 |20/11/2022|20/11/2022|1.2|Ajuste das logos que não estavam aparecendo|[Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)|
 |22/11/2022|22/11/2022|1.3|Adição de novas ferramentas| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)|
 
-## Ferramentas
+## <a>Ferramentas</a>
 Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utilizadas no desenvolvimento do presente trabalho e para a apresentação das tarefas realizadas pela equipe.
 
 As ferramentas são ilustradas na tabela 1 abaixo:
@@ -34,7 +34,7 @@ As ferramentas são ilustradas na tabela 1 abaixo:
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 - Wikipedia Contributors (2019). Google Docs. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Google_Docs).
 - Wikipedia Contributors (2019). Canva. [online] Wikipedia. Available at: [Link](https://en.wikipedia.org/wiki/Canva).
 - play.google.com. (n.d.). Google Chrome: Fast & Secure - Apps on Google Play. [online] Available at: [Link](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_CA&gl=US) [Accessed 20 Dec. 2022].‌

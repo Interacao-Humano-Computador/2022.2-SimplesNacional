@@ -1,25 +1,25 @@
 # Modelo de Design
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |22/11/2022|22/11/2022|1.0|Criação do Documento|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|
 
-## Introdução
+## <a>Introdução</a>
 
 Em primeiro momento, é fundamental entender que o processo de design tange as seguintes atividades básicas: análise da situação atual (identificação do problema), síntese de uma intervenção e avaliação dessa intervenção projetada ou já aplicada à situação atual.
 
 É necessário entender que o processo de design é fundamental, visto que cada processo especifica as atividades citadas acima de forma única. Deve-se citar o que é cada atividade, como a executar e quando a executar.
 
-## Objetivo
+## <a>Objetivo</a>
 
 Depois de algumas análises, a equipe decidiu que irá trabalhar com o processo de Engenharia de Usabilidade de Mayhew, também conhecido como o Ciclo de Vida de Mayweh.
 
 Esse documento visa revisar algumas opções levantadas pela equipe e explicar, de forma clara, o motivo de Mayhew ser a primeira opção.
 
-## Modelo de Design
+## <a>Modelo de Design</a>
 
-### Ciclo de Vida de Mayhew
+### <a>Ciclo de Vida de Mayhew</a>
 
 O Ciclo de Mayhew foi proposto por Deborah Mayhew (1999), e está dividido em 3 grandes etapas:
 
@@ -41,7 +41,7 @@ Ilustração do modelo na figura 1:
 Cada tópico será explicado e será exposto um pouco sobre cada uma das etapas.
 <br><br>
 
-#### Análise de Requisitos
+#### <a>Análise de Requisitos</a>
 
 Esta é a primeira fase. Nela ocorre a definição das metas de usabilidade, como ilustrado na figura. Essa definição ocorre através do perfil dos usuários, da análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e dos princípios gerais de design do projeto.
 
@@ -51,7 +51,7 @@ Esta é a primeira fase. Nela ocorre a definição das metas de usabilidade, com
 * **Análise de princípios gerais para o projeto:** pesquisa e catalogação do conhecimento ergonômico disponível para a concepção da interface no tipo de contexto de uso (usuário, tarefa, equipamento e ambiente) no qual o sistema está inserido;
 * **Guia de estilo:** registra todas as decisões tomadas nesta e nas demais fases do desenvolvimento e devem ser registradas em um documento oficial.
 
-####  Projeto, testes e implementação
+#### <a> Projeto, testes e implementação</a>
 
 Na segunda fase, temos o objetivo de criar uma solução baseada nas metas de usabilidade que foram definidas no processo anterior. Derá divida em três niveis, citados logo abaixo.
 
@@ -84,7 +84,7 @@ Na segunda fase, temos o objetivo de criar uma solução baseada nas metas de us
         - Aferir a integração de diferentes interfaces, até agora consideradas individualmente, além de aspectos não essenciais das mesmas;
         - Medir tempos de tarefas e verificar se os valores admissíveis especificados na etapa de análise de requisitos estão sendo alcançados.
 
-#### Instalação
+#### <a>Instalação</a>
 
 A instalação é a terceira etapa a ser realizada, aqui deve-se tocar nos feedbacks do usuário após a utilização do produto por um tempo determinado.
 
@@ -93,9 +93,9 @@ A instalação é a terceira etapa a ser realizada, aqui deve-se tocar nos feedb
     - Detectar e eliminar problemas maiores e preparar uma nova versão do produto;
     - Detectar oportunidades para a melhoria de novas versões do produto e elaborar requisitos para novos produtos similares.
 
-## Motivo de escolha
+## <a>Motivo de escolha</a>
 
 Dos modelos existentes, o ciclo Mayhew foi considerado o mais adequado para o projeto, pois seus artefatos são mais complexos e completos. A equipe acredita que ele será ideal para uso na disciplina de interação humano-computador. Ainda assim, caso necessário, alguns artefatos de outros modelos poderão ser utilizados para complementar alguns processos de projeto, sendo tudo devidamente documentado.
 
-## Bibliografia
+## <a>Bibliografia</a>
 BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

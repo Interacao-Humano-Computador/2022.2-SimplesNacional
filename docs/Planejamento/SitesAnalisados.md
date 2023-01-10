@@ -1,6 +1,6 @@
 # Sites Analisados
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |22/11/2022|22/11/2022|1.0|Criação do Documento|[Pedro Lucas](https://github.com/PedroLSF)|[Ana](https://github.com/AnHoff)|
@@ -10,7 +10,7 @@
 Antes de definir o site conhecido como Simples Nacional, a equipe realizou algumas pesquisas e trabalhos relacionados a outros sites. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
 Caso queira ir diretamente às informações específicas do Simples Nacional, use o menu à lateral direita.
 
-## Caixa
+## <a>Caixa</a>
 A Caixa Econômica Federal, também conhecida como Caixa, é uma instituição financeira brasileira, sob a forma de empresa pública, com patrimônio próprio e autonomia administrativa com sede em Brasília, no Distrito Federal, e com filiais em todo o território nacional. É vinculada ao Ministério da Economia. Sabendo disso todos que abriram uma conta na caixa pode utilizar de seus serviços.
 
 O responsável por essa pesquisa foi o Pedro Lucas. E os seguintes problemas foram encontrados:
@@ -27,7 +27,7 @@ Essas características podem ser vistas no site e na avaliação abaixo.
 Planejamento: [Planejamento Individual - Pedro Lucas](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075960/ProjetoParteIndividualMetodoeAvalicaoPedroLucasSiqueiraFernandes.1.pdf)<br>
 Acesso ao [site](https://www.caixa.gov.br/Paginas/home-caixa.aspx).
 
-## Portal Cidadania da Paraíba
+## <a>Portal Cidadania da Paraíba</a>
 
 O Portal da Cidadania do Governo da Paraíba é um web site que visa facilitar a vida do cidadão que precisa dos serviços e informações da administração pública do Estado da Paraíba. O Portal da Cidadania é fruto de uma parceria entre a CODATA - Companhia de Processamento de Dados do Estado e de vários órgãos e instituições públicas.
 
@@ -42,7 +42,7 @@ Essas características podem ser vistas no site e na avaliação abaixo.
 Planejamento: [Planejamento Individual - Eduardo](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075955/ihc.pdf)<br>
 Acesso ao [site](https://portaldacidadania.pb.gov.br/).
 
-## O Portal do Governo do Amapá
+## <a>O Portal do Governo do Amapá</a>
 
 O portal do governo do amapá é um dos vários sites/portais de governos de estados que atualmente felizmente existem, pois um cidadão de tal estado, visto que estamos na era da tecnologia, normalmente recorre à internet para solucionar seus problemas, e por tal motivo um bom site/portal do governo de estado, com fácil e rápido entendimento e várias ferramentas de suporte ao usuário, é extremamente importante
 
@@ -59,7 +59,7 @@ Porém ao realizar a análise do portal, podemos ver alguns problemas, como a fa
 Planejamento: [Planejamento Individual - Thiago](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10072584/ProjetoParteIndividualMetodoeAvalicaoThiagoOliveraCunha.pdf)<br>
 Acesso ao [site](https://www.portal.ap.gov.br/).
 
-## STF
+## <a>STF</a>
 
 O site do STF tem como proposta disponibilizar acesso às pautas de julgamentos, agenda de processos, ministros e presidente, fornecer informações confiáveis sobre o que acontece no tribunal, propor conhecimento sobre legislações e divulgar pesquisas relacionadas às áreas de atuação do tribunal, além de permitir a marcação de visitas ao STF.
 
@@ -73,7 +73,7 @@ Pode-se dizer que o STF possui um site que fornece boa experiência ao usuário,
 Planejamento: [Planejamento Individual - Ana](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075987/PlojetoParteIndividualMetodoeAvaliacaoAnaLuizaHoffmannFerreira.pdf)<br>
 Acesso ao [site](https://portal.stf.jus.br/).
 
-## Detran
+## <a>Detran</a>
 
 O site analisado foi o portal do Detran-DF, utilizado principalmente por condutores que transitam na capital federal, fornecendo acesso facilitado a serviços como consulta de infrações, consulta da Carteira Nacional de Habilitação, solicitação da permissão de estacionamento para idosos e auto-identificação de infrator.
 
@@ -87,7 +87,7 @@ O site cumpre com os serviços que propõe, apesar de que, excepcionalmente, pos
 Planejamento: [Planejamento Individual - Arthur](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10078125/Arthur.pdf)<br>
 Acesso ao [site](https://portal.detran.df.gov.br/#/home).
 
-## Simples Nacional
+## <a>Simples Nacional</a>
 
 O Simples Nacional é um regime compartilhado de arrecadação, cobrança e fiscalização de tributos aplicável às Microempresas e Empresas de Pequeno Porte, previsto na Lei Complementar nº 123, de 14 de dezembro de 2006. Ele abrange a participação de todos os entes federados (União, Estados, Distrito Federal e Municípios).
 
@@ -115,7 +115,7 @@ O responsável por essa pesquisa foi o João Lucas. Seguem alguns pontos analisa
 Planejamento: [Planejamento Individual - João Lucas](https://github.com/Interacao-Humano-Computador/2022.2SimplesNacional/files/10078239/PlojetoParteIndividualMetodoeAvalicaoJoaoLucasPintoVasconcelos.pdf)<br>
 Acesso ao [site](http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx).
 
-## Conclusão
+## <a>Conclusão</a>
 As avaliações realizadas acima seguem os critérios propostos por Nielsen [2]. Esses critérios foram propostos nas dez heurísticas e sua aplicação na avaliação dos sites escolhidos se conclui em um ponto: todos os sites citados possuem pontos a serem alterados para melhorar sua usabilidade.
 
 O maior requisito para escolher o site para o projeto foi a pergunta: é possível entrar facilmente em contato com usuários desse sistema? Por isso, apesar de todos possuírem bons pontos a serem explorados, o site escolhido para o projeto foi o Simples Nacional.
@@ -124,6 +124,6 @@ Após analisar o site Simples nacional, conclui-se que seu principal problema é
 
 As dificuldades de interação humano computador relacionadas ao Simples Nacional serão abordadas ao longo do projeto e, à medida que o grupo se aprofundar no uso do sistema em busca de problemas, há grande possibilidade de mais obstáculos de interação serem encontrados.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010<br>
 [2] MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina. Avaliação Heurística de Sítios na Web. Universidade Federal Fluminense - UFF, Niterói - RJ

@@ -1,24 +1,24 @@
 # Avaliação do Storyboard
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |20/12/2022|21/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Arthur Taylor](https://github.com/) e [Ana Luiza](https://github.com/AnHoff)|
 
-## Introdução
+## <a>Introdução</a>
 O storyboard é um tipo de protótipo de baixa fidelidade que consiste em uma série de desenhos que demonstram como o usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os [storyboards](PlanejamentoAvStoryboard.md) criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam o objetivo de "Realizar o pagamento do DAS".
 
-## Objetivo
+## <a>Objetivo</a>
 O objetivo desta avaliação é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários do Simples Nacional. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas e questionario podem ser verificadas no [planejamento da avaliação](PlanejamentoAvStoryboard.md) dos storyboards.
 
-## Metodologia
+## <a>Metodologia</a>
 A avaliação por observação fornece dados sobre como os usuários interagem e reagem aos recursos apresentados, com ou sem suporte para sistemas interativos. Esse método [1] expõe o visualizador a experiências de um usuário do mundo real, para que possam ser identificados problemas reais. 
 
 A observação é seguida por uma entrevista, constituindo-se de um questionário no qual os avaliadores devem responder com base nas respostas do leitor, visando complementar as respostas de forma mais concreta como, por exemplo, saber se o(s) ator(es) se encaixam dentro do esperado de um usuário real do Simples Nacional e confirmar os resultados obtidos. A pesquisa foi criada no Microsoft Forms e seu conteúdo é mostrado na Tabela 1 abaixo. 
 
 
-## Teste-Piloto
+## <a>Teste-Piloto</a>
 Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no papel de entrevistador e o outro no papel de entrevistado.<br>
 <center>
 
@@ -45,8 +45,8 @@ Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no 
 
 </center>
 
-## Conclusão
+## <a>Conclusão</a>
 Após realizado a entrevista, pode-se perceber que os usuários selecionados e que participaram do projeto, declararam estar de acordo com as situações ilustradas pelos storyboards. Conclui-se, então, que a equipe possui um entendimento correto sobre a usabilidade do site do simples nacional e pode prosseguir com as avaliações para propor melhorias de design à plataforma.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

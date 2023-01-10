@@ -1,22 +1,22 @@
 # Verificação da Etapa 1 do Projeto
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |18/12/2022|19/12/2022|1.0|Criação do Documento| [Thiago Oliveira](https://github.com/Thiab394) e [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)|
 |27/12/2022|28/12/2022|1.1|Troca do Documento de "Teste Piloto" para "Verificação da Etapa 1 do Projeto|[Thiago Oliveira](https://github.com/Thiab394)| [Eduardo](https://github.com/edudsan) |
 
-## Introdução
+## <a>Introdução</a>
 Na realização da verificação da primeira etapa do Projeto, que engloba as etapas de [Planejamento da Avaliação da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoAvStoryboard/),[Planejamento do Relato dos Resultados da Analise de tarefas](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/),[Planejamento do Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoRelatoResuStoryboard/) ,os membros Thiago Oliveira e Pedro Lucas fizeram uma simulação de entrevista utilizando personas a fim de entender os pontos falhos das entrevistas. Obteve-se assim respostas sobre como potencializar as entrevistas para gerar melhores resultados para o avanço do projeto.
 
 Após as gravações, foram levantadas ideias de alterações e resultados, que estão contidas nesse documento e foram levadas para debate interno do grupo. 
 
-## Gravação da Verificação
+## <a>Gravação da Verificação</a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdLhP_vi53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Resultados
-### Preparação para a Entrevista
+## <a>Resultados</a>
+### <a>Preparação para a Entrevista</a>
 Antes do início da simulação, foi notado uma perda de tempo entre os membros que corresponde em média de 30 minutos. O problema com a gestão do tempo decorreu da estruturação de alguns arquivos e obtenção de outros.
 
 Sabendo disso, foram levantados os arquivos que devem estar obrigatoriamente em mãos antes da entrevista. Os documentos necessários estão listados abaixo.
@@ -46,7 +46,7 @@ Sabendo disso, foram levantados os arquivos que devem estar obrigatoriamente em 
 
 É importante destacar que o storyboard deve estar aberto para o entrevistado. No entanto, o questionário será exclusivamente do entrevistador.
 
-### Mudanças
+### <a>Mudanças</a>
 Após analisar o teste piloto, a equipe decidiu que seria ideal tomar algumas medidas para otimizar os resultados. 
 
 Com isso em mente, foram feitas algumas mudanças no [questionário do storyboard](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Avaliacoes/Storyboard/PlanejamentoAvStoryboard/):
@@ -71,7 +71,7 @@ Com relação ao entrevistador:
 
 Os questionários serão alterados e o grupo será capacitado para realizar as entrevistas de forma adequada.
 
-## Bibliografica
+## <a>Bibliografica</a>
 
 [1] Projeto de Interação-Humano-Computador da Agência Virtual Neoenergia Brasil - Teste Piloto, disponivel em: https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/analise_de_requisitos/aspectos_eticos/. Acesso em: 18 dez. 2022.
 

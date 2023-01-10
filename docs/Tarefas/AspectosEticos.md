@@ -1,11 +1,11 @@
 # Aspectos Éticos de Pesquisas Envolvendo Pessoas
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |07/12/2022|07/12/2022|1.0|Criação do documento| [Thiago](https://github.com/Thiab394) | [Arthur Taylor](https://github.com/Eruel6) |
 
-## Introdução
+## <a>Introdução</a>
 É responsabilidade da equipe de design proteger o bem-estar físico e psicológico dos participantes de qualquer estudo seja ele cientifico, acadêmico, etc. 
 
 De acordo com a Resolução No 466 de 12 de dezembro de 2012 do Conselho Nacional de Saúde, que regulamenta as pesquisas científicas envolvendo pessoas,e com os 4
@@ -36,7 +36,7 @@ de danos e riscos;
  - Relevância social da pesquisa, o que garante a igual consideração dos interesses
 envolvidos, não perdendo o sentido de sua destinação sócio-humanitária. 
 
-## Termo de Consentimento
+## <a>Termo de Consentimento</a>
 A participação na pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes, tal consentimento deve ser concedido
 a partir de um Termo de Consentimento meticulsamente escrito pelo(s) responsavel(s) pela pesquisa.
 
@@ -44,13 +44,13 @@ Tal termo deve seguir uma série de regras e levar em consideração diversas si
 tem-se novamente, alguns fundamentos e tópicos á serem seguidos, tais tópicos e fundamentos que tem algum tipo de relação com a pesquisa sendo feita na
 disciplina de Interação Humano Computador e no Projeto do Simples Nacional, será mostrada á seguir:
 
-### **IV**
+### <a>**IV**</a>
 
 <center>
 <t1> **Processo de Consentimento Livre e Esclarecido** </t1>
 </center>
 
-#### IV.1 
+#### <a>IV.1 </a>
 - A etapa inicial do Processo de Consentimento Livre e Esclarecido é a do esclarecimento ao convidado a participar da pesquisa, ocasião em que o pesquisador,ou pessoa por ele delegada e sob sua responsabilidade, deverá:
  - Buscar o momento, condição e local mais adequados para que o esclarecimento
 seja efetuado, considerando, para isso, as peculiaridades do convidado a participar
@@ -61,10 +61,10 @@ convidados a participar da pesquisa; e
  - Conceder o tempo adequado para que o convidado a participar da pesquisa possa
 refletir, consultando, se necessário, seus familiares ou outras pessoas que possam
 ajudá-los na tomada de decisão livre e esclarecida.
-#### IV.2 
+#### <a>IV.2 </a>
 - Superada a etapa inicial de esclarecimento, o pesquisador responsável, ou pessoa por ele delegada, deverá apresentar, ao convidado para participar da pesquisa, ou a seu representante legal, o Termo de Consentimento Livre e Esclarecido para que seja lido e compreendido, antes da concessão do seu consentimento livre e esclarecido. 
 
-#### IV.3 
+#### <a>IV.3 </a>
 * O Termo de Consentimento Livre e Esclarecido deverá conter, obrigatoriamente: 
     - Justificativa, os objetivos e os procedimentos que serão utilizados na pesquisa,
 com o detalhamento dos métodos a serem utilizados, informando a possibilidade de
@@ -89,7 +89,7 @@ tidas pelos participantes da pesquisa e dela decorrentes; e
     - Explicitação da garantia de indenização diante de eventuais danos decorrentes da
 pesquisa. 
 
-#### IV.4 
+#### <a>IV.4 </a>
 * O Termo de Consentimento Livre e Esclarecido deverá, ainda:
     - Conter declaração do pesquisador responsável que expresse o cumprimento das
 exigências contidas nos itens IV. 3 e IV.4, este último se pertinente;
@@ -107,7 +107,7 @@ delegada (s), devendo as páginas de assinaturas estar na mesma folha. Em ambas
 as vias deverão constar o endereço e contato telefônico ou outro, dos responsáveis
 pela pesquisa e do CEP local e da CONEP, quando pertinente. 
 
-## Bibliografia
+## <a>Bibliografia</a>
 CONSELHO NACIONAL DE SAÚDE. Minitério da Saúde. RESOLUÇÃO Nº 466, DE 12 DE DEZEMBRO DE 2012. [S. l.], 2012. 
 Disponível em: https://www.inca.gov.br/sites/ufu.sti.inca.local/files//media/document//resolucao-cns-466-12.pdf. Acesso em: 7 dez. 2022.
 

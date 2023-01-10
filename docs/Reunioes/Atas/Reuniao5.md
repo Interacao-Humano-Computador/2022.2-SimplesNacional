@@ -1,16 +1,16 @@
 # 5ª Reuniao
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |22/12/2022|23/12/2022|1.0|Criação da ata de reunião 10/12/2022|[Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
 
 
-## Local e horário
+## <a>Local e horário</a>
 
 A reunião foi realizada de forma remota no dia 10 de Dezembro de 2022, tendo início às 19:11h e sendo finalizada às 19:20h, utilizando a prataforma Microsoft Teams.
 
-## Presentes
+## <a>Presentes</a>
 
 - Ana Luiza Hoffmann
 - Arthur Taylor
@@ -18,18 +18,18 @@ A reunião foi realizada de forma remota no dia 10 de Dezembro de 2022, tendo in
 - João Lucas
 - Pedro Lucas Fernandes
 
-## Objetivo
+## <a>Objetivo</a>
 Definição dos responsáveis pelas tarefas da próxima entrega da disciplina.
 
-## Gravação
+## <a>Gravação</a>
 
 <center>
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/Q6v778ikpow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## Definições
+## <a>Definições</a>
 
-### Artefatos e Responsaveis
+### <a>Artefatos e Responsaveis</a>
 Os artefatos e seus respectivos responsáveis podem ser conferidos na tabela 1:
 
 <center>

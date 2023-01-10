@@ -1,16 +1,16 @@
 # Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 
-## Introdução
+## <a>Introdução</a>
 
 Sistemas interativos de qualidade precisam passar por avaliações de interação humano-computador para obter informações sobre o grau de satisfação das necessidades dos usuários. Com a realização da avaliação, é possível promover a identificação de problemas de capazes de prejudicar a interação do usuário com o sistema.
 
-## Cronograma
+## <a>Cronograma</a>
 
 Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 2, ambos usuários reais, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
 
@@ -28,7 +28,7 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 </center>
 
-## Protótipo de Alta Fidelidade
+## <a>Protótipo de Alta Fidelidade</a>
 
 Um protótipo de alta fidelidade apresenta um produto parecido com o produto final, 
 
@@ -61,7 +61,7 @@ No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem reali
 
 </center> -->
 
-## Metodologia
+## <a>Metodologia</a>
 
 O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que ele propõe uma boa opção de estruturação de avaliações, seguindo as definições do acrônimo. Confira abaixo os tópicos inclusos no DECIDE.
 
@@ -74,7 +74,7 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 
 O método de avaliação escolhido para lidar com o protótipo de alta fidelidade foi o teste de usabilidade, uma forma de avaliação por observação. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-## Objetivos
+## <a>Objetivos</a>
 
 Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
 
@@ -83,11 +83,11 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 * Conformidade com um padrão;
 * Problemas na interação e na interface.
 
-## Tarefas
+## <a>Tarefas</a>
 
 Os usuários deverão realizar uma tarefa, sendo ela "ativar débito automático". Para isso, haverão alguns passos a serem seguidos.
 
-### A1: Ativar Débito Automático
+### <a>A1: Ativar Débito Automático</a>
 
 **Dados necessários:**
 
@@ -108,7 +108,7 @@ Os usuários deverão realizar uma tarefa, sendo ela "ativar débito automático
 8. Confirmar formulário;
 9. Clicar no check de confirmação final.
 
-### A2: Solicitar Restituição
+### <a>A2: Solicitar Restituição</a>
 
 **Dados necessários:**
 
@@ -128,7 +128,7 @@ Os usuários deverão realizar uma tarefa, sendo ela "ativar débito automático
 7. Confirmar formulário;
 8. Clicar no check de confirmação final.
 
-## Método de Avaliação
+## <a>Método de Avaliação</a>
 
 O teste de usabilidade foi escolhido como método de avaliação adequado para o Protótipo de Alta Fidelidade. Esse método será realizado por meio da plataforma Microsoft Teams ou, caso possível, de forma presencial e possui a participação de 3 pessoas, sendo um usuário e dois observadores.
 
@@ -186,11 +186,11 @@ Os questionários serão desenvolvidos no Microsoft Forms e podem ser conferidos
 
 </center>
 
-## Aspectos Éticos
+## <a>Aspectos Éticos</a>
 
 Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
-## Interpretação
+## <a>Interpretação</a>
 
 A interpretação é um tópico subjetivo e muito variável, não havendo um método fixo para realizá-la. Apesar disso, para guiar o avaliador, foram sugeridos alguns tópicos que devem ser refletidos durante a interpretação dos resultados, são eles:
 
@@ -200,10 +200,10 @@ A interpretação é um tópico subjetivo e muito variável, não havendo um mé
 * As respostas foram diretas ou subjetivas? Houveram muitas histórias contadas pelo usuário durante as respostas?
 * Ainda de acordo com as respostas, pode-se concluir que o usuário tem uma boa relação com o Simples Nacional?
 
-## Avaliação dos Resultados
+## <a>Avaliação dos Resultados</a>
 
 Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de [Planejamento do Relato de Resultados](PlanejamentoRelatoResuProtAlta.md). A partir dos resultados relatados, serão implementadas melhorias no protótipo de alta fidelidade para que ele atenda ao máximo os desejos e necessidades dos usuários finais.
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

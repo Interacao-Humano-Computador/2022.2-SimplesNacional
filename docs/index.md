@@ -1,24 +1,15 @@
----
-hide:
-  - navigation
-  - toc
----
-# Projeto
-
 <center>
-<h1 align="center">
-Simples Nacional
-</h1>
 
- <p align="center">
-  <img src="assets/images/favicon.png" alt="MedSus" width="10%" />
-</p> 
+# <a>Simples Nacional</a>
 
-## Sobre o projeto
+  <img src="assets/images/favicon.png" alt="MedSus" width="20%" />
+
+
+## <a>Sobre o projeto</a>
 Este repositório destina-se à matéria de Interação Humano Computador da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [Simples Nacional](https://www8.receita.fazenda.gov.br/SimplesNacional/), aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade.
 
 
-## Equipe
+## <a>Equipe</a>
 Apresentação da equipe na Tabela 1 :
 
 |Foto | Nome| GitHub| E-mail| 
@@ -32,7 +23,7 @@ Apresentação da equipe na Tabela 1 :
 
 *Tabela 1 - Equipe*
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |20/11/2022|20/11/2022|1.0|Criação da pagina Home|[Joao Lucas](https://github.com/HacKairos)|[Thiago Olivera](https://github.com/Thiab394)|

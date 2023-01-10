@@ -1,15 +1,15 @@
 # Princípios Gerais
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2022|12/11/2022|1.0|Criação do Documento de Políticas| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo Santos](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)|
 |20/11/2022|21/11/2022|1.1|Adiciona aplicação dos princípios no projeto|[Eduardo Santos](https://github.com/edudsan)|[Arthur Taylor](https://github.com/Eruel6) |
 
-## Introdução
+## <a>Introdução</a>
 Os princípios gerais do projeto são fundamentais para o desenvolvimento do projeto. Esses princípios geralmente são utilizados como roteiro para a elaboração e aperfeiçoamento do projeto selecionado [1]. Os princípios gerais usados estão ligados as seguintes partes: 
 
-## Princípios Gerais
+## <a>Princípios Gerais</a>
 **• Encontrabilidade:** é como o usuário consegue obter informações dispostas no site, seja para o usuário que está fora do site ou para o usuário que já está navegando no site. 
 
 **• Projetar para erros:** é projetar um sistema assumindo que qualquer erro pode ser cometido. O designer tem que oferecer uma saída para o usuário para que ele consiga se recuperar do erro, dando-lhe informações acerca do que aconteceu, as consequências que isso acarreta e como reverter o erro. Um sistema que não é planejado para reverter os erros, faz com que os usuários fiquem receosos ao tomar decisões sobre uma tarefa; dessa forma, o tempo para realizar a tarefa será maior que o esperado. 
@@ -20,21 +20,21 @@ Os princípios gerais do projeto são fundamentais para o desenvolvimento do pro
 
 **• Padronização:** é fundamental que o projeto esteja padronizado. Deve-se manter o modelo conceitual embutido no sistema, deixando o usuário confortável ao utilizar a plataforma e não ter dúvidas devido a estruturas diferentes. [2]
 
-## Aplicação dos princípios no projeto
+## <a>Aplicação dos princípios no projeto</a>
 
-### • Conteúdo Relevante e Expressão Adequada
+### <a>• Conteúdo Relevante e Expressão Adequada</a>
 
 Podemos perceber no site do Simples Nacional, possui botões que não são muito intuitivos, como no caso da chave que aparece em referência para fazer login utilizando o código de acesso. Desse modo acaba não sendo muito claro o que deve ser feito
 
-### • Correspondência com as Expectativas dos Usuários
+### <a>• Correspondência com as Expectativas dos Usuários</a>
 
 No site do Simples Nacional possui dois tipos de menus com praticamente as mesmas funcionalidades, ondo quando realiza login no menu "Simples" o usuário é redirecionado para uma página com estilos diferentes de quando se loga no menu "Simei".
 
-### • Consistência e padronizção
+### <a>• Consistência e padronizção</a>
 
 Conforme o usuário acessa algum menu, seja o "Simples" ou o "Simei", os botões de deslogar possuem símbolos diferentes. A logo do Simples Nacional perde a função de levar para a página inicial quando se loga em algum menu. Dessa forma o usuário acaba tendo dificuldade de entender o que fazer em determinadas páginas.
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. 1ª. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). 
 
