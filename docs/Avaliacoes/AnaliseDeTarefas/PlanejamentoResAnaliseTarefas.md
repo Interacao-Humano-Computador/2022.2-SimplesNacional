@@ -22,7 +22,7 @@ Para realizar o método de entrevista, será selecionado(a) pelo grupo um(a) ou 
 [perfil do usuário](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/perfilUsuario/) levantado no
 projeto, e a partir dai, realizar as perguntas confeccionadas para tal método e tomar notas de acordo com as respostas obtidas, já no método de percurso cognitivo
 o(s) participante(s) deste método seria(m) o(s) próprio(s) pesquisador(es), onde ele se coloca no lugar do usuário e faz o traçado de todas as tarefas realizadas pelo mesmo.
-## <a>Relato dos Resultados</a>
+## <a>Roteiro das Questões para Avaliação da Analise de Tarefas</a>
 Antes de iniciar a avaliação, é necessário que o Entrevistador mostre para o entrevistado o documento de 
 [Aspectos Éticos](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/AspectosEticos/), onde se encontra todos os termos éticos
 que devem ser seguidos pelo projeto e pelos pesquisadores, e também o próprio termo de consentimento que terá que ser elaborado para a fase de analise de tarefas
@@ -70,9 +70,52 @@ A partir desta questão entramos na parte mais especifica, das perguntas destina
 elaboradas com isso em mente, fazendo com que todas as perguntas a partir desta, busquem dizer se os diagramas realizados com suas interações entre si e no
 próprio diagrama isolado, estão condizentes com a realidade, referente a como aquela atividade descrita no diagrama é realizada no próprio site do SimplesNacional,
 tal questionamento/duvida sendo sanada a partir da resposta do usuário entrevitado, após receber instruções sobre as funções e interações de cada diagrama de analise de tarefas.
+
+## Roteiro para Relato dos Resultados
+
+Os tópicos que serão apresentados a seguir deverão estar explícitos na avaliação.
+
+### <a>Objetivos</a>
+
+O objetivo da avaliação deve estar descrito no documento e, não menos importante, deve ter sido compreendido pelos participantes da avaliação. Deve-se conter informações sobre como o usuário alcançou o objetivo, assim como justificativas sobre o porquê ele(a) não o alcançou, caso seja necessário.
+
+### <a>Participantes</a>
+
+Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../Tarefas/perfilUsuario.md) definido.
+
+### <a>Metodologia da Avaliação</a>
+
+O relato de resultados deve ter a metodologia utilizada esclarecida e as respostas presentes no(s) questionário(s) devem estar listadas no documento. Caso o questionário esteja incompleto ou apresente respostas negativas, deve-se incluir considerações sobre porquê o usuário respondeu negativamente ou preferiu não responder alguma questão.
+
+### <a>Tarefas</a>
+
+As tarefas a serem realizadas pelo(s) participante(s) devem estar também esclarecidas no relato dos resultados. Isso inclui a descrição das tarefas dos avaliadores e dos avaliados.
+
+### <a>Interpretação</a>
+
+A interpretação dos dados deve ser feita para garantir um bom relato de resultados. Tópicos sugeridos para realizar essa etapa se encontram no documento de [planejamento](PlanejamentoProtPapel.md).
+
+### <a>Problemas</a>
+
+Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no Prototipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
+
+### <a>Sugestões</a>
+
+Sugestões de melhorias e/ou correções de problemas existentes mencionadas pelo(s) usuário(s) avaliado(s) também devem ser listadas.
+
 ## <a>Conclusão</a>
 A partir de tal documento temos de certa forma um "roteiro" de como se obter os resultados referentes a avaliação da analise de tarefas, e como e quando utiliza-los
-da melhor forma possivel, sendo tais caracteristicas tanto para o método da entrevista, quanto para o método do percurso cognitivo.
+da melhor forma possivel, sendo tais caracteristicas tanto para o método da entrevista, quanto para o método do percurso cognitivo.<br></br>
+**Os avaliadores devem relatar suas constatações consolidadas por meio de documentação contendo:**
+
+- Os objetivos e o escopo da avaliação;
+- A forma como a avaliação foi realizada (método de avaliação empregado);
+- O número e o perfil de usuários e avaliadores que participaram da avaliação;
+- Um sumário dos dados coletados, incluindo tabelas e gráficos;
+- Um relato da interpretação e análise dos dados;
+- Uma lista dos problemas encontrados;
+- Sugestões de melhorias para o sistema. [1]
+
 ## <a>Bibliografia</a>
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 [2] https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/DesignAvaliacaoDesenvolvimento/nivel1/planejamentoResultadosAnalisedeTarefas/
